@@ -1,0 +1,1 @@
+../01_genome_assemblies/assembly_accessions.txt

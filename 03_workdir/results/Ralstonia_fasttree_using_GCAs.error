@@ -1,0 +1,12 @@
+Smartmatch is experimental at /data/djs217/miniconda3/envs/phame_env/bin/../lib/misc_funcs.pm line 26.
+mv: cannot stat '/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/*.snps': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/*.gaps': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/*_snp_INDEL.txt': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/*_gaps.txt': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/*.coords': No such file or directory
+Ignored unknown character K (seen 8 times)
+Ignored unknown character M (seen 5 times)
+Ignored unknown character R (seen 3 times)
+Ignored unknown character S (seen 8 times)
+Ignored unknown character W (seen 1 times)
+Ignored unknown character Y (seen 2 times)

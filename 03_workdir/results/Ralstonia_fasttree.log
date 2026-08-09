@@ -1,0 +1,553 @@
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291131 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291131.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291131.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CCRMRsB7.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291194 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CCRMRsB7.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CCRMRsB7.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291194.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291194.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw488.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291264 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw488.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw488.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291264.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291264.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh012.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291381 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh012.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh012.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291381.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291381.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS488.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291469 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS488.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS488.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291469.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291469.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS2.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291564 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS2.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS2.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291564.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291564.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh00002.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291619 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh00002.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh00002.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291619.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291619.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw551.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291715 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw551.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw551.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291715.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291715.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/19_3PR_UW348.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291810 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/19_3PR_UW348.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/19_3PR_UW348.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291810.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291810.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CFIA906.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1291905 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CFIA906.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CFIA906.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1291905.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1291905.coords
+
+Repeat coords for all references found.
+Self-NUCmer complete
+==================================================================
+Aligning to the reference genome /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029219985_1_ASM2921998v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CCRMRsB7
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_uw488
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UACh012
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS488
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS2
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UACh00002
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_uw551
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_19_3PR_UW348
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CFIA906
+
+NUCmer on all reference genomes complete.
+==================================================================
+
+runContigNUCmer.pl -r /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna -q /data/djs217/PROJECTS/45_ralstonia/03_workdir -d /data/djs217/PROJECTS/45_ralstonia/03_workdir/results -l /data/djs217/PROJECTS/45_ralstonia/03_workdir/contigs_list.txt -t 1 -y 2 2>>/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree.error >> /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree.log
+
+
+Using given reference:  /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UMN24_1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CIAT_078_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Rs5_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106252_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_724005_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS26_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_1202_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_EP1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_724001_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106269_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NCSU_Rs32_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311908_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311895_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106209_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211267_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_1331_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106254_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T101_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN3223_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211282_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Gazipur_5_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL2312_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106258_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311874_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311873_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CFBP_8697_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311883_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GMI1000_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_INTABV18_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RalTom1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311884_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_1122_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311880_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW163_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311878_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211520_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Cw717_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_A2_HR_MARDI_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106257_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_P597_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS639_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_BDBR229_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311889_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311892_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Gj707_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_107632_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311876_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL2064_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311888_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_BA7_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS642_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW559_UCD729_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211521_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UA_1611_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_331041_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211271_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311909_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS_476_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NIB_Z_3685_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_IBSBF1503_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_724003_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311800_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN3149_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311879_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL3175_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_AHR56_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW606_UCD721_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MolK2_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW386_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106208_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106265_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_331046_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T11_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106210_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311897_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_FQY_4_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CIP417_UW70_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NCPPB_3727_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN6285_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN2161_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_077_080_1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW602_UCD737_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311907_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311896_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311872_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106266_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_1338_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106268_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311886_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311877_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_P673_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UMN24_2_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MSG_1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106245_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_PeaFJ1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106263_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311894_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_724002_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106217_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_331042_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311887_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UA_1612_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_YLqk_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T98_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_144_1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_R24_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_724010_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106204_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN6340_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106251_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW72_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL3022_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS647_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311902_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106253_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_INTABV29_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN6534_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T523_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_INTABV624_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106260_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_LcA12172_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_301524_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UY031_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_1956_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106218_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW605_UCD733_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106261_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW608_UCD723_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106205_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS848_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311906_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311910_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_PSS4_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_LMG_9673_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311890_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311882_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106207_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW763_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CQPS_1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_1200_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106256_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Br19_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311871_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS650_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CFBP_8695_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311931_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106244_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311885_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NCSU_RsMR_FL01_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_724008_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T82_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UA_1591_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Sw698_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211266_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T95_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106215_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NCPPB_3728_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_XZqk_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_KACC_10722_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UA_1609_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_1172_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_DG_3_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CFBP2957_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_PSI07_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN2340_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_115_4_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_IBSBF_2571_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311870_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN2474_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UGMSS_Db01_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311893_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_095_3_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311881_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UGMSLYSS_Db01_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106259_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW251_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MLY158_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106206_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106216_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_3080_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_724009_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Po82_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_INTABV2657_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN2279_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106214_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106267_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS_488_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311771_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311869_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311898_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106211_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311891_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_301069_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T51_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106255_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NCSU_Rs45488_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311900_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UA_1579_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_068_2_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NCPPB_3725_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS638_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL1931_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106212_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311855_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN0320_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211268_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_071_2_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN6499_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_XCqk_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106264_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211519_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW607_UCD722_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_102_3_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311901_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN5935_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T12_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_EN1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311772_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311875_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_211269_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_724004_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UA_1617_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_PD_7123_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS_489_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GBBC_1341_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_311899_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Gazipur_4_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_LLRS_1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_AGQB_112_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW609_UCD734_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF_106213_contig
+NUCmer on all contig/draft genomes complete.
+
+Empty Gap Files: /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/gaps/GCA_029219985_1_ASM2921998v1_genomic_MolK2_contig.gaps
+
+buildSNPDB.pl -i /data/djs217/PROJECTS/45_ralstonia/03_workdir/results -r /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna -l /data/djs217/PROJECTS/45_ralstonia/03_workdir/working_list.txt -p Ralstonia_fasttree -c 0 -g 0.1 2>>/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree.error >> /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree.log
+
+Reading Gaps file.
+NCPPB_3727_contig covered 0.71150 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211519_contig covered 0.75890 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311900_contig covered 0.75951 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106258_contig covered 0.75595 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCSU_Rs32_contig covered 0.82768 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_724008_contig covered 0.75887 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311877_contig covered 0.76111 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211266_contig covered 0.75843 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_3725_contig covered 0.71150 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP_8697_contig covered 0.84514 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UA_1579_contig covered 0.84943 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+077_080_1_contig covered 0.88571 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+XZqk_contig covered 0.73116 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106212_contig covered 0.75611 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IBSBF_2571_contig covered 0.88145 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+102_3_contig covered 0.88424 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+LcA12172_contig covered 0.76223 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311884_contig covered 0.75402 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP2957_contig covered 0.85693 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+INTABV29_contig covered 0.86039 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PSS4_contig covered 0.77413 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+INTABV2657_contig covered 0.85185 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL1931_contig covered 0.75823 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RalTom1_contig covered 0.76376 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+R24_contig covered 0.72416 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_331041_contig covered 0.75185 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106204_contig covered 0.76370 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311875_contig covered 0.75606 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_724001_contig covered 0.75613 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311890_contig covered 0.75875 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+AGQB_112_contig covered 0.75708 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL3175_contig covered 0.78225 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UGMSLYSS_Db01_contig covered 0.70529 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T12_contig covered 0.76473 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106251_contig covered 0.75415 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NIB_Z_3685_contig covered 0.75713 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CIP417_UW70_contig covered 0.88440 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311855_contig covered 0.75542 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS26_contig covered 0.75854 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_3080_contig covered 0.76536 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Br19_contig covered 0.72398 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106210_contig covered 0.76118 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UA_1617_contig covered 0.88185 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN6285_contig covered 0.77450 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Gazipur_5_contig covered 0.76704 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211269_contig covered 0.75460 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106255_contig covered 0.75292 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311871_contig covered 0.76371 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN2474_contig covered 0.75020 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_724005_contig covered 0.75414 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311902_contig covered 0.75873 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T11_contig covered 0.76615 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T98_contig covered 0.78225 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311878_contig covered 0.75622 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UA_1611_contig covered 0.81862 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN3223_contig covered 0.77413 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106260_contig covered 0.75614 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+FQY_4_contig covered 0.75960 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106257_contig covered 0.75974 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+LLRS_1_contig covered 0.78753 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311892_contig covered 0.75609 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS650_contig covered 0.76868 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UMN24_1_contig covered 0.75719 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_107632_contig covered 0.75600 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS639_contig covered 0.76234 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL2312_contig covered 0.76473 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW251_contig covered 0.85959 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106244_contig covered 0.75415 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL2064_contig covered 0.77174 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Gazipur_4_contig covered 0.75899 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+REPEATS covered 0.97100 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311894_contig covered 0.75663 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS488 covered 0.88713 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311772_contig covered 0.75532 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN5935_contig covered 0.76492 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311873_contig covered 0.76006 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS647_contig covered 0.75887 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UACh00002 covered 0.88325 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_1172_contig covered 0.75592 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211267_contig covered 0.75817 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311876_contig covered 0.75612 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UACh012 covered 0.87312 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS_contig covered 0.75293 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_724009_contig covered 0.75856 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCSU_Rs45488_contig covered 0.82502 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106259_contig covered 0.75605 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311880_contig covered 0.75606 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS_476_contig covered 0.77265 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN6340_contig covered 0.77450 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Cw717_contig covered 0.74646 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+068_2_contig covered 0.88571 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MLY158_contig covered 0.76062 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+LMG_9673_contig covered 0.74546 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311910_contig covered 0.75925 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T51_contig covered 0.76618 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311879_contig covered 0.76095 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+071_2_contig covered 0.88574 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN2340_contig covered 0.75556 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T523_contig covered 0.76457 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106264_contig covered 0.76024 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS_488_contig covered 0.87826 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211521_contig covered 0.75506 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW609_UCD734_contig covered 0.76764 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_724003_contig covered 0.75952 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+144_1_contig covered 0.88457 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN6534_contig covered 0.77420 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN2279_contig covered 0.74806 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311800_contig covered 0.75603 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029219985_1_ASM2921998v1_genomic covered 0.99998 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106253_contig covered 0.75369 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW606_UCD721_contig covered 0.76760 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW608_UCD723_contig covered 0.76763 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106256_contig covered 0.75536 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+P597_contig covered 0.85658 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EP1_contig covered 0.77859 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311882_contig covered 0.75960 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_1200_contig covered 0.76676 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UY031_contig covered 0.87826 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GMI1000_contig covered 0.77247 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211268_contig covered 0.75925 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS_489_contig covered 0.87812 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106214_contig covered 0.75606 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_331046_contig covered 0.74730 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+uw488 covered 0.88865 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW163_contig covered 0.88560 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+DG_3_contig covered 0.77102 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106215_contig covered 0.75606 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T95_contig covered 0.77194 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+095_3_contig covered 0.88424 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_1341_contig covered 0.75954 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN2161_contig covered 0.77558 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311891_contig covered 0.75523 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106267_contig covered 0.75286 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311889_contig covered 0.75688 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311908_contig covered 0.76085 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Rs5_contig covered 0.81950 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211282_contig covered 0.76370 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PSI07_contig covered 0.77205 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311872_contig covered 0.75954 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+AHR56_contig covered 0.82219 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW72_contig covered 0.85882 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311901_contig covered 0.75925 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106265_contig covered 0.75622 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311898_contig covered 0.75549 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UMN24_2_contig covered 0.75713 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T101_contig covered 0.76444 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106209_contig covered 0.75603 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UA_1591_contig covered 0.88072 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+A2_HR_MARDI_contig covered 0.69904 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UA_1612_contig covered 0.79319 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UGMSS_Db01_contig covered 0.71148 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MSG_1_contig covered 0.73797 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106217_contig covered 0.75033 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS2 covered 0.81635 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311931_contig covered 0.75829 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EN1_contig covered 0.76737 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+INTABV18_contig covered 0.86039 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+uw551 covered 0.87905 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311886_contig covered 0.75296 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311897_contig covered 0.75607 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106261_contig covered 0.75855 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+P673_contig covered 0.89817 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+19_3PR_UW348 covered 0.90462 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+115_4_contig covered 0.88574 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106252_contig covered 0.75291 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_331042_contig covered 0.75522 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_724002_contig covered 0.75952 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFIA906 covered 0.88926 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW602_UCD737_contig covered 0.76785 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_1202_contig covered 0.76669 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IBSBF1503_contig covered 0.89037 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_301069_contig covered 0.75886 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106218_contig covered 0.76151 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Sw698_contig covered 0.74219 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311883_contig covered 0.75336 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_1956_contig covered 0.74405 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN3149_contig covered 0.76596 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PD_7123_contig covered 0.76536 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106206_contig covered 0.75492 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106211_contig covered 0.75951 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311907_contig covered 0.75099 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_1338_contig covered 0.72995 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PeaFJ1_contig covered 0.76129 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106268_contig covered 0.75927 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311870_contig covered 0.75435 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL3022_contig covered 0.77081 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311895_contig covered 0.75888 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CIAT_078_contig covered 0.87716 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311899_contig covered 0.75689 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS848_contig covered 0.75964 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106245_contig covered 0.75422 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN0320_contig covered 0.76493 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Gj707_contig covered 0.75852 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T82_contig covered 0.76473 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106266_contig covered 0.75404 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311881_contig covered 0.75836 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+INTABV624_contig covered 0.85166 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106263_contig covered 0.75811 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BDBR229_contig covered 0.71149 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CQPS_1_contig covered 0.76063 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+YLqk_contig covered 0.69903 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106208_contig covered 0.75611 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106216_contig covered 0.75606 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW559_UCD729_contig covered 0.76767 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_724004_contig covered 0.75608 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS638_contig covered 0.76893 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106254_contig covered 0.75516 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Po82_contig covered 0.88149 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211271_contig covered 0.76475 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW763_contig covered 0.76763 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311909_contig covered 0.75925 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311888_contig covered 0.75612 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCSU_RsMR_FL01_contig covered 0.82514 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106213_contig covered 0.75444 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311869_contig covered 0.76371 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+XCqk_contig covered 0.73116 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN6499_contig covered 0.77192 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311893_contig covered 0.75336 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS642_contig covered 0.76968 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP_8695_contig covered 0.85050 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106205_contig covered 0.76370 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311874_contig covered 0.75611 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW386_contig covered 0.72817 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_1122_contig covered 0.73309 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106269_contig covered 0.75691 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW605_UCD733_contig covered 0.76782 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_3728_contig covered 0.69099 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311896_contig covered 0.75584 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311887_contig covered 0.75296 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_724010_contig covered 0.75623 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GBBC_1331_contig covered 0.76651 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311885_contig covered 0.75890 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311906_contig covered 0.75103 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+KACC_10722_contig covered 0.77197 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_311771_contig covered 0.75956 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106207_contig covered 0.75595 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW607_UCD722_contig covered 0.76765 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_301524_contig covered 0.75855 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CCRMRsB7 covered 0.87128 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UA_1609_contig covered 0.84640 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_211520_contig covered 0.75506 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BA7_contig covered 0.84354 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Printing Summary Statistics.
+Creating SNP alignment.
+Creating SNP stats file. 
+SNP alignment complete.
+Reconstructing phylogeny using FastTree
+export OMP_NUM_THREADS=1; FastTree -quiet -nt -gtr < /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_all_snp_alignment.fna > /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_all.fasttree 2>>/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree.error 
+
+Tree phylogeny complete.

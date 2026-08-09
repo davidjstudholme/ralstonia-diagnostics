@@ -1,0 +1,1487 @@
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038135_1_ASM4503813v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445043 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038135_1_ASM4503813v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038135_1_ASM4503813v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445043.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445043.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714705_1_ASM4171470v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445122 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714705_1_ASM4171470v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714705_1_ASM4171470v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445122.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445122.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395135_1_ASM5539513v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445186 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395135_1_ASM5539513v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395135_1_ASM5539513v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445186.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445186.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397595_1_ASM5539759v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445281 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397595_1_ASM5539759v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397595_1_ASM5539759v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445281.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445281.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714685_1_ASM4171468v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445353 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714685_1_ASM4171468v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714685_1_ASM4171468v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445353.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445353.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054881635_1_ASM5488163v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445416 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054881635_1_ASM5488163v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054881635_1_ASM5488163v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445416.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445416.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882405_1_ASM5488240v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445503 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882405_1_ASM5488240v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882405_1_ASM5488240v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445503.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445503.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038055_1_ASM4503805v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445582 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038055_1_ASM4503805v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038055_1_ASM4503805v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445582.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445582.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860765_1_ASM386076v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445670 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860765_1_ASM386076v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860765_1_ASM386076v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445670.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445670.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390165_1_ASM5539016v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445725 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390165_1_ASM5539016v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390165_1_ASM5539016v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445725.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445725.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002501565_1_ASM250156v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445828 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002501565_1_ASM250156v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002501565_1_ASM250156v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445828.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445828.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501595_1_GBBC1202_hybracter_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1445923 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501595_1_GBBC1202_hybracter_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501595_1_GBBC1202_hybracter_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1445923.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1445923.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384705_1_ASM5538470v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446010 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384705_1_ASM5538470v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384705_1_ASM5538470v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446010.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446010.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055542735_1_ASM5554273v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446098 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055542735_1_ASM5554273v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055542735_1_ASM5554273v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446098.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446098.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397205_1_ASM5539720v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446185 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397205_1_ASM5539720v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397205_1_ASM5539720v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446185.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446185.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501605_1_GBBC1331_unicycler_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446280 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501605_1_GBBC1331_unicycler_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501605_1_GBBC1331_unicycler_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446280.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446280.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516395_1_ASM5051639v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446375 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516395_1_ASM5051639v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516395_1_ASM5051639v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446375.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446375.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860705_1_ASM386070v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446467 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860705_1_ASM386070v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860705_1_ASM386070v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446467.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446467.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383745_1_ASM5538374v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446526 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383745_1_ASM5538374v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383745_1_ASM5538374v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446526.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446526.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446606 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446606.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446606.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383385_1_ASM5538338v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446685 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383385_1_ASM5538338v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383385_1_ASM5538338v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446685.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446685.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002012345_1_ASM201234v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446780 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002012345_1_ASM201234v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002012345_1_ASM201234v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446780.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446780.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016725_1_ASM2601672v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446875 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016725_1_ASM2601672v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016725_1_ASM2601672v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446875.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446875.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385175_1_ASM5538517v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1446962 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385175_1_ASM5538517v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385175_1_ASM5538517v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1446962.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1446962.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CCRMRsB7.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1447044 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CCRMRsB7.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CCRMRsB7.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1447044.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1447044.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038165_1_ASM4503816v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1447115 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038165_1_ASM4503816v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038165_1_ASM4503816v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1447115.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1447115.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051933855_1_ASM5193385v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1447194 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051933855_1_ASM5193385v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051933855_1_ASM5193385v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1447194.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1447194.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw488.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1447514 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw488.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw488.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1447514.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1447514.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055523335_1_ASM5552333v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1447625 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055523335_1_ASM5552333v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055523335_1_ASM5552333v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1447625.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1447625.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039693335_1_ASM3969333v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1447952 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039693335_1_ASM3969333v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039693335_1_ASM3969333v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1447952.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1447952.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382065_1_ASM5538206v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448023 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382065_1_ASM5538206v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382065_1_ASM5538206v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448023.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448023.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388055_1_ASM5538805v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448102 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388055_1_ASM5538805v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388055_1_ASM5538805v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448102.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448102.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515265_1_ASM351526v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448190 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515265_1_ASM351526v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515265_1_ASM351526v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448190.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448190.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382505_1_ASM5538250v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448253 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382505_1_ASM5538250v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382505_1_ASM5538250v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448253.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448253.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392285_1_ASM5539228v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448348 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392285_1_ASM5539228v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392285_1_ASM5539228v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448348.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448348.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395705_1_ASM5539570v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448427 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395705_1_ASM5539570v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395705_1_ASM5539570v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448427.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448427.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884685_1_ASM1488468v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448506 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884685_1_ASM1488468v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884685_1_ASM1488468v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448506.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448506.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387435_1_ASM5538743v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448594 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387435_1_ASM5538743v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387435_1_ASM5538743v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448594.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448594.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714715_1_ASM4171471v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448681 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714715_1_ASM4171471v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714715_1_ASM4171471v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448681.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448681.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101325_1_ASM3710132v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448759 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101325_1_ASM3710132v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101325_1_ASM3710132v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448759.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448759.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041734965_1_NCPPB3725v1_ONT_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448838 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041734965_1_NCPPB3725v1_ONT_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041734965_1_NCPPB3725v1_ONT_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448838.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448838.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_012562465_1_ASM1256246v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1448941 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_012562465_1_ASM1256246v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_012562465_1_ASM1256246v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1448941.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1448941.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055379705_1_ASM5537970v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449012 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055379705_1_ASM5537970v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055379705_1_ASM5537970v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449012.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449012.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055379425_1_ASM5537942v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449099 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055379425_1_ASM5537942v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055379425_1_ASM5537942v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449099.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449099.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386205_1_ASM5538620v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449186 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386205_1_ASM5538620v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386205_1_ASM5538620v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449186.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449186.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391615_1_ASM5539161v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449289 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391615_1_ASM5539161v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391615_1_ASM5539161v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449289.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449289.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039692545_1_ASM3969254v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449384 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039692545_1_ASM3969254v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039692545_1_ASM3969254v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449384.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449384.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003595305_1_ASM359530v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449455 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003595305_1_ASM359530v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003595305_1_ASM359530v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449455.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449455.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884745_1_ASM1488474v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449537 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884745_1_ASM1488474v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884745_1_ASM1488474v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449537.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449537.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391285_1_ASM5539128v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449608 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391285_1_ASM5539128v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391285_1_ASM5539128v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449608.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449608.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491835_1_ASM5449183v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449687 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491835_1_ASM5449183v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491835_1_ASM5449183v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449687.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449687.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516445_1_ASM5051644v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449774 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516445_1_ASM5051644v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516445_1_ASM5051644v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449774.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449774.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394475_1_ASM5539447v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449854 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394475_1_ASM5539447v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394475_1_ASM5539447v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449854.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449854.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882375_1_ASM5488237v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1449948 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882375_1_ASM5488237v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882375_1_ASM5488237v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1449948.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1449948.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391665_1_ASM5539166v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450028 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391665_1_ASM5539166v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391665_1_ASM5539166v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450028.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450028.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515185_1_ASM351518v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450115 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515185_1_ASM351518v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515185_1_ASM351518v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450115.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450115.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388045_1_ASM5538804v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450186 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388045_1_ASM5538804v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388045_1_ASM5538804v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450186.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450186.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387825_1_ASM5538782v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450265 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387825_1_ASM5538782v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387825_1_ASM5538782v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450265.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450265.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001586135_1_ASM158613v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450352 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001586135_1_ASM158613v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001586135_1_ASM158613v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450352.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450352.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395105_1_ASM5539510v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450415 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395105_1_ASM5539510v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395105_1_ASM5539510v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450415.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450415.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390885_1_ASM5539088v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450502 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390885_1_ASM5539088v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390885_1_ASM5539088v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450502.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450502.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219965_1_ASM2921996v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450589 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219965_1_ASM2921996v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219965_1_ASM2921996v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450589.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450589.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038065_1_ASM4503806v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450652 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038065_1_ASM4503806v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038065_1_ASM4503806v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450652.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450652.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052828505_1_ASM5282850v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1450739 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052828505_1_ASM5282850v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052828505_1_ASM5282850v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1450739.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1450739.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000215325_1_ASM21532v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451075 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000215325_1_ASM21532v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000215325_1_ASM21532v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451075.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451075.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859515_1_ASM2585951v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451138 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859515_1_ASM2585951v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859515_1_ASM2585951v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451138.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451138.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803935_1_NCSU_Rs32_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451225 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803935_1_NCSU_Rs32_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803935_1_NCSU_Rs32_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451225.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451225.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383015_1_ASM5538301v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451304 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383015_1_ASM5538301v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383015_1_ASM5538301v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451304.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451304.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397765_1_ASM5539776v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451391 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397765_1_ASM5539776v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397765_1_ASM5539776v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451391.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451391.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390515_1_ASM5539051v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451470 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390515_1_ASM5539051v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390515_1_ASM5539051v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451470.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451470.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051933255_1_ASM5193325v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451549 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051933255_1_ASM5193325v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051933255_1_ASM5193325v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451549.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451549.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860685_1_ASM386068v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451860 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860685_1_ASM386068v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860685_1_ASM386068v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451860.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451860.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516425_1_ASM5051642v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1451931 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516425_1_ASM5051642v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516425_1_ASM5051642v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1451931.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1451931.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000525615_2_P673_Nanopore_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452018 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000525615_2_P673_Nanopore_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000525615_2_P673_Nanopore_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452018.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452018.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_048164835_1_NIB_Z_3685_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452109 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_048164835_1_NIB_Z_3685_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_048164835_1_NIB_Z_3685_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452109.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452109.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395325_1_ASM5539532v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452188 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395325_1_ASM5539532v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395325_1_ASM5539532v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452188.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452188.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378945_1_ASM5537894v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452275 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378945_1_ASM5537894v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378945_1_ASM5537894v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452275.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452275.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041228115_3_NCPPB3728v2_ONT_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452354 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041228115_3_NCPPB3728v2_ONT_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041228115_3_NCPPB3728v2_ONT_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452354.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452354.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_040429625_1_ASM4042962v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452457 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_040429625_1_ASM4042962v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_040429625_1_ASM4042962v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452457.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452457.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041734835_1_NCPPB3727v1_ONT_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452538 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041734835_1_NCPPB3727v1_ONT_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041734835_1_NCPPB3727v1_ONT_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452538.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452538.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383775_1_ASM5538377v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452641 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383775_1_ASM5538377v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383775_1_ASM5538377v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452641.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452641.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515145_1_ASM351514v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452720 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515145_1_ASM351514v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515145_1_ASM351514v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452720.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452720.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039623345_1_ASM3962334v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452775 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039623345_1_ASM3962334v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_039623345_1_ASM3962334v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452775.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452775.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515505_1_ASM351550v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452846 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515505_1_ASM351550v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515505_1_ASM351550v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452846.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452846.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387035_1_ASM5538703v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452902 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387035_1_ASM5538703v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387035_1_ASM5538703v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452902.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452902.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501565_1_GBBC1172_hybracter_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1452988 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501565_1_GBBC1172_hybracter_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501565_1_GBBC1172_hybracter_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1452988.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1452988.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860745_1_ASM386074v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453067 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860745_1_ASM386074v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860745_1_ASM386074v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453067.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453067.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501625_1_GBBC3080_hybracter_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453122 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501625_1_GBBC3080_hybracter_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501625_1_GBBC3080_hybracter_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453122.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453122.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516455_1_ASM5051645v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453201 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516455_1_ASM5051645v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516455_1_ASM5051645v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453201.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453201.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003595325_1_ASM359532v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453280 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003595325_1_ASM359532v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003595325_1_ASM359532v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453280.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453280.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389745_1_ASM5538974v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453359 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389745_1_ASM5538974v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389745_1_ASM5538974v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453359.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453359.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016745_1_ASM2601674v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453455 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016745_1_ASM2601674v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016745_1_ASM2601674v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453455.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453455.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038075_1_ASM4503807v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453550 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038075_1_ASM4503807v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038075_1_ASM4503807v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453550.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453550.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_056316165_1_ASM5631616v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453637 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_056316165_1_ASM5631616v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_056316165_1_ASM5631616v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453637.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453637.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380885_1_ASM5538088v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453716 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380885_1_ASM5538088v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380885_1_ASM5538088v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453716.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453716.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_057320845_1_ASM5732084v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453787 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_057320845_1_ASM5732084v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_057320845_1_ASM5732084v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453787.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453787.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388575_1_ASM5538857v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453874 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388575_1_ASM5538857v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388575_1_ASM5538857v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453874.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453874.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392275_1_ASM5539227v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1453961 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392275_1_ASM5539227v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392275_1_ASM5539227v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1453961.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1453961.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220005_1_ASM2922000v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454056 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220005_1_ASM2922000v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220005_1_ASM2922000v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454056.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454056.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395975_1_ASM5539597v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454159 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395975_1_ASM5539597v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395975_1_ASM5539597v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454159.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454159.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394085_1_ASM5539408v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454238 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394085_1_ASM5539408v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394085_1_ASM5539408v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454238.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454238.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388985_1_ASM5538898v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454327 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388985_1_ASM5538898v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388985_1_ASM5538898v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454327.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454327.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051217005_1_ASM5121700v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454414 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051217005_1_ASM5121700v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_051217005_1_ASM5121700v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454414.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454414.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884705_1_ASM1488470v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454493 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884705_1_ASM1488470v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884705_1_ASM1488470v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454493.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454493.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383415_1_ASM5538341v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454588 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383415_1_ASM5538341v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055383415_1_ASM5538341v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454588.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454588.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220045_1_ASM2922004v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454683 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220045_1_ASM2922004v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220045_1_ASM2922004v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454683.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454683.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055398065_1_ASM5539806v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454773 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055398065_1_ASM5539806v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055398065_1_ASM5539806v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454773.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454773.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491805_1_ASM5449180v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454844 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491805_1_ASM5449180v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491805_1_ASM5449180v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454844.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454844.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002549815_1_ASM254981v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1454931 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002549815_1_ASM254981v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002549815_1_ASM254981v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1454931.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1454931.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396855_1_ASM5539685v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455034 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396855_1_ASM5539685v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396855_1_ASM5539685v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455034.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455034.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054968885_1_ASM5496888v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455121 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054968885_1_ASM5496888v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054968885_1_ASM5496888v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455121.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455121.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385165_1_ASM5538516v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455201 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385165_1_ASM5538516v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385165_1_ASM5538516v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455201.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455201.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh012.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455280 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh012.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh012.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455280.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455280.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_048285495_1_ASM4828549v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455367 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_048285495_1_ASM4828549v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_048285495_1_ASM4828549v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455367.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455367.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101315_1_ASM3710131v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455454 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101315_1_ASM3710131v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101315_1_ASM3710131v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455454.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455454.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016645_1_ASM2601664v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455533 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016645_1_ASM2601664v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016645_1_ASM2601664v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455533.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455533.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050916425_1_AHR56_1_0_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455620 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050916425_1_AHR56_1_0_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050916425_1_AHR56_1_0_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455620.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455620.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382575_1_ASM5538257v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455691 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382575_1_ASM5538257v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382575_1_ASM5538257v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455691.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455691.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001644805_2_P597_Nanopore_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455786 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001644805_2_P597_Nanopore_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001644805_2_P597_Nanopore_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455786.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455786.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859615_1_ASM2585961v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455873 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859615_1_ASM2585961v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859615_1_ASM2585961v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455873.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455873.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385455_1_ASM5538545v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1455960 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385455_1_ASM5538545v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385455_1_ASM5538545v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1455960.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1455960.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS488.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456056 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS488.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS488.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456056.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456056.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384275_1_ASM5538427v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456151 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384275_1_ASM5538427v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384275_1_ASM5538427v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456151.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456151.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393385_1_ASM5539338v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456246 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393385_1_ASM5539338v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393385_1_ASM5539338v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456246.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456246.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_018243215_1_ASM1824321v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456325 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_018243215_1_ASM1824321v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_018243215_1_ASM1824321v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456325.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456325.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_018243235_1_ASM1824323v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456396 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_018243235_1_ASM1824323v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_018243235_1_ASM1824323v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456396.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456396.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491785_1_ASM5449178v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456475 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491785_1_ASM5449178v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054491785_1_ASM5449178v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456475.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456475.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038125_1_ASM4503812v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456570 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038125_1_ASM4503812v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038125_1_ASM4503812v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456570.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456570.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_023518395_1_ASM2351839v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456657 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_023518395_1_ASM2351839v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_023518395_1_ASM2351839v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456657.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456657.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101365_1_ASM3710136v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456736 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101365_1_ASM3710136v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101365_1_ASM3710136v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456736.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456736.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515485_1_ASM351548v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456799 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515485_1_ASM351548v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515485_1_ASM351548v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456799.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456799.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393665_1_ASM5539366v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456854 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393665_1_ASM5539366v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393665_1_ASM5539366v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456854.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456854.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515525_1_ASM351552v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1456941 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515525_1_ASM351552v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515525_1_ASM351552v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1456941.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1456941.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381295_1_ASM5538129v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457004 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381295_1_ASM5538129v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381295_1_ASM5538129v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457004.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457004.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378275_1_ASM5537827v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457099 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378275_1_ASM5537827v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378275_1_ASM5537827v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457099.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457099.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS2.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457195 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS2.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/RS2.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457195.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457195.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh00002.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457249 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh00002.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/UACh00002.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457249.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457249.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001891105_1_ASM189110v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457347 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001891105_1_ASM189110v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001891105_1_ASM189110v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457347.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457347.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000009125_1_ASM912v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457426 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000009125_1_ASM912v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000009125_1_ASM912v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457426.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457426.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714695_1_ASM4171469v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457513 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714695_1_ASM4171469v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714695_1_ASM4171469v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457513.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457513.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003590605_1_ASM359060v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457584 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003590605_1_ASM359060v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003590605_1_ASM359060v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457584.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457584.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515385_1_ASM351538v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457647 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515385_1_ASM351538v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515385_1_ASM351538v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457647.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457647.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052747835_1_CIRAD_RUN2161_1_0_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457718 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052747835_1_CIRAD_RUN2161_1_0_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052747835_1_CIRAD_RUN2161_1_0_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457718.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457718.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391275_1_ASM5539127v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457797 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391275_1_ASM5539127v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055391275_1_ASM5539127v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457797.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457797.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501585_1_GBBC1200_hybracter_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457901 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501585_1_GBBC1200_hybracter_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501585_1_GBBC1200_hybracter_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457901.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457901.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385855_1_ASM5538585v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1457988 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385855_1_ASM5538585v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385855_1_ASM5538585v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1457988.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1457988.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385805_1_ASM5538580v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458083 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385805_1_ASM5538580v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385805_1_ASM5538580v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458083.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458083.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390545_1_ASM5539054v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458170 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390545_1_ASM5539054v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390545_1_ASM5539054v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458170.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458170.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803955_1_NCSU_RsMR_FL01_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458249 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803955_1_NCSU_RsMR_FL01_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803955_1_NCSU_RsMR_FL01_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458249.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458249.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515325_1_ASM351532v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458320 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515325_1_ASM351532v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515325_1_ASM351532v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458320.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458320.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515445_1_ASM351544v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458391 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515445_1_ASM351544v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515445_1_ASM351544v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458391.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458391.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw551.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458454 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw551.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/uw551.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458454.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458454.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220065_1_ASM2922006v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458565 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220065_1_ASM2922006v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220065_1_ASM2922006v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458565.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458565.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384715_1_ASM5538471v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458644 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384715_1_ASM5538471v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055384715_1_ASM5538471v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458644.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458644.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_047509085_1_UMN24_1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458724 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_047509085_1_UMN24_1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_047509085_1_UMN24_1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458724.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458724.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392015_1_ASM5539201v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458803 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392015_1_ASM5539201v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392015_1_ASM5539201v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458803.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458803.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501575_1_GBBC1122_hybracter_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1458906 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501575_1_GBBC1122_hybracter_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501575_1_GBBC1122_hybracter_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1458906.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1458906.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380045_1_ASM5538004v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459001 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380045_1_ASM5538004v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380045_1_ASM5538004v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459001.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459001.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/19_3PR_UW348.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459096 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/19_3PR_UW348.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/19_3PR_UW348.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459096.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459096.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803945_1_NCSU_Rs45488_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459183 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803945_1_NCSU_Rs45488_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049803945_1_NCSU_Rs45488_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459183.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459183.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386725_1_ASM5538672v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459262 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386725_1_ASM5538672v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386725_1_ASM5538672v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459262.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459262.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390875_1_ASM5539087v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459365 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390875_1_ASM5539087v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390875_1_ASM5539087v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459365.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459365.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860725_1_ASM386072v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459452 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860725_1_ASM386072v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860725_1_ASM386072v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459452.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459452.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382075_1_ASM5538207v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459499 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382075_1_ASM5538207v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382075_1_ASM5538207v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459499.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459499.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101345_1_ASM3710134v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459578 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101345_1_ASM3710134v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101345_1_ASM3710134v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459578.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459578.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001299555_1_ASM129955v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459681 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001299555_1_ASM129955v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001299555_1_ASM129955v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459681.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459681.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859635_1_ASM2585963v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459784 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859635_1_ASM2585963v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_025859635_1_ASM2585963v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459784.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459784.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396565_1_ASM5539656v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459871 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396565_1_ASM5539656v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396565_1_ASM5539656v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459871.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459871.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117135_1_ASM2111713v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1459969 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117135_1_ASM2111713v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117135_1_ASM2111713v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1459969.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1459969.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389345_1_ASM5538934v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460048 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389345_1_ASM5538934v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389345_1_ASM5538934v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460048.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460048.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388975_1_ASM5538897v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460135 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388975_1_ASM5538897v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388975_1_ASM5538897v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460135.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460135.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381715_1_ASM5538171v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460230 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381715_1_ASM5538171v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381715_1_ASM5538171v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460230.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460230.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_022625045_1_ASM2262504v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460317 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_022625045_1_ASM2262504v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_022625045_1_ASM2262504v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460317.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460317.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387795_1_ASM5538779v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460396 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387795_1_ASM5538779v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387795_1_ASM5538779v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460396.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460396.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_042494895_1_ASM4249489v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460495 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_042494895_1_ASM4249489v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_042494895_1_ASM4249489v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460495.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460495.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381255_1_ASM5538125v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460566 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381255_1_ASM5538125v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381255_1_ASM5538125v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460566.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460566.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882395_1_ASM5488239v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460653 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882395_1_ASM5488239v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054882395_1_ASM5488239v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460653.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460653.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393435_1_ASM5539343v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460724 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393435_1_ASM5539343v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393435_1_ASM5539343v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460724.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460724.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387005_1_ASM5538700v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460803 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387005_1_ASM5538700v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387005_1_ASM5538700v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460803.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460803.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001587155_1_ASM158715v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460890 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001587155_1_ASM158715v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001587155_1_ASM158715v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460890.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460890.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516415_1_ASM5051641v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1460953 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516415_1_ASM5051641v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516415_1_ASM5051641v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1460953.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1460953.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052784355_1_ASM5278435v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461040 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052784355_1_ASM5278435v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_052784355_1_ASM5278435v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461040.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461040.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000348545_1_ASM34854v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461368 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000348545_1_ASM34854v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000348545_1_ASM34854v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461368.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461368.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016705_1_ASM2601670v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461440 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016705_1_ASM2601670v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016705_1_ASM2601670v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461440.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461440.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378695_1_ASM5537869v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461526 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378695_1_ASM5537869v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055378695_1_ASM5537869v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461526.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461526.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397415_1_ASM5539741v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461605 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397415_1_ASM5539741v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055397415_1_ASM5539741v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461605.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461605.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038085_1_ASM4503808v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461676 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038085_1_ASM4503808v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038085_1_ASM4503808v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461676.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461676.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395355_1_ASM5539535v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461763 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395355_1_ASM5539535v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395355_1_ASM5539535v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461763.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461763.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385485_1_ASM5538548v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461842 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385485_1_ASM5538548v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055385485_1_ASM5538548v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461842.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461842.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387485_1_ASM5538748v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1461929 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387485_1_ASM5538748v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055387485_1_ASM5538748v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1461929.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1461929.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101335_1_ASM3710133v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462024 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101335_1_ASM3710133v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101335_1_ASM3710133v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462024.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462024.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CFIA906.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462111 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CFIA906.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/CFIA906.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462111.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462111.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_047120255_1_ASM4712025v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462166 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_047120255_1_ASM4712025v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_047120255_1_ASM4712025v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462166.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462166.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_009832805_1_ASM983280v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462253 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_009832805_1_ASM983280v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_009832805_1_ASM983280v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462253.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462253.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394015_1_ASM5539401v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462332 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394015_1_ASM5539401v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394015_1_ASM5539401v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462332.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462332.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117115_1_ASM2111711v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462427 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117115_1_ASM2111711v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117115_1_ASM2111711v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462427.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462427.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390135_1_ASM5539013v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462497 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390135_1_ASM5539013v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055390135_1_ASM5539013v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462497.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462497.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_024925465_1_ASM2492546v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462588 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_024925465_1_ASM2492546v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_024925465_1_ASM2492546v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462588.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462588.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389375_1_ASM5538937v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462675 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389375_1_ASM5538937v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389375_1_ASM5538937v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462675.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462675.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016625_1_ASM2601662v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462762 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016625_1_ASM2601662v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_026016625_1_ASM2601662v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462762.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462762.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055398245_1_ASM5539824v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462849 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055398245_1_ASM5539824v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055398245_1_ASM5539824v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462849.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462849.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045257735_1_SPA_Rsc_2023_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1462928 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045257735_1_SPA_Rsc_2023_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045257735_1_SPA_Rsc_2023_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1462928.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1462928.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002220465_1_ASM222046v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463032 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002220465_1_ASM222046v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_002220465_1_ASM222046v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463032.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463032.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393675_1_ASM5539367v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463103 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393675_1_ASM5539367v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055393675_1_ASM5539367v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463103.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463103.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038115_1_ASM4503811v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463190 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038115_1_ASM4503811v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_045038115_1_ASM4503811v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463190.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463190.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382985_1_ASM5538298v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463261 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382985_1_ASM5538298v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055382985_1_ASM5538298v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463261.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463261.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380435_1_ASM5538043v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463356 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380435_1_ASM5538043v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055380435_1_ASM5538043v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463356.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463356.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860665_1_ASM386066v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463451 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860665_1_ASM386066v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003860665_1_ASM386066v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463451.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463451.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396695_1_ASM5539669v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463538 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396695_1_ASM5539669v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396695_1_ASM5539669v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463538.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463538.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392065_1_ASM5539206v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463625 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392065_1_ASM5539206v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392065_1_ASM5539206v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463625.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463625.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396595_1_ASM5539659v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463704 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396595_1_ASM5539659v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396595_1_ASM5539659v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463704.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463704.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396295_1_ASM5539629v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463791 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396295_1_ASM5539629v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396295_1_ASM5539629v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463791.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463791.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000283475_1_ASM28347v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463879 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000283475_1_ASM28347v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_000283475_1_ASM28347v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463879.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463879.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516405_1_ASM5051640v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1463942 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516405_1_ASM5051640v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516405_1_ASM5051640v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1463942.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1463942.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381665_1_ASM5538166v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464021 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381665_1_ASM5538166v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055381665_1_ASM5538166v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464021.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464021.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049860725_1_ASM4986072v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464100 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049860725_1_ASM4986072v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049860725_1_ASM4986072v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464100.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464100.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049860735_1_ASM4986073v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464187 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049860735_1_ASM4986073v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049860735_1_ASM4986073v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464187.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464187.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_009832785_1_ASM983278v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464259 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_009832785_1_ASM983278v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_009832785_1_ASM983278v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464259.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464259.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389715_1_ASM5538971v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464314 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389715_1_ASM5538971v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055389715_1_ASM5538971v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464314.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464314.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219945_1_ASM2921994v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464401 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219945_1_ASM2921994v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219945_1_ASM2921994v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464401.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464401.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220025_1_ASM2922002v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464496 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220025_1_ASM2922002v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029220025_1_ASM2922002v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464496.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464496.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392795_1_ASM5539279v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464567 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392795_1_ASM5539279v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392795_1_ASM5539279v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464567.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464567.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516435_1_ASM5051643v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464646 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516435_1_ASM5051643v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_050516435_1_ASM5051643v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464646.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464646.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001587135_1_ASM158713v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464726 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001587135_1_ASM158713v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_001587135_1_ASM158713v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464726.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464726.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714725_1_ASM4171472v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464796 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714725_1_ASM4171472v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_041714725_1_ASM4171472v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464796.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464796.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388585_1_ASM5538858v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464859 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388585_1_ASM5538858v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055388585_1_ASM5538858v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464859.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464859.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884725_1_ASM1488472v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1464954 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884725_1_ASM1488472v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_014884725_1_ASM1488472v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1464954.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1464954.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117095_1_ASM2111709v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465033 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117095_1_ASM2111709v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_021117095_1_ASM2111709v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465033.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465033.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396955_1_ASM5539695v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465120 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396955_1_ASM5539695v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396955_1_ASM5539695v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465120.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465120.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386735_1_ASM5538673v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465194 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386735_1_ASM5538673v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386735_1_ASM5538673v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465194.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465194.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395735_1_ASM5539573v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465289 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395735_1_ASM5539573v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055395735_1_ASM5539573v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465289.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465289.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396965_1_ASM5539696v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465368 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396965_1_ASM5539696v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055396965_1_ASM5539696v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465368.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465368.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501615_1_GBBC1338_hybracter_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465455 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501615_1_GBBC1338_hybracter_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_054501615_1_GBBC1338_hybracter_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465455.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465455.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386225_1_ASM5538622v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465526 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386225_1_ASM5538622v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055386225_1_ASM5538622v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465526.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465526.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_006088755_1_ASM608875v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465622 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_006088755_1_ASM608875v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_006088755_1_ASM608875v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465622.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465622.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515425_1_ASM351542v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465694 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515425_1_ASM351542v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515425_1_ASM351542v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465694.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465694.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394465_1_ASM5539446v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465749 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394465_1_ASM5539446v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055394465_1_ASM5539446v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465749.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465749.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_046529245_1_ASM4652924v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1465844 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_046529245_1_ASM4652924v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_046529245_1_ASM4652924v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1465844.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1465844.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392825_1_ASM5539282v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1466155 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392825_1_ASM5539282v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_055392825_1_ASM5539282v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1466155.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1466155.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049485675_1_ASM4948567v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1466242 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049485675_1_ASM4948567v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_049485675_1_ASM4948567v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1466242.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1466242.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101355_1_ASM3710135v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1466329 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101355_1_ASM3710135v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_037101355_1_ASM3710135v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1466329.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1466329.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_016743075_1_ASM1674307v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1466408 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_016743075_1_ASM1674307v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_016743075_1_ASM1674307v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1466408.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1466408.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515165_1_ASM351516v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1466512 /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515165_1_ASM351516v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_003515165_1_ASM351516v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1466512.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1466512.coords
+
+Repeat coords for all references found.
+Self-NUCmer complete
+==================================================================
+Aligning to the reference genome /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045038135_1_ASM4503813v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_041714705_1_ASM4171470v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055395135_1_ASM5539513v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055397595_1_ASM5539759v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_041714685_1_ASM4171468v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054881635_1_ASM5488163v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054882405_1_ASM5488240v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045038055_1_ASM4503805v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003860765_1_ASM386076v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055390165_1_ASM5539016v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_002501565_1_ASM250156v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054501595_1_GBBC1202_hybracter_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055384705_1_ASM5538470v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055542735_1_ASM5554273v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055397205_1_ASM5539720v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054501605_1_GBBC1331_unicycler_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_050516395_1_ASM5051639v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003860705_1_ASM386070v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055383745_1_ASM5538374v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029219985_1_ASM2921998v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055383385_1_ASM5538338v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_002012345_1_ASM201234v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_026016725_1_ASM2601672v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055385175_1_ASM5538517v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CCRMRsB7
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045038165_1_ASM4503816v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_051933855_1_ASM5193385v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_uw488
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055523335_1_ASM5552333v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_039693335_1_ASM3969333v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055382065_1_ASM5538206v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055388055_1_ASM5538805v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515265_1_ASM351526v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055382505_1_ASM5538250v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055392285_1_ASM5539228v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055395705_1_ASM5539570v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_014884685_1_ASM1488468v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055387435_1_ASM5538743v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_041714715_1_ASM4171471v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_037101325_1_ASM3710132v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_041734965_1_NCPPB3725v1_ONT_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_012562465_1_ASM1256246v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055379705_1_ASM5537970v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055379425_1_ASM5537942v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055386205_1_ASM5538620v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055391615_1_ASM5539161v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_039692545_1_ASM3969254v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003595305_1_ASM359530v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_014884745_1_ASM1488474v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055391285_1_ASM5539128v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054491835_1_ASM5449183v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_050516445_1_ASM5051644v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055394475_1_ASM5539447v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054882375_1_ASM5488237v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055391665_1_ASM5539166v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515185_1_ASM351518v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055388045_1_ASM5538804v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055387825_1_ASM5538782v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_001586135_1_ASM158613v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055395105_1_ASM5539510v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055390885_1_ASM5539088v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029219965_1_ASM2921996v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045038065_1_ASM4503806v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_052828505_1_ASM5282850v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_000215325_1_ASM21532v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_025859515_1_ASM2585951v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_049803935_1_NCSU_Rs32_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055383015_1_ASM5538301v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055397765_1_ASM5539776v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055390515_1_ASM5539051v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_051933255_1_ASM5193325v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003860685_1_ASM386068v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_050516425_1_ASM5051642v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_000525615_2_P673_Nanopore_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_048164835_1_NIB_Z_3685_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055395325_1_ASM5539532v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055378945_1_ASM5537894v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_041228115_3_NCPPB3728v2_ONT_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_040429625_1_ASM4042962v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_041734835_1_NCPPB3727v1_ONT_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055383775_1_ASM5538377v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515145_1_ASM351514v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_039623345_1_ASM3962334v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515505_1_ASM351550v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055387035_1_ASM5538703v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054501565_1_GBBC1172_hybracter_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003860745_1_ASM386074v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054501625_1_GBBC3080_hybracter_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_050516455_1_ASM5051645v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003595325_1_ASM359532v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055389745_1_ASM5538974v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_026016745_1_ASM2601674v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045038075_1_ASM4503807v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_056316165_1_ASM5631616v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055380885_1_ASM5538088v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_057320845_1_ASM5732084v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055388575_1_ASM5538857v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055392275_1_ASM5539227v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029220005_1_ASM2922000v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055395975_1_ASM5539597v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055394085_1_ASM5539408v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055388985_1_ASM5538898v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_051217005_1_ASM5121700v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_014884705_1_ASM1488470v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055383415_1_ASM5538341v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029220045_1_ASM2922004v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055398065_1_ASM5539806v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054491805_1_ASM5449180v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_002549815_1_ASM254981v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055396855_1_ASM5539685v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054968885_1_ASM5496888v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055385165_1_ASM5538516v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UACh012
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_048285495_1_ASM4828549v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_037101315_1_ASM3710131v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_026016645_1_ASM2601664v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_050916425_1_AHR56_1_0_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055382575_1_ASM5538257v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_001644805_2_P597_Nanopore_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_025859615_1_ASM2585961v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055385455_1_ASM5538545v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS488
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055384275_1_ASM5538427v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055393385_1_ASM5539338v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_018243215_1_ASM1824321v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_018243235_1_ASM1824323v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054491785_1_ASM5449178v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045038125_1_ASM4503812v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_023518395_1_ASM2351839v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_037101365_1_ASM3710136v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515485_1_ASM351548v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055393665_1_ASM5539366v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515525_1_ASM351552v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055381295_1_ASM5538129v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055378275_1_ASM5537827v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS2
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UACh00002
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_001891105_1_ASM189110v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_000009125_1_ASM912v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_041714695_1_ASM4171469v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003590605_1_ASM359060v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515385_1_ASM351538v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_052747835_1_CIRAD_RUN2161_1_0_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055391275_1_ASM5539127v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054501585_1_GBBC1200_hybracter_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055385855_1_ASM5538585v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055385805_1_ASM5538580v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055390545_1_ASM5539054v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_049803955_1_NCSU_RsMR_FL01_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515325_1_ASM351532v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515445_1_ASM351544v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_uw551
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029220065_1_ASM2922006v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055384715_1_ASM5538471v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_047509085_1_UMN24_1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055392015_1_ASM5539201v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054501575_1_GBBC1122_hybracter_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055380045_1_ASM5538004v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_19_3PR_UW348
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_049803945_1_NCSU_Rs45488_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055386725_1_ASM5538672v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055390875_1_ASM5539087v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003860725_1_ASM386072v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055382075_1_ASM5538207v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_037101345_1_ASM3710134v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_001299555_1_ASM129955v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_025859635_1_ASM2585963v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055396565_1_ASM5539656v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_021117135_1_ASM2111713v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055389345_1_ASM5538934v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055388975_1_ASM5538897v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055381715_1_ASM5538171v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_022625045_1_ASM2262504v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055387795_1_ASM5538779v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_042494895_1_ASM4249489v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055381255_1_ASM5538125v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054882395_1_ASM5488239v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055393435_1_ASM5539343v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055387005_1_ASM5538700v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_001587155_1_ASM158715v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_050516415_1_ASM5051641v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_052784355_1_ASM5278435v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_000348545_1_ASM34854v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_026016705_1_ASM2601670v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055378695_1_ASM5537869v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055397415_1_ASM5539741v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045038085_1_ASM4503808v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055395355_1_ASM5539535v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055385485_1_ASM5538548v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055387485_1_ASM5538748v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_037101335_1_ASM3710133v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CFIA906
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_047120255_1_ASM4712025v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_009832805_1_ASM983280v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055394015_1_ASM5539401v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_021117115_1_ASM2111711v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055390135_1_ASM5539013v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_024925465_1_ASM2492546v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055389375_1_ASM5538937v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_026016625_1_ASM2601662v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055398245_1_ASM5539824v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045257735_1_SPA_Rsc_2023_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_002220465_1_ASM222046v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055393675_1_ASM5539367v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_045038115_1_ASM4503811v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055382985_1_ASM5538298v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055380435_1_ASM5538043v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003860665_1_ASM386066v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055396695_1_ASM5539669v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055392065_1_ASM5539206v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055396595_1_ASM5539659v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055396295_1_ASM5539629v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_000283475_1_ASM28347v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_050516405_1_ASM5051640v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055381665_1_ASM5538166v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_049860725_1_ASM4986072v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_049860735_1_ASM4986073v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_009832785_1_ASM983278v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055389715_1_ASM5538971v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029219945_1_ASM2921994v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029220025_1_ASM2922002v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055392795_1_ASM5539279v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_050516435_1_ASM5051643v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_001587135_1_ASM158713v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_041714725_1_ASM4171472v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055388585_1_ASM5538858v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_014884725_1_ASM1488472v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_021117095_1_ASM2111709v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055396955_1_ASM5539695v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055386735_1_ASM5538673v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055395735_1_ASM5539573v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055396965_1_ASM5539696v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_054501615_1_GBBC1338_hybracter_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055386225_1_ASM5538622v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_006088755_1_ASM608875v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515425_1_ASM351542v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055394465_1_ASM5539446v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_046529245_1_ASM4652924v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_055392825_1_ASM5539282v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_049485675_1_ASM4948567v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_037101355_1_ASM3710135v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_016743075_1_ASM1674307v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_003515165_1_ASM351516v1_genomic
+
+NUCmer on all reference genomes complete.
+==================================================================
+
+runContigNUCmer.pl -r /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna -q /data/djs217/PROJECTS/45_ralstonia/03_workdir -d /data/djs217/PROJECTS/45_ralstonia/03_workdir/results -l /data/djs217/PROJECTS/45_ralstonia/03_workdir/contigs_list.txt -t 1 -y 2 2>>/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_using_GCAs.error >> /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_using_GCAs.log
+
+
+Using given reference:  /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+NUCmer on all contig/draft genomes complete.
+
+
+buildSNPDB.pl -i /data/djs217/PROJECTS/45_ralstonia/03_workdir/results -r /data/djs217/PROJECTS/45_ralstonia/03_workdir/files/GCA_029219985_1_ASM2921998v1_genomic.fna -l /data/djs217/PROJECTS/45_ralstonia/03_workdir/working_list.txt -p Ralstonia_fasttree_using_GCAs -c 0 -g 0.1 2>>/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_using_GCAs.error >> /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_using_GCAs.log
+
+Reading Gaps file.
+GCA_055384275_1_ASM5538427v1_genomic covered 0.77181 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054968885_1_ASM5496888v1_genomic covered 0.77850 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054501575_1_GBBC1122_hybracter_genomic covered 0.75029 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_057320845_1_ASM5732084v1_genomic covered 0.77718 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_001891105_1_ASM189110v1_genomic covered 0.78028 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055391285_1_ASM5539128v1_genomic covered 0.77653 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045038085_1_ASM4503808v1_genomic covered 0.78052 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055389715_1_ASM5538971v1_genomic covered 0.77405 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_021117095_1_ASM2111709v1_genomic covered 0.86639 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055523335_1_ASM5552333v1_genomic covered 0.74530 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_018243215_1_ASM1824321v1_genomic covered 0.79762 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_041714715_1_ASM4171471v1_genomic covered 0.88065 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_014884725_1_ASM1488472v1_genomic covered 0.77804 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054881635_1_ASM5488163v1_genomic covered 0.86972 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_025859515_1_ASM2585951v1_genomic covered 0.76175 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003860665_1_ASM386066v1_genomic covered 0.80770 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+REPEATS covered 0.97100 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055380045_1_ASM5538004v1_genomic covered 0.77183 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+19_3PR_UW348 covered 0.90462 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029220025_1_ASM2922002v1_genomic covered 0.86720 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_006088755_1_ASM608875v1_genomic covered 0.74455 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_041714685_1_ASM4171468v1_genomic covered 0.88215 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055382505_1_ASM5538250v1_genomic covered 0.77392 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055390885_1_ASM5539088v1_genomic covered 0.77262 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_012562465_1_ASM1256246v1_genomic covered 0.87396 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UACh012 covered 0.87312 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_051933855_1_ASM5193385v1_genomic covered 0.74490 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_052784355_1_ASM5278435v1_genomic covered 0.74530 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_000009125_1_ASM912v1_genomic covered 0.78548 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055388575_1_ASM5538857v1_genomic covered 0.76996 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055390515_1_ASM5539051v1_genomic covered 0.77652 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055388055_1_ASM5538805v1_genomic covered 0.77466 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_037101355_1_ASM3710135v1_genomic covered 0.77632 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054491835_1_ASM5449183v1_genomic covered 0.76945 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055390545_1_ASM5539054v1_genomic covered 0.77302 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055392825_1_ASM5539282v1_genomic covered 0.77467 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_002220465_1_ASM222046v1_genomic covered 0.77215 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055385855_1_ASM5538585v1_genomic covered 0.77181 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055382985_1_ASM5538298v1_genomic covered 0.77368 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055387035_1_ASM5538703v1_genomic covered 0.77250 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_009832805_1_ASM983280v1_genomic covered 0.86133 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055383745_1_ASM5538374v1_genomic covered 0.77276 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS2 covered 0.81635 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_022625045_1_ASM2262504v1_genomic covered 0.77486 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003860745_1_ASM386074v1_genomic covered 0.88022 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_014884685_1_ASM1488468v1_genomic covered 0.75613 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003860725_1_ASM386072v1_genomic covered 0.85187 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055395355_1_ASM5539535v1_genomic covered 0.77280 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055386735_1_ASM5538673v1_genomic covered 0.77391 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055393385_1_ASM5539338v1_genomic covered 0.76968 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055390165_1_ASM5539016v1_genomic covered 0.77190 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045038115_1_ASM4503811v1_genomic covered 0.78014 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055378275_1_ASM5537827v1_genomic covered 0.77776 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055393665_1_ASM5539366v1_genomic covered 0.77550 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055395975_1_ASM5539597v1_genomic covered 0.77234 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055395325_1_ASM5539532v1_genomic covered 0.77528 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_041714725_1_ASM4171472v1_genomic covered 0.88065 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054491785_1_ASM5449178v1_genomic covered 0.75996 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055385455_1_ASM5538545v1_genomic covered 0.77654 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_049803935_1_NCSU_Rs32_genomic covered 0.82982 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_026016745_1_ASM2601674v1_genomic covered 0.77679 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515265_1_ASM351526v1_genomic covered 0.79679 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055387435_1_ASM5538743v1_genomic covered 0.77486 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054491805_1_ASM5449180v1_genomic covered 0.77954 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_040429625_1_ASM4042962v1_genomic covered 0.77531 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055390875_1_ASM5539087v1_genomic covered 0.77757 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055387825_1_ASM5538782v1_genomic covered 0.77931 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055391615_1_ASM5539161v1_genomic covered 0.77779 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055392275_1_ASM5539227v1_genomic covered 0.77926 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_041228115_3_NCPPB3728v2_ONT_genomic covered 0.70787 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_025859615_1_ASM2585961v1_genomic covered 0.77772 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045038135_1_ASM4503813v1_genomic covered 0.78800 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055387485_1_ASM5538748v1_genomic covered 0.77188 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_000348545_1_ASM34854v1_genomic covered 0.77508 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055390135_1_ASM5539013v1_genomic covered 0.76777 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_037101345_1_ASM3710134v1_genomic covered 0.77439 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055386725_1_ASM5538672v1_genomic covered 0.77439 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045257735_1_SPA_Rsc_2023_genomic covered 0.72061 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_050516445_1_ASM5051644v1_genomic covered 0.77851 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055393675_1_ASM5539367v1_genomic covered 0.77629 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_048285495_1_ASM4828549v1_genomic covered 0.77919 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515505_1_ASM351550v1_genomic covered 0.78666 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515145_1_ASM351514v1_genomic covered 0.78051 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055383415_1_ASM5538341v1_genomic covered 0.77521 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_009832785_1_ASM983278v1_genomic covered 0.85551 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS488 covered 0.88713 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_037101315_1_ASM3710131v1_genomic covered 0.77173 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_039693335_1_ASM3969333v1_genomic covered 0.88212 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CCRMRsB7 covered 0.87128 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029219945_1_ASM2921994v1_genomic covered 0.72928 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055381665_1_ASM5538166v1_genomic covered 0.77449 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_026016625_1_ASM2601662v1_genomic covered 0.78080 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_037101335_1_ASM3710133v1_genomic covered 0.77339 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_014884705_1_ASM1488470v1_genomic covered 0.74755 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045038125_1_ASM4503812v1_genomic covered 0.78121 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055542735_1_ASM5554273v1_genomic covered 0.77528 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055397205_1_ASM5539720v1_genomic covered 0.77331 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_041734965_1_NCPPB3725v1_ONT_genomic covered 0.72937 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055395135_1_ASM5539513v1_genomic covered 0.77215 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055388045_1_ASM5538804v1_genomic covered 0.77424 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055394015_1_ASM5539401v1_genomic covered 0.77186 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055382575_1_ASM5538257v1_genomic covered 0.77108 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055396565_1_ASM5539656v1_genomic covered 0.77182 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055396295_1_ASM5539629v1_genomic covered 0.77715 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055389345_1_ASM5538934v1_genomic covered 0.76318 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003860705_1_ASM386070v1_genomic covered 0.88044 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055392065_1_ASM5539206v1_genomic covered 0.77651 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054882405_1_ASM5488240v1_genomic covered 0.86970 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_026016645_1_ASM2601664v1_genomic covered 0.77723 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515525_1_ASM351552v1_genomic covered 0.77920 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055397415_1_ASM5539741v1_genomic covered 0.76877 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515325_1_ASM351532v1_genomic covered 0.77920 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003860765_1_ASM386076v1_genomic covered 0.84960 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_050516415_1_ASM5051641v1_genomic covered 0.77827 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055396965_1_ASM5539696v1_genomic covered 0.77345 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055395705_1_ASM5539570v1_genomic covered 0.77233 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055394475_1_ASM5539447v1_genomic covered 0.77233 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055388585_1_ASM5538858v1_genomic covered 0.77906 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054501605_1_GBBC1331_unicycler_genomic covered 0.77812 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_041734835_1_NCPPB3727v1_ONT_genomic covered 0.72527 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UACh00002 covered 0.88325 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055380435_1_ASM5538043v1_genomic covered 0.77163 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055397595_1_ASM5539759v1_genomic covered 0.77652 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_048164835_1_NIB_Z_3685_genomic covered 0.76944 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_000283475_1_ASM28347v1_genomic covered 0.78854 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_042494895_1_ASM4249489v1_genomic covered 0.74087 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003595325_1_ASM359532v1_genomic covered 0.77332 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_050516435_1_ASM5051643v1_genomic covered 0.77892 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515385_1_ASM351538v1_genomic covered 0.78770 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_001587155_1_ASM158715v1_genomic covered 0.88608 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515485_1_ASM351548v1_genomic covered 0.77891 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_051933255_1_ASM5193325v1_genomic covered 0.71216 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055392285_1_ASM5539228v1_genomic covered 0.77421 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054501595_1_GBBC1202_hybracter_genomic covered 0.78209 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055393435_1_ASM5539343v1_genomic covered 0.77379 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_001644805_2_P597_Nanopore_genomic covered 0.86694 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055378945_1_ASM5537894v1_genomic covered 0.77418 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029219965_1_ASM2921996v1_genomic covered 0.74100 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_049485675_1_ASM4948567v1_genomic covered 0.77597 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055389375_1_ASM5538937v1_genomic covered 0.77399 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_039623345_1_ASM3962334v1_genomic covered 0.77424 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_001587135_1_ASM158713v1_genomic covered 0.88058 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055382065_1_ASM5538206v1_genomic covered 0.77264 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055391275_1_ASM5539127v1_genomic covered 0.77776 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055394085_1_ASM5539408v1_genomic covered 0.77344 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055394465_1_ASM5539446v1_genomic covered 0.77187 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_051217005_1_ASM5121700v1_genomic covered 0.77102 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_024925465_1_ASM2492546v1_genomic covered 0.75013 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_049803945_1_NCSU_Rs45488_genomic covered 0.82629 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_047509085_1_UMN24_1_genomic covered 0.76947 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054882395_1_ASM5488239v1_genomic covered 0.85558 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_050516455_1_ASM5051645v1_genomic covered 0.77830 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029220065_1_ASM2922006v1_genomic covered 0.78800 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055383775_1_ASM5538377v1_genomic covered 0.77281 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055396695_1_ASM5539669v1_genomic covered 0.77345 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054501625_1_GBBC3080_hybracter_genomic covered 0.77890 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055396955_1_ASM5539695v1_genomic covered 0.76905 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_037101365_1_ASM3710136v1_genomic covered 0.77922 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003860685_1_ASM386068v1_genomic covered 0.83045 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_002501565_1_ASM250156v1_genomic covered 0.88713 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055381715_1_ASM5538171v1_genomic covered 0.76978 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFIA906 covered 0.88926 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_002012345_1_ASM201234v1_genomic covered 0.71734 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045038065_1_ASM4503806v1_genomic covered 0.78318 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_014884745_1_ASM1488474v1_genomic covered 0.82243 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_056316165_1_ASM5631616v1_genomic covered 0.76945 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_001586135_1_ASM158613v1_genomic covered 0.78667 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_049803955_1_NCSU_RsMR_FL01_genomic covered 0.82662 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055385805_1_ASM5538580v1_genomic covered 0.77590 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055381295_1_ASM5538129v1_genomic covered 0.77323 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_001299555_1_ASM129955v1_genomic covered 0.88713 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055386225_1_ASM5538622v1_genomic covered 0.76978 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_021117135_1_ASM2111713v1_genomic covered 0.86059 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029220005_1_ASM2922000v1_genomic covered 0.85040 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+uw551 covered 0.87905 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055383015_1_ASM5538301v1_genomic covered 0.77710 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_026016705_1_ASM2601670v1_genomic covered 0.78264 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045038165_1_ASM4503816v1_genomic covered 0.78019 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055385485_1_ASM5538548v1_genomic covered 0.77704 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054882375_1_ASM5488237v1_genomic covered 0.85618 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045038075_1_ASM4503807v1_genomic covered 0.78052 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055380885_1_ASM5538088v1_genomic covered 0.77169 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055381255_1_ASM5538125v1_genomic covered 0.77512 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055385165_1_ASM5538516v1_genomic covered 0.77817 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055392015_1_ASM5539201v1_genomic covered 0.77407 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_002549815_1_ASM254981v1_genomic covered 0.88749 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055396595_1_ASM5539659v1_genomic covered 0.77193 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_052747835_1_CIRAD_RUN2161_1_0_genomic covered 0.78671 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_046529245_1_ASM4652924v1_genomic covered 0.75215 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515165_1_ASM351516v1_genomic covered 0.78048 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_021117115_1_ASM2111711v1_genomic covered 0.87597 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055392795_1_ASM5539279v1_genomic covered 0.77409 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_039692545_1_ASM3969254v1_genomic covered 0.88175 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055397765_1_ASM5539776v1_genomic covered 0.77652 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003595305_1_ASM359530v1_genomic covered 0.78570 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054501615_1_GBBC1338_hybracter_genomic covered 0.74447 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055398245_1_ASM5539824v1_genomic covered 0.77790 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_050516405_1_ASM5051640v1_genomic covered 0.77745 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055391665_1_ASM5539166v1_genomic covered 0.77308 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_000215325_1_ASM21532v1_genomic covered 0.87858 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_041714705_1_ASM4171470v1_genomic covered 0.88215 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055384715_1_ASM5538471v1_genomic covered 0.77284 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_050916425_1_AHR56_1_0_genomic covered 0.82330 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_049860725_1_ASM4986072v1_genomic covered 0.78069 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_049860735_1_ASM4986073v1_genomic covered 0.76963 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_045038055_1_ASM4503805v1_genomic covered 0.78806 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_026016725_1_ASM2601672v1_genomic covered 0.78053 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055382075_1_ASM5538207v1_genomic covered 0.77528 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515185_1_ASM351518v1_genomic covered 0.79678 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_047120255_1_ASM4712025v1_genomic covered 0.78022 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515445_1_ASM351544v1_genomic covered 0.78646 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055395105_1_ASM5539510v1_genomic covered 0.77309 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_018243235_1_ASM1824323v1_genomic covered 0.77171 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055387005_1_ASM5538700v1_genomic covered 0.77192 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003590605_1_ASM359060v1_genomic covered 0.87857 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055386205_1_ASM5538620v1_genomic covered 0.77612 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_023518395_1_ASM2351839v1_genomic covered 0.77894 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055395735_1_ASM5539573v1_genomic covered 0.77234 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029219985_1_ASM2921998v1_genomic covered 0.99998 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029220045_1_ASM2922004v1_genomic covered 0.75596 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_052828505_1_ASM5282850v1_genomic covered 0.74530 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055387795_1_ASM5538779v1_genomic covered 0.77179 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_050516395_1_ASM5051639v1_genomic covered 0.77830 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055378695_1_ASM5537869v1_genomic covered 0.77233 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_000525615_2_P673_Nanopore_genomic covered 0.89318 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055388975_1_ASM5538897v1_genomic covered 0.77000 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_050516425_1_ASM5051642v1_genomic covered 0.77803 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055389745_1_ASM5538974v1_genomic covered 0.77187 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_003515425_1_ASM351542v1_genomic covered 0.77920 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055383385_1_ASM5538338v1_genomic covered 0.77779 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_037101325_1_ASM3710132v1_genomic covered 0.77344 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055384705_1_ASM5538470v1_genomic covered 0.77466 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+uw488 covered 0.88865 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054501565_1_GBBC1172_hybracter_genomic covered 0.77237 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_025859635_1_ASM2585963v1_genomic covered 0.75606 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055379705_1_ASM5537970v1_genomic covered 0.77431 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055379425_1_ASM5537942v1_genomic covered 0.77448 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055388985_1_ASM5538898v1_genomic covered 0.77529 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055396855_1_ASM5539685v1_genomic covered 0.77527 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055385175_1_ASM5538517v1_genomic covered 0.77285 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_054501585_1_GBBC1200_hybracter_genomic covered 0.77907 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_055398065_1_ASM5539806v1_genomic covered 0.77692 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_041714695_1_ASM4171469v1_genomic covered 0.88098 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_016743075_1_ASM1674307v1_genomic covered 0.72841 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Printing Summary Statistics.
+Creating SNP alignment.
+Creating SNP stats file. 
+SNP alignment complete.
+Reconstructing phylogeny using FastTree
+export OMP_NUM_THREADS=1; FastTree -quiet -nt -gtr < /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_using_GCAs_all_snp_alignment.fna > /data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_using_GCAs_all.fasttree 2>>/data/djs217/PROJECTS/45_ralstonia/03_workdir/results/Ralstonia_fasttree_using_GCAs.error 
+
+Tree phylogeny complete.

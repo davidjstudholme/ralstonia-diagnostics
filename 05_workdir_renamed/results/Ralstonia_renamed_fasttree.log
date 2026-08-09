@@ -1,0 +1,143 @@
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/NCSU_AHR102_1.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2995470 /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/NCSU_AHR102_1.fna /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/NCSU_AHR102_1.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2995470.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2995470.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2995560 /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/GCA_029219985_1_ASM2921998v1_genomic.fna /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/GCA_029219985_1_ASM2921998v1_genomic.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2995560.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2995560.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/UACho0002_1.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2995646 /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/UACho0002_1.fna /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/UACho0002_1.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2995646.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2995646.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/RsJ0314_1.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2995761 /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/RsJ0314_1.fna /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/RsJ0314_1.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2995761.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2995761.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/NCSU_RsMR_FL01_1.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq2995878 /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/NCSU_RsMR_FL01_1.fna /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/NCSU_RsMR_FL01_1.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq2995878.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq2995878.coords
+
+Repeat coords for all references found.
+Self-NUCmer complete
+==================================================================
+Aligning to the reference genome /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NCSU_AHR102_1
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_GCA_029219985_1_ASM2921998v1_genomic
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UACho0002_1
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RsJ0314_1
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_NCSU_RsMR_FL01_1
+
+NUCmer on all reference genomes complete.
+==================================================================
+
+runContigNUCmer.pl -r /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/GCA_029219985_1_ASM2921998v1_genomic.fna -q /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed -d /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results -l /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/contigs_list.txt -t 1 -y 2 2>>/data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results/Ralstonia_renamed_fasttree.error >> /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results/Ralstonia_renamed_fasttree.log
+
+
+Using given reference:  /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/GCA_029219985_1_ASM2921998v1_genomic.fna
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Rs5_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_EP1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW551_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Rs_T02_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RS476_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_P780_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL3882_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UA_1611_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_IBSBF1503_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Pe_13_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_Pe_18_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL3175_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_To_63_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW386_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T11_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW491_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CIP417_UW70_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL3300_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_PSS1308_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_To_22_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL3822_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CFBP7014_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_R24_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_YQ_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CIP120_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UCD576_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_MAFF211271_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SN82F48_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UW700_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SEPPX05_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T117_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SM744_UCD522_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_To_28_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_RUN2279_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_UA_1579_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_T42_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_IBSBF2570_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_SL3755_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_FJAT15353_F1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CaRs_Mep_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_LLRS_1_contig
+Running nucmer on GCA_029219985_1_ASM2921998v1_genomic_CFIA906_contig
+NUCmer on all contig/draft genomes complete.
+
+
+buildSNPDB.pl -i /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results -r /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/files/GCA_029219985_1_ASM2921998v1_genomic.fna -l /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/working_list.txt -p Ralstonia_renamed_fasttree -c 0 -g 0.1 2>>/data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results/Ralstonia_renamed_fasttree.error >> /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results/Ralstonia_renamed_fasttree.log
+
+Reading Gaps file.
+Pe_13_contig covered 0.75861 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL3175_contig covered 0.78225 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IBSBF2570_contig covered 0.88147 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SN82F48_contig covered 0.45669 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IBSBF1503_contig covered 0.89037 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+To_63_contig covered 0.75206 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP7014_contig covered 0.90362 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Pe_18_contig covered 0.76552 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+R24_contig covered 0.72416 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW551_contig covered 0.87380 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UACho0002_1 covered 0.88325 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PSS1308_contig covered 0.76847 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UA_1579_contig covered 0.84943 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Rs_T02_contig covered 0.75992 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RS476_contig covered 0.77265 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CIP417_UW70_contig covered 0.88440 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFIA906_contig covered 0.87634 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCSU_AHR102_1 covered 0.83141 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T42_contig covered 0.73133 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+EP1_contig covered 0.77859 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+To_28_contig covered 0.75770 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GCA_029219985_1_ASM2921998v1_genomic covered 0.99998 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+REPEATS covered 0.97100 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SEPPX05_contig covered 0.77241 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL3882_contig covered 0.75854 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW491_contig covered 0.85924 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCSU_RsMR_FL01_1 covered 0.82662 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RUN2279_contig covered 0.74806 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T117_contig covered 0.75833 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+P780_contig covered 0.89707 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW700_contig covered 0.81669 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UW386_contig covered 0.72817 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+LLRS_1_contig covered 0.78753 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL3300_contig covered 0.75427 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+RsJ0314_1 covered 0.85615 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF211271_contig covered 0.76475 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UA_1611_contig covered 0.81862 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Rs5_contig covered 0.81950 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CIP120_contig covered 0.84667 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+YQ_contig covered 0.76165 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+FJAT15353_F1_contig covered 0.76013 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T11_contig covered 0.76615 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL3822_contig covered 0.75903 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SM744_UCD522_contig covered 0.75982 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SL3755_contig covered 0.76102 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CaRs_Mep_contig covered 0.76869 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+To_22_contig covered 0.74554 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+UCD576_contig covered 0.85730 of the GCA_029219985_1_ASM2921998v1_genomic (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Printing Summary Statistics.
+Creating SNP alignment.
+Creating SNP stats file. 
+SNP alignment complete.
+Reconstructing phylogeny using FastTree
+export OMP_NUM_THREADS=1; FastTree -quiet -nt -gtr < /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results/Ralstonia_renamed_fasttree_all_snp_alignment.fna > /data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results/Ralstonia_renamed_fasttree_all.fasttree 2>>/data/djs217/PROJECTS/45_ralstonia/05_workdir_renamed/results/Ralstonia_renamed_fasttree.error 
+
+Tree phylogeny complete.

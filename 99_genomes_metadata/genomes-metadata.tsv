@@ -1,0 +1,441 @@
+AssemblyAccession	AssemblyName	Organism	SpeciesTaxid	BioSampleAccn	ContigN50	Coverage	Strain	Pathovar	Owner	Link
+GCF_000167955.1	ASM16795v1	Ralstonia solanacearum UW551 (b-proteobacteria)	305	SAMN02471768	65840		UW551		NCBI	15601
+GCF_000212635.3	ASM21263v2	Ralstonia solanacearum MolK2 (b-proteobacteria)	305	SAMEA3138396	30467		MolK2		EBI	
+GCF_000215325.1	ASM21532v1	Ralstonia solanacearum Po82 (b-proteobacteria)	305	SAMN02603411	3481091		Po82		NCBI	66837
+GCF_000525615.2	P673_Nanopore	Ralstonia solanacearum P673 (b-proteobacteria)	305	SAMN02585053	3505620	73	P673		Univ. of Florida MREC	230111
+GCF_000710135.2	ASM71013v3	Ralstonia solanacearum (b-proteobacteria)	305	SAMN02863150	58390	105	CFIA906		Canadian Food Inspection Agency	
+GCF_000710695.1	Ralstonia solanacearum R3bv2 strain NCPPB909	Ralstonia solanacearum (b-proteobacteria)	305	SAMN02821162	51262	200	NCPPB 909		Canadian Food Inspection Agency	
+GCF_000749995.1	ASM74999v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN03009919	136379	20	23-10BR		University of Exeter	
+GCF_000750575.1	ASM75057v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN03009966	69431	20	NCPPB 282		University of Exeter	
+GCF_000750585.1	ASM75058v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN03009990	30760	17	POPS2		University of Exeter	
+GCF_000825785.1	B50	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3137592	15512	100	B50		EBI	
+GCF_000825805.1	UW179	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3137593	27629	100	UW179		EBI	
+GCF_000825825.1	CIP417	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3137594	23932	100	CIP417		EBI	
+GCF_000825845.1	Grenada91	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3137596	21465	100	Grenada 9-1		EBI	
+GCF_000825865.1	UW163	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3137591	22639	100	UW163		EBI	
+GCF_000825885.1	CFBP6783	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3137590	24821	100	CFBP6783		EBI	
+GCF_000825905.1	IBSBF1503	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3137589	24468	100	IBSBF1503		EBI	
+GCF_000825925.1	CFBP1416	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3137588	20097	100	CFBP1416		EBI	
+GCF_001050995.1	ASM105099v1	Ralstonia solanacearum IPO1609 (b-proteobacteria)	305	SAMEA3158502	28779		IPO1609		EBI	
+GCF_001299555.1	ASM129955v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN03402637	3412138	130	UY031		University of Sao Paulo	
+GCF_001373255.1	CFBP7014	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3218683	24846	100	CFBP7014		EBI	
+GCF_001373275.1	IBSBF1900.fas.gz	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3218684	15549	100	IBSBF1900		EBI	
+GCF_001373295.1	RS2	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3218685	101387	100	RS2		EBI	
+GCF_001373315.1	CFBP3858	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3218686	23007	100	UW181		EBI	
+GCF_001373335.1	CFBP3858	Ralstonia solanacearum (b-proteobacteria)	305	SAMEA3292285	25761	100	CFBP3858		EBI	
+GCF_001587135.1	ASM158713v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN04123295	3509932	155	UW163		CIRAD	
+GCF_001587155.1	ASM158715v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN04123299	3460461	117	IBSBF1503		CIRAD	297402
+GCF_001644795.1	ASM164479v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN03256333	82414	150	CIP120		University of Florida MREC	269725
+GCF_001644805.2	P597_Nanopore	Ralstonia solanacearum (b-proteobacteria)	305	SAMN02716068	3433357	106	P597		University of Florida MREC	
+GCF_001644815.1	ASM164481v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN03256353	59814	150	CFBP6783		University of Florida MREC	269725
+GCF_001696845.1	RSOL003-SEQ-1-ASM-1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN04216072	136661	633.008	UW491		MRIGlobal	257008
+GCF_001696855.1	RSOL002-SEQ-1-ASM-1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN04216071	120384	467.965	UW24		MRIGlobal	257008
+GCF_001696865.1	RSOL001-SEQ-1-ASM-1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN04216070	101497	574.415	UW365		MRIGlobal	257008
+GCF_001696875.1	RSOL004-SEQ-1-ASM-1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN04216073	110639	542.753	UW551		MRIGlobal	257008
+GCF_001901665.1	ASM190166v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN05789166	15243	15	BBAC-C1		Rutgers University	
+GCF_002029865.1	ASM202986v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN06560054	83870	45	GEO_99		NCDC Lugar Center	378704
+GCF_002029885.1	ASM202988v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN06560052	101336	125	GEO_57		NCDC Lugar Center	378704
+GCF_002029895.1	ASM202989v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN06560053	101078	188	GEO_96		NCDC Lugar Center	378704
+GCF_002251605.2	ASM225160v3	Ralstonia solanacearum (b-proteobacteria)	305	SAMN06697628	1697113	32	UW700		University of Wisconsin-Madison	
+GCF_002251655.1	ASM225165v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN06697629	3471163	108.03	UW551		University of Wisconsin-Madison	
+GCF_002251695.1	ASM225169v1	Ralstonia solanacearum K60 (b-proteobacteria)	305	SAMN06697627	3838865	136.21	K60		University of Wisconsin-Madison	
+GCF_002501565.1	ASM250156v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN07176573	3412138	308.67	RS 488		Consortium EMBRAPA Vegetable Crops/UFRPE	
+GCF_002549815.1	ASM254981v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN07189980	3411957	753.1	RS 489		Consortium EMBRAPA Vegetable Crops/UFRPE	
+GCF_002894765.1	ASM289476v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08043183	93013	35	GEO_6		NCDC Lugar Center	419122
+GCF_002894775.1	ASM289477v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08046731	100162	500	GEO_304		NCDC Lugar Center	419261
+GCF_002894785.1	ASM289478v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08043185	91574	31	GEO_81		NCDC Lugar Center	419125
+GCF_002894795.1	ASM289479v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08043155	99898	20	GEO_230		NCDC Lugar Center	419114
+GCF_002894845.1	ASM289484v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08048783	57307	450	GEO_55		NCDC Lugar Center	419262
+GCF_003337165.1	ASM333716v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN06189571	100560	30	P816		University of Florida MREC	
+GCF_003576005.1	ASM357600v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08407853	94590	150	P822		University of Florida	432008
+GCF_003590585.2	ASM359058v2	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08378625	111312	124.9	IBSBF 2570		UFRPE	
+GCF_003590605.1	ASM359060v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08384893	3480799	1	IBSBF 2571		UFRPE	
+GCF_003590625.2	ASM359062v2	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08380407	104519	116.8	SFC		UFRPE	
+GCF_003612975.2	ASM361297v2	Ralstonia solanacearum (b-proteobacteria)	305	SAMN07187863	45586	684	CRMRs218		Consortium EMBRAPA Vegetable Crops/UFRPE	
+GCF_003860665.1	ASM386066v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN10366523	5003259	30	UA-1612		Universidad de Antioquia	503606
+GCF_003860685.1	ASM386068v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN10366525	5195593	30	UA-1611		Universidad de Antioquia	503606
+GCF_003860705.1	ASM386070v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN10366526	5351885	30	UA-1591		Universidad de Antioquia	503606
+GCF_003860725.1	ASM386072v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN10366527	5081326	30	UA-1579		Universidad de Antioquia	503606
+GCF_003860745.1	ASM386074v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN10366522	5362379	30	UA-1617		Universidad de Antioquia	503606
+GCF_003860765.1	ASM386076v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN10366524	5067952	30	UA-1609		Universidad de Antioquia	503606
+GCF_008271875.1	ASM827187v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN08378579	36872	132	10314		University of the Philippines Diliman	
+GCA_009832785.1	ASM983278v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN13633964	3142020	1	CFBP 8697		Shiraz University	
+GCA_009832805.1	ASM983280v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN13639769	3299152	1	CFBP 8695		Shiraz University	
+GCF_012562465.1	ASM1256246v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN14207021	3481951	70	CIAT_078		International Center for Tropical Agriculture (CIAT)	608676
+GCF_013359535.1	ASM1335953v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN15102643	101099	26	UW848		The Ohio State University	637338
+GCF_014210335.1	ASM1421033v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN15371200	47845	129.8	CCRMRs304		Consortium EMBRAPA Vegetable Crops/UFRPE	641916
+GCF_014210345.1	ASM1421034v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN15371201	191878	163	CCRMRsB7		Consortium EMBRAPA Vegetable Crops/UFRPE	641916
+GCF_014210375.1	ASM1421037v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN15371199	170471	148	CCRMRs287		Consortium EMBRAPA Vegetable Crops/UFRPE	641916
+GCF_014210395.1	ASM1421039v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN15371198	49791	133	CCRMRs277		Consortium EMBRAPA Vegetable Crops/UFRPE	641916
+GCF_014884745.1	ASM1488474v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN13348486	3592797	39	Rs5		Allen Lab	591018
+GCF_015910635.1	ASM1591063v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125522	908313	19	NCPPB 3985		Wageningen Plant Research	663270
+GCF_015910705.1	ASM1591070v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125519	1360841	26	NCPPB 325		Wageningen Plant Research	663270
+GCF_015910755.1	ASM1591075v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125513	83740	162	IPO 0715		Wageningen Plant Research	663270
+GCF_015910775.1	ASM1591077v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125515	110328	568	PD 445		Wageningen Plant Research	663270
+GCF_015910785.1	ASM1591078v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125514	110620	434	IPO 0738		Wageningen Plant Research	663270
+GCF_015910795.1	ASM1591079v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125512	93296	165	PD 141		Wageningen Plant Research	663270
+GCF_015910825.1	ASM1591082v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125511	101484	313	PD 2762		Wageningen Plant Research	663270
+GCF_015910855.1	ASM1591085v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125510	97464	114	PD 1447		Wageningen Plant Research	663270
+GCF_015910875.1	ASM1591087v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125508	185874	332	PD 1414		Wageningen Plant Research	663270
+GCF_015910885.1	ASM1591088v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125509	152655	282	PD 1446		Wageningen Plant Research	663270
+GCF_015910925.1	ASM1591092v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125506	101485	194	PD 134		Wageningen Plant Research	663270
+GCF_015910965.1	ASM1591096v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125503	101484	296	NAK 7		Wageningen Plant Research	663270
+GCF_015911015.1	ASM1591101v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125502	110327	220	NAK 216		Wageningen Plant Research	663270
+GCF_015911025.1	ASM1591102v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125500	110328	270	NAK 214		Wageningen Plant Research	663270
+GCF_015911055.1	ASM1591105v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125497	110327	249	NAK 204		Wageningen Plant Research	663270
+GCF_015911065.1	ASM1591106v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125501	110327	339	NAK 215		Wageningen Plant Research	663270
+GCF_015911075.1	ASM1591107v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125499	101485	175	NAK 213		Wageningen Plant Research	663270
+GCF_015911095.1	ASM1591109v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125498	101485	259	NAK 210		Wageningen Plant Research	663270
+GCF_015911115.1	ASM1591111v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125496	110327	226	NAK 202		Wageningen Plant Research	663270
+GCF_015911155.1	ASM1591115v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125495	110619	264	NAK 201		Wageningen Plant Research	663270
+GCF_015911165.1	ASM1591116v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125494	110328	228	NAK 199		Wageningen Plant Research	663270
+GCF_015911195.1	ASM1591119v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125492	110327	178	NAK 180		Wageningen Plant Research	663270
+GCF_015911205.1	ASM1591120v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125493	110328	235	NAK 198		Wageningen Plant Research	663270
+GCF_015911215.1	ASM1591121v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125491	110328	129	NAK 170		Wageningen Plant Research	663270
+GCF_015911255.1	ASM1591125v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125488	110328	114	NAK 164		Wageningen Plant Research	663270
+GCF_015911275.1	ASM1591127v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125490	110620	132	NAK 166		Wageningen Plant Research	663270
+GCF_015911295.1	ASM1591129v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125487	110619	101	NAK 163		Wageningen Plant Research	663270
+GCF_015911305.1	ASM1591130v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125486	100081	92	NAK 162		Wageningen Plant Research	663270
+GCF_015911355.1	ASM1591135v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125485	110327	129	NAK 161		Wageningen Plant Research	663270
+GCF_015911395.1	ASM1591139v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125484	110330	119	NAK 159		Wageningen Plant Research	663270
+GCF_015911405.1	ASM1591140v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125483	36337	135	PD 4321		Wageningen Plant Research	663270
+GCF_015911415.1	ASM1591141v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125481	93222	850	PD 4124		Wageningen Plant Research	663270
+GCF_015911455.1	ASM1591145v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125479	26268	187	PD 3668		Wageningen Plant Research	663270
+GCF_015911465.1	ASM1591146v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125480	27880	143	PD 4027		Wageningen Plant Research	663270
+GCF_015911515.1	ASM1591151v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125476	98452	179	PD 3270		Wageningen Plant Research	663270
+GCF_015911555.1	ASM1591155v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125474	69848	143	PD 3223		Wageningen Plant Research	663270
+GCF_015911565.1	ASM1591156v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125475	84054	190	PD 3269		Wageningen Plant Research	663270
+GCF_015911585.1	ASM1591158v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125473	93458	128	PD:3222		Wageningen Plant Research	663270
+GCF_015911625.1	ASM1591162v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125471	55755	154	PD:3203		Wageningen Plant Research	663270
+GCF_015911675.1	ASM1591167v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125469	28145	196	PD:3121		Wageningen Plant Research	663270
+GCF_015911685.1	ASM1591168v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125468	28391	153	PD:3115		Wageningen Plant Research	663270
+GCF_015911715.1	ASM1591171v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125467	32046	167	PD:3049		Wageningen Plant Research	663270
+GCF_015911725.1	ASM1591172v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125466	21620	136	PD:2625		Wageningen Plant Research	663270
+GCF_015911775.1	ASM1591177v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125464	75582	158	IPO:3731		Wageningen Plant Research	663270
+GCF_015911785.1	ASM1591178v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125463	111884	437	PD:441		Wageningen Plant Research	663270
+GCF_015911795.1	ASM1591179v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125462	110327	507	IPO:1828		Wageningen Plant Research	663270
+GCF_015911835.1	ASM1591183v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125460	110330	394	IPO:1808		Wageningen Plant Research	663270
+GCF_015911845.1	ASM1591184v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125461	110620	450	IPO:1809		Wageningen Plant Research	663270
+GCF_015911875.1	ASM1591187v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125458	110619	468	IPO:1805		Wageningen Plant Research	663270
+GCF_015911895.1	ASM1591189v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125457	110619	446	IPO:1804		Wageningen Plant Research	663270
+GCF_015911905.1	ASM1591190v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125459	110618	442	IPO:1806		Wageningen Plant Research	663270
+GCF_015911935.1	ASM1591193v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125456	93209	158	IPO:1752		Wageningen Plant Research	663270
+GCF_015911945.1	ASM1591194v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125455	51263	162	CFBP:3581		Wageningen Plant Research	663270
+GCF_015911975.1	ASM1591197v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125454	56621	175	IPO:1750		Wageningen Plant Research	663270
+GCF_015911985.1	ASM1591198v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125453	101485	464	PD:2942		Wageningen Plant Research	663270
+GCF_015912005.1	ASM1591200v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125452	101484	498	PD:2941		Wageningen Plant Research	663270
+GCF_015912035.1	ASM1591203v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125451	110619	506	PD:2940		Wageningen Plant Research	663270
+GCF_015912065.1	ASM1591206v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125449	129922	542	PD:1445		Wageningen Plant Research	663270
+GCF_015912085.1	ASM1591208v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125447	62700	162	PD:1260		Wageningen Plant Research	663270
+GCF_015912105.1	ASM1591210v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125448	74202	141	PD:1408		Wageningen Plant Research	663270
+GCF_015912135.1	ASM1591213v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125446	93297	150	PD:1254		Wageningen Plant Research	663270
+GCF_015912235.1	ASM1591223v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN16125441	590406	190	PD:2763		Wageningen Plant Research	663270
+GCF_021117095.1	ASM2111709v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612368	3343222	40	UW72		Virginia Tech	
+GCF_021117115.1	ASM2111711v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612365	3514013	41	CIP417_UW70		Virginia Tech	775652
+GCF_021117135.1	ASM2111713v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612269	3362592	41	UW251		Virginia Tech	775652
+GCF_022095055.1	ASM2209505v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN25611842	143029	20	RsT01		Agrosavia	803068
+GCF_023074875.1	ASM2307487v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612389	3512212	41	UW88		Virginia Tech	775652
+GCF_023074895.1	ASM2307489v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612387	171651	180	B73_UW840		Virginia Tech	775652
+GCF_023074915.1	ASM2307491v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612386	138835	46	B70_UW839		Virginia Tech	775652
+GCF_023074935.1	ASM2307493v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612385	116585	35	B68_UW837		Virginia Tech	775652
+GCF_023074955.1	ASM2307495v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612384	3513560	41	UW82		Virginia Tech	775652
+GCF_023074995.1	ASM2307499v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612388	71064	26	UW87		Virginia Tech	775652
+GCF_023075045.1	ASM2307504v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612380	1756155	41	UW80		Virginia Tech	775652
+GCF_023075135.1	ASM2307513v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612376	3740533	41	IBSBF2001_UW756		Virginia Tech	775652
+GCF_023075165.1	ASM2307516v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612374	91379	29	Rs540_UW751		Virginia Tech	775652
+GCF_023075175.1	ASM2307517v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612375	131974	27	Rs545_UW752		Virginia Tech	775652
+GCF_023075275.1	ASM2307527v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612369	3588558	40	UW73		Virginia Tech	775652
+GCF_023075295.1	ASM2307529v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612366	63955	27	AW1_UW701		Virginia Tech	775652
+GCF_023075305.1	ASM2307530v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612367	4118718	41	UW71		Virginia Tech	775652
+GCF_023075335.1	ASM2307533v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612364	3572105	41	CIP240_RUN482_UW692		Virginia Tech	775652
+GCF_023075355.1	ASM2307535v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612363	138846	26	T1-UY_UW688		Virginia Tech	775652
+GCF_023075395.1	ASM2307539v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612360	3360777	40	NCPPB3987_UW656		Virginia Tech	775652
+GCF_023075475.1	ASM2307547v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612356	178626	35	RUN58_UW646		Virginia Tech	775652
+GCF_023075495.1	ASM2307549v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612361	101429	28	CFBP7029_UW665		Virginia Tech	775652
+GCF_023075515.1	ASM2307551v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612354	150979	23	CIP301_UW641		Virginia Tech	775652
+GCF_023075555.1	ASM2307555v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612353	75622	22	CIP239_RUN043_UW639		Virginia Tech	
+GCF_023075635.1	ASM2307563v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612348	100262	30	UW600		Virginia Tech	775652
+GCF_023075655.1	ASM2307565v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612347	99330	26			Virginia Tech	775652
+GCF_023075685.1	ASM2307568v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612345	96585	17	Rs124_UW586		Virginia Tech	775652
+GCF_023075695.1	ASM2307569v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612346	62966	24	UW592		Virginia Tech	775652
+GCF_023075705.1	ASM2307570v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612350	93274	32	UW611		Virginia Tech	775652
+GCF_023075715.1	ASM2307571v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612343	101424	34	UW573		Virginia Tech	775652
+GCF_023075775.1	ASM2307577v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612342	95827	30	UW560		Virginia Tech	775652
+GCF_023075785.1	ASM2307578v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612340	95575	35	UW552		Virginia Tech	775652
+GCF_023075815.1	ASM2307581v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612341	81493	22	UW557		Virginia Tech	775652
+GCF_023075825.1	ASM2307582v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612339	88489	31	IPO1609_UW550		Virginia Tech	775652
+GCF_023075835.1	ASM2307583v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612338	101426	35	LNPV14-25_UW523		Virginia Tech	775652
+GCF_023075895.1	ASM2307589v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612336	93778	31	CIP265_UW504		Virginia Tech	775652
+GCF_023075915.1	ASM2307591v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612333	4396061	41	CIP310_UW495		Virginia Tech	775652
+GCF_023075955.1	ASM2307595v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612334	3162510	40	CIP180_UW500		Virginia Tech	775652
+GCF_023075975.1	ASM2307597v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612332	98663	28	CIP309_UW494		Virginia Tech	775652
+GCF_023075995.1	ASM2307599v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612331	107044	36	CIP302_UW492		Virginia Tech	775652
+GCF_023076035.1	ASM2307603v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612328	93336	20	CIP282_UW489		Virginia Tech	775652
+GCF_023076055.1	ASM2307605v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612327	198174	27	CIP214_UW488		Virginia Tech	775652
+GCF_023076075.1	ASM2307607v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612324	154911	23	CIP167_UW484		Virginia Tech	775652
+GCF_023076095.1	ASM2307609v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612325	245893	26	CIP177_UW485		Virginia Tech	775652
+GCF_023076105.1	ASM2307610v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612326	83999	31	CIP207_UW487		Virginia Tech	775652
+GCF_023076135.1	ASM2307613v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612329	99977	40	CIP238_UW490		Virginia Tech	775652
+GCF_023076155.1	ASM2307615v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612322	101931	19	CIP9_UW476		Virginia Tech	775652
+GCF_023076165.1	ASM2307616v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612323	3586384	40	CIP10_UW477		Virginia Tech	775652
+GCF_023076215.1	ASM2307621v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612321	83203	23	CIP300_UW473		Virginia Tech	775652
+GCF_023076235.1	ASM2307623v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612319	100127	29	CIP240_UW470		Virginia Tech	775652
+GCF_023076255.1	ASM2307625v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612318	80246	75	CIP239_UW469		Virginia Tech	775652
+GCF_023076265.1	ASM2307626v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612317	3626550	41	CIP226_UW467		Virginia Tech	775652
+GCF_023076295.1	ASM2307629v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612313	3345311	40	CIP217_UW462		Virginia Tech	775652
+GCF_023076315.1	ASM2307631v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612316	3672654	41	CIP224_UW466		Virginia Tech	775652
+GCF_023076335.1	ASM2307633v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612312	3505422	41	CIP211_UW461		Virginia Tech	775652
+GCF_023076355.1	ASM2307635v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612311	3574493	41	CIP172_UW458		Virginia Tech	775652
+GCF_023076395.1	ASM2307639v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612314	3501577	40	CIP218_UW463		Virginia Tech	775652
+GCF_023076415.1	ASM2307641v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612315	3352797	41	CIP221_UW464		Virginia Tech	775652
+GCF_023076435.1	ASM2307643v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612306	87136	26	CIP258_UW448		Virginia Tech	775652
+GCF_023076455.1	ASM2307645v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612308	228432	35	CIP61_UW451		Virginia Tech	775652
+GCF_023076475.1	ASM2307647v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612309	165800	31	CIP77_UW452		Virginia Tech	775652
+GCF_023076485.1	ASM2307648v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612307	91620	21	CIP259_UW449		Virginia Tech	775652
+GCF_023076515.1	ASM2307651v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612305	87107	29	O1059_UW442		Virginia Tech	775652
+GCF_023076535.1	ASM2307653v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612304	100262	29	01020AS_UW437		Virginia Tech	775652
+GCF_023076545.1	ASM2307654v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612302	99349	22	O223A_UW420		Virginia Tech	775652
+GCF_023076565.1	ASM2307656v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612303	96890	41	O249_UW425		Virginia Tech	775652
+GCF_023076575.1	ASM2307657v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612301	101423	36	O15A_UW408		Virginia Tech	775652
+GCF_023076655.1	ASM2307665v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612297	3426290	40	UW37		Virginia Tech	775652
+GCF_023076695.1	ASM2307669v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612296	3418642	41	40-4SP_UW354		Virginia Tech	775652
+GCF_023076735.1	ASM2307673v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612294	3505428	40	26-3SP_UW351		Virginia Tech	775652
+GCF_023076755.1	ASM2307675v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612292	3584788	40	23-10BR_UW349		Virginia Tech	775652
+GCF_023076775.1	ASM2307677v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612293	161296	23	25-2SP_UW350		Virginia Tech	775652
+GCF_023076795.1	ASM2307679v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612291	3579429	40	19-3PR_UW348		Virginia Tech	775652
+GCF_023076805.1	ASM2307680v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612290	2955591	41	17-4SC_UW347		Virginia Tech	775652
+GCF_023076835.1	ASM2307683v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612289	3513923	41	15-3SC_UW346		Virginia Tech	775652
+GCF_023076855.1	ASM2307685v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612288	3384718	41	14-2SC_UW345		Virginia Tech	775652
+GCF_023076865.1	ASM2307686v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612287	2849634	41	10-1SC_UW344		Virginia Tech	775652
+GCF_023076905.1	ASM2307690v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612285	95605	25	UW330		Virginia Tech	775652
+GCF_023076945.1	ASM2307694v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612281	3392633	41	UW28		Virginia Tech	775652
+GCF_023076975.1	ASM2307697v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612279	93767	21	CIP90_UW274		Virginia Tech	775652
+GCF_023077005.1	ASM2307700v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612280	101425	24	UW276		Virginia Tech	775652
+GCF_023077035.1	ASM2307703v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612278	3330289	41	UW273		Virginia Tech	775652
+GCF_023077055.1	ASM2307705v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612277	173821	23	UW272		Virginia Tech	775652
+GCF_023077075.1	ASM2307707v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612276	3542825	40	UW263		Virginia Tech	775652
+GCF_023077095.1	ASM2307709v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612275	3402393	41	UW262		Virginia Tech	775652
+GCF_023077115.1	ASM2307711v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612274	213306	26	UW261		Virginia Tech	775652
+GCF_023077155.1	ASM2307715v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612271	93767	28	UW257		Virginia Tech	775652
+GCF_023077175.1	ASM2307717v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612270	128915	24	UW256		Virginia Tech	775652
+GCF_023077195.1	ASM2307719v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612268	69896	30	UW24		Virginia Tech	775652
+GCF_023077215.1	ASM2307721v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612273	3086127	41	UW260		Virginia Tech	775652
+GCF_023077235.1	ASM2307723v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612267	63743	27	UW23		Virginia Tech	775652
+GCF_023077255.1	ASM2307725v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612265	93140	33	UW225		Virginia Tech	775652
+GCF_023077275.1	ASM2307727v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612266	3314965	41	UW229		Virginia Tech	775652
+GCF_023077295.1	ASM2307729v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612264	73062	26	UW224		Virginia Tech	775652
+GCF_023077315.1	ASM2307731v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612262	101424	31	UW220e		Virginia Tech	775652
+GCF_023077335.1	ASM2307733v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612261	87358	21	UW220c		Virginia Tech	775652
+GCF_023077355.1	ASM2307735v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612260	73128	29	UW220b		Virginia Tech	775652
+GCF_023077375.1	ASM2307737v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612258	80236	28	UW210		Virginia Tech	775652
+GCF_023077415.1	ASM2307741v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612259	79331	26	UW220a		Virginia Tech	775652
+GCF_023077435.1	ASM2307743v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612255	86932	22	UW187		Virginia Tech	775652
+GCF_023077475.1	ASM2307747v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612254	124369	22	UW175		Virginia Tech	775652
+GCF_023077495.1	ASM2307749v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612253	1961361	41	UW162		Virginia Tech	775652
+GCF_023077515.1	ASM2307751v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612252	3191912	40	UW161		Virginia Tech	775652
+GCF_023077535.1	ASM2307753v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612251	1968925	41	UW160		Virginia Tech	775652
+GCF_023077555.1	ASM2307755v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612249	69751	22	UW153		Virginia Tech	775652
+GCF_023077575.1	ASM2307757v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612250	3514334	40	UW156		Virginia Tech	775652
+GCF_023077585.1	ASM2307758v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612248	126604	23	UW145		Virginia Tech	775652
+GCF_023077615.1	ASM2307761v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612247	3821275	41	UW134		Virginia Tech	775652
+GCF_023077635.1	ASM2307763v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN22612246	93055	27	UW120		Virginia Tech	775652
+GCF_023646415.1	ASM2364641v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631883	244099	71	UW170		University of California, Davis	826884
+GCF_023646435.1	ASM2364643v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631881	202595	71	P673		University of California, Davis	826884
+GCF_023646455.1	ASM2364645v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631882	147303	71	UW128		University of California, Davis	826884
+GCF_023646475.1	ASM2364647v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631880	202595	71	RUN0002		University of California, Davis	826884
+GCF_023646495.1	ASM2364649v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631878	109946	71	P840		University of California, Davis	826884
+GCF_023646515.1	ASM2364651v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631879	167031	71	RUN0003		University of California, Davis	826884
+GCF_023646535.1	ASM2364653v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631877	117479	71	P780		University of California, Davis	826884
+GCF_023646555.1	ASM2364655v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631876	105821	71	P575		University of California, Davis	826884
+GCF_023646575.1	ASM2364657v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631875	109802	71	P565		University of California, Davis	826884
+GCF_023646585.1	ASM2364658v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27631874	102154	71	P557		University of California, Davis	826884
+GCF_023646615.1	ASM2364661v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27589866	54886	71	P488		University of California, Davis	826884
+GCF_023700725.1	ASM2370072v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN27589867	97963	71	P545		University of California, Davis	826884
+GCF_028177105.1	ASM2817710v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464310	238614	365.71	CCRMRs339		Universidade Federal Rural de Pernambuco	763940
+GCF_028177115.1	ASM2817711v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464309	504573	269.156	CCRMRs121		Universidade Federal Rural de Pernambuco	763940
+GCF_028177125.1	ASM2817712v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464307	185753	485.57	CCRMRs286		Universidade Federal Rural de Pernambuco	763940
+GCF_028177135.1	ASM2817713v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464305	204912	403.233	CCRMRs294		Universidade Federal Rural de Pernambuco	763940
+GCF_028177185.1	ASM2817718v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464303	574994	347.332	B4		Universidade Federal Rural de Pernambuco	763940
+GCF_028177285.1	ASM2817728v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464302	296540	360.497	CCRMRs223		Universidade Federal Rural de Pernambuco	763940
+GCF_028177305.1	ASM2817730v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464301	204913	367.323	CCRMRs283		Universidade Federal Rural de Pernambuco	763940
+GCF_028177325.1	ASM2817732v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464300	37222	372.057	CCRMRs302		Universidade Federal Rural de Pernambuco	763940
+GCF_028177365.1	ASM2817736v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464298	399454	314.148	B106		Universidade Federal Rural de Pernambuco	763940
+GCF_028177375.1	ASM2817737v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464299	37222	295.73	CCRMRs314		Universidade Federal Rural de Pernambuco	763940
+GCF_028177485.1	ASM2817748v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464297	45584	308.173	CCRMRs279		Universidade Federal Rural de Pernambuco	763940
+GCF_028177505.1	ASM2817750v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464296	333179	325.383	B75		Universidade Federal Rural de Pernambuco	763940
+GCF_028177545.1	ASM2817754v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464295	205138	286.84	CCRMRs317		Universidade Federal Rural de Pernambuco	763940
+GCF_028177635.1	ASM2817763v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN21464294	105718	375.686	CCRMRs91		Universidade Federal Rural de Pernambuco	763940
+GCF_028464595.1	ASM2846459v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078158	71434	93.4942	UW136		UC Davis	834840
+GCF_028464615.1	ASM2846461v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078159	62337	197.57	UW140		UC Davis	834840
+GCF_028464665.1	ASM2846466v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078149	144569	358.712	UW190		UC Davis	834840
+GCF_028464675.1	ASM2846467v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078157	74733	90.7572	UW98		UC Davis	834840
+GCF_028464745.1	ASM2846474v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078151	139800	130.015	UW192		UC Davis	834840
+GCF_028464765.1	ASM2846476v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078147	170557	236.539	UW177		UC Davis	834840
+GCF_028464775.1	ASM2846477v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078146	138675	350.629	UW176		UC Davis	834840
+GCF_028464785.1	ASM2846478v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078145	183394	368.664	UW174		UC Davis	834840
+GCF_028464815.1	ASM2846481v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078143	183394	387.636	UW171		UC Davis	834840
+GCF_028464835.1	ASM2846483v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078144	186452	422.034	UW172		UC Davis	834840
+GCF_028464865.1	ASM2846486v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078142	140298	337.91	UW158		UC Davis	834840
+GCF_028464965.1	ASM2846496v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078141	144488	312.728	UW132		UC Davis	834840
+GCF_028728185.1	ASM2872818v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078156	63146	104.94	UW75		UC Davis	834840
+GCF_028728295.1	ASM2872829v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN28078150	101461	126.928	UW191		UC Davis	834840
+GCF_029219985.1	ASM2921998v1	Ralstonia solanacearum MolK2 (b-proteobacteria)	305	SAMN32543034	3113499	140	MolK2		INRAE	917596
+GCF_029220005.1	ASM2922000v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN32543033	3329396	276	BA7		INRAE	917596
+GCF_029220025.1	ASM2922002v1	Ralstonia solanacearum CFBP2957 (b-proteobacteria)	305	SAMN32543032	3416152	163	CFBP2957		INRAE	917596
+GCF_030412035.1	ASM3041203v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN35347198	108706	100	RALSA-MA		Universidad de Costa Rica	898399
+GCF_036543205.1	ASM3654320v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN39822551	74120	32	UW853_UCD541		University of California, Davis	1073220
+GCF_036553425.1	ASM3655342v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN39822550	125892	46	UCD576		University of California, Davis	1073220
+GCF_036628335.1	ASM3662833v1	Ralstonia solanacearum species complex bacterium KE100 (b-proteobacteria)	3119581	SAMN39646429	131372	138.511	KE100		International Potato Center	1070535
+GCF_036628355.1	ASM3662835v1	Ralstonia solanacearum species complex bacterium KE449 (b-proteobacteria)	3119582	SAMN39646428	117291	106.513	KE449		International Potato Center	1070535
+GCF_036628375.1	ASM3662837v1	Ralstonia solanacearum species complex bacterium ZIM076 (b-proteobacteria)	3119584	SAMN39646426	131371	118.983	ZIM076		International Potato Center	1070535
+GCF_036628415.1	ASM3662841v1	Ralstonia solanacearum species complex bacterium KE711 (b-proteobacteria)	3119583	SAMN39646427	131369	104.496	KE711		International Potato Center	1070535
+GCF_036628455.1	ASM3662845v1	Ralstonia solanacearum species complex bacterium KE055 (b-proteobacteria)	3119586	SAMN39646424	131916	106.036	KE055		International Potato Center	1070535
+GCF_037652855.1	ASM3765285v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518018	105357	400	PD 8567		NIVIP	1089092
+GCF_037652875.1	ASM3765287v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518019	101397	400	PD 7579		NIVIP	1089092
+GCF_037652935.1	ASM3765293v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518023	108905	400	PD 8566		NIVIP	1089092
+GCF_037653005.1	ASM3765300v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518013	101397	400	PD 8568		NIVIP	1089092
+GCF_037653055.1	ASM3765305v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518000	101398	400	PD 7642		NIVIP	1089092
+GCF_037653075.1	ASM3765307v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518021	101396	400	PD 7397		NIVIP	1089092
+GCF_037653095.1	ASM3765309v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518022	105357	400	PD 7414		NIVIP	1089092
+GCF_037653155.1	ASM3765315v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518020	101396	400	PD 7394		NIVIP	1089092
+GCF_037653195.1	ASM3765319v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518012	106098	400	PD 8570		NIVIP	1089092
+GCF_037653205.1	ASM3765320v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518024	108905	400	PD 7421		NIVIP	1089092
+GCF_037653275.1	ASM3765327v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518017	101397	400	PD 7578		NIVIP	1089092
+GCF_037653325.1	ASM3765332v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518007	101396	400	PD 7645		NIVIP	1089092
+GCF_037653355.1	ASM3765335v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518008	105367	400	PD 7647		NIVIP	1089092
+GCF_037653395.1	ASM3765339v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518006	101397	400	PD 7672		NIVIP	1089092
+GCF_037653435.1	ASM3765343v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518016	101397	400	PD 7711		NIVIP	1089092
+GCF_037653495.1	ASM3765349v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518014	105357	400	PD 8569		NIVIP	1089092
+GCF_037653535.1	ASM3765353v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518010	105357	400	PD 7576		NIVIP	1089092
+GCF_037653575.1	ASM3765357v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518015	101396	400	PD 8571		NIVIP	1089092
+GCF_037653615.1	ASM3765361v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518011	105357	400	PD 7677		NIVIP	1089092
+GCF_037653695.1	ASM3765369v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518009	110240	400	PD 7648		NIVIP	1089092
+GCF_037653715.1	ASM3765371v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518003	101397	400	PD 7389		NIVIP	1089092
+GCF_037653735.1	ASM3765373v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518002	100234	400	PD 7644		NIVIP	1089092
+GCF_037653775.1	ASM3765377v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518004	105357	400	PD 7670		NIVIP	1089092
+GCF_037653835.1	ASM3765383v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518005	105357	400	PD 7671		NIVIP	1089092
+GCF_037892735.1	ASM3789273v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN40518001	100234	400	PD 7643		NIVIP	1089092
+GCF_039692545.1	ASM3969254v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN41264335	3503477	63	077-080_1		Universidad San Francisco de Quito	1109353
+GCF_039693335.1	ASM3969333v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN41264334	3503462	60	068_2		Universidad San Francisco de Quito	1109353
+GCF_041023715.1	ASM4102371v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN42716486	147104	20	RsP01		Agrosavia	1138408
+GCF_041027265.1	ASM4102726v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN42899248	227702	220	B75		University of Queensland	
+GCF_041027275.1	ASM4102727v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN42899247	246227	280	B74		University of Queensland	
+GCF_041276365.1	ASM4127636v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN34223255	81950	101	AN-0720		Universidad Politecnica del Estado de Morelos	956562
+GCF_041714685.1	ASM4171468v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43303035	3500755	80	115-4		Universidad San Francisco de Quito	1109353
+GCF_041714695.1	ASM4171469v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43303036	3500665	40	144-1		Universidad San Francisco de Quito	1109353
+GCF_041714705.1	ASM4171470v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43303032	3500695	40	071-2		Universidad San Francisco de Quito	1109353
+GCF_041714715.1	ASM4171471v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43303034	3500655	60	102-3		Universidad San Francisco de Quito	1109353
+GCF_041714725.1	ASM4171472v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43303033	3500663	40	095-3		Universidad San Francisco de Quito	1109353
+GCF_042432065.1	ASM4243206v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43281666	84272	100	ICMP 5712		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042434295.1	ASM4243429v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43281545	115120	100	NCAIM B.01459		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042647065.1	ASM4264706v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43282212	3676428	189.76	NCAIM B.01459		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042648205.1	ASM4264820v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43282129	598014	98.83	ICMP 5712		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCA_042684045.1	ASM4268404v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43282463	3725565	124.79	ICMP 5712		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042685665.1	ASM4268566v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN43282365	3731851	258.29	ICMP 5712		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_049803935.1	NCSU_Rs32	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47621265	3650165	35	NCSU_Rs32		North Carolina State University	1243438
+GCF_049803945.1	NCSU_Rs45488	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47621266	3626212	200	NCSU_Rs45488		North Carolina State University	1243438
+GCF_049803955.1	NCSU_RsMR-FL01	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47621267	3611447	150	NCSU_RsMR-FL01		North Carolina State University	1243438
+GCF_050470505.1	ASM5047050v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN41397082	3602675	45.42	Rs5		United States Department of Agriculture, Agricultural Research Service	1109761
+GCF_050633925.1	ASM5063392v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN48085507	3690681	91	UW594_UCD726		University of California, Davis	1253762
+GCF_050633945.1	ASM5063394v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN48085506	3358954	82	UW590_UCD732		University of California, Davis	1253762
+GCF_050916425.1	AHR56_1.0	Ralstonia solanacearum (b-proteobacteria)	305	SAMN38450761	3661477	161	AHR56		North Carolina State University	1045647
+GCF_051068535.1	ASM5106853v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852667	110599	113	LMG 25611		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068555.1	ASM5106855v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852671	110600	117	GBBC 643		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068575.1	ASM5106857v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852670	110310	117	GBBC 549		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068595.1	ASM5106859v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852669	110598	120	GBBC 521		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068615.1	ASM5106861v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852668	110599	506	GBBC 506		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068635.1	ASM5106863v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852666	110598	117	GBBC 3611		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068655.1	ASM5106865v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852665	110599	117	GBBC 3610		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068675.1	ASM5106867v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852663	110599	117	GBBC 3608		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068695.1	ASM5106869v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852664	110598	117	GBBC 3609		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068715.1	ASM5106871v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852662	110600	117	GBBC 3607		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068735.1	ASM5106873v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852659	110310	120	GBBC 3604		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068755.1	ASM5106875v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852660	102409	120	GBBC 3605		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068775.1	ASM5106877v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852661	110600	116	GBBC 3606		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068795.1	ASM5106879v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852658	102411	119	GBBC 3603		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068815.1	ASM5106881v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852657	101464	118	GBBC 3601		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068835.1	ASM5106883v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852656	110307	116	GBBC 3599		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068855.1	ASM5106885v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852654	110600	122	GBBC 3597		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068875.1	ASM5106887v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852655	110599	116	GBBC 3598		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068895.1	ASM5106889v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852653	110600	121	GBBC 3596		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068915.1	ASM5106891v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852652	110599	118	GBBC 3595		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068935.1	ASM5106893v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852651	120353	117	GBBC 3594		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068955.1	ASM5106895v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852650	110307	118	GBBC 3593		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051068995.1	ASM5106899v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN47852649	110600	116	GBBC 3592		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069535.1	ASM5106953v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495461	129127	112	GBBC 779		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069575.1	ASM5106957v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495460	129127	112	GBBC 767		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069595.1	ASM5106959v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495458	110310	119	GBBC 764		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069615.1	ASM5106961v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495459	110598	118	GBBC 765		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069635.1	ASM5106963v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495457	129127	111	GBBC 762		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069655.1	ASM5106965v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495456	129126	111	GBBC 761		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069675.1	ASM5106967v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495455	129127	114	GBBC 683		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069695.1	ASM5106969v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495454	110307	119	GBBC 682		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069715.1	ASM5106971v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495452	129127	114	GBBC 680		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069735.1	ASM5106973v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495453	110599	116	GBBC 681		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069755.1	ASM5106975v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495451	110307	118	GBBC 679		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069775.1	ASM5106977v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495450	110600	118	GBBC 676		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069795.1	ASM5106979v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495449	110600	116	GBBC 672		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069815.1	ASM5106981v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495448	129127	110	GBBC 671		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069835.1	ASM5106983v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495447	120348	110	GBBC 670		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069855.1	ASM5106985v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495446	110308	116	GBBC 669		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069875.1	ASM5106987v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495445	110598	117	GBBC 668		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069895.1	ASM5106989v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495444	110307	117	GBBC 667		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069915.1	ASM5106991v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495443	110310	119	GBBC 666		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069935.1	ASM5106993v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495442	110600	117	GBBC 665		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069955.1	ASM5106995v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495441	129127	112	GBBC 632		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069975.1	ASM5106997v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495440	129127	114	GBBC 631		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051069995.1	ASM5106999v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495439	129127	113	GBBC 630		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070015.1	ASM5107001v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495438	129127	113	GBBC 629		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070035.1	ASM5107003v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495437	110310	115	GBBC 627		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070055.1	ASM5107005v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495436	110307	118	GBBC 624		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070075.1	ASM5107007v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495435	129127	113	GBBC 623		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070095.1	ASM5107009v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495434	120351	113	GBBC 620		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070115.1	ASM5107011v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495433	110310	115	GBBC 613		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070135.1	ASM5107013v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495432	110600	119	GBBC 611		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070155.1	ASM5107015v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495431	110599	120	GBBC 610		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070175.1	ASM5107017v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495430	120353	113	GBBC 608		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070195.1	ASM5107019v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495429	110307	118	GBBC 604		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070215.1	ASM5107021v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495427	129127	111	GBBC 599		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070235.1	ASM5107023v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495428	129127	112	GBBC 603		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070255.1	ASM5107025v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495426	110310	117	GBBC 597		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070275.1	ASM5107027v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495425	129126	113	GBBC 594		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070295.1	ASM5107029v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495424	110599	117	GBBC 589		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070315.1	ASM5107031v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495423	104610	119	GBBC 588		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070335.1	ASM5107033v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495422	110599	118	GBBC 587		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070365.1	ASM5107036v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495421	129126	115	GBBC 584		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070415.1	ASM5107041v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495420	129126	115	GBBC 583		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070475.1	ASM5107047v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495419	120349	119	GBBC 569		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070495.1	ASM5107049v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495418	110307	119	GBBC 564		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070525.1	ASM5107052v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495417	129126	117	GBBC 563		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070595.1	ASM5107059v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495415	129127	115	GBBC 522		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070625.1	ASM5107062v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495416	110598	116	GBBC 539		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070665.1	ASM5107066v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495414	110598	115	GBBC 519		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070725.1	ASM5107072v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495413	110599	117	GBBC 516		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070755.1	ASM5107075v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495412	110598	117	GBBC 515		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070805.1	ASM5107080v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495411	110599	120	GBBC 514		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070845.1	ASM5107084v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495410	101464	118	GBBC 513		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070875.1	ASM5107087v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495409	110600	116	GBBC 507		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070945.1	ASM5107094v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495408	110599	116	GBBC 505		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051070965.1	ASM5107096v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495407	120352	115	GBBC 504		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071035.1	ASM5107103v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495406	110599	117	GBBC 502		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071065.1	ASM5107106v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495405	110310	121	GBBC 3519		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071105.1	ASM5107110v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495404	120500	114	GBBC 3416		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071165.1	ASM5107116v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495402	129127	117	GBBC 3362		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071185.1	ASM5107118v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495403	110307	118	GBBC 3363		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071225.1	ASM5107122v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495401	129126	115	GBBC 3360		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071285.1	ASM5107128v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495399	110600	117	GBBC 3044		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071315.1	ASM5107131v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495400	110310	120	GBBC 3335		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071345.1	ASM5107134v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495398	129127	113	GBBC 3034		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071425.1	ASM5107142v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495396	110308	118	GBBC 1685		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071445.1	ASM5107144v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495397	110598	117	GBBC 1688		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071475.1	ASM5107147v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495395	110307	116	GBBC 1317		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071555.1	ASM5107155v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495394	101464	119	GBBC 1291		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071575.1	ASM5107157v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495392	110600	117	GBBC 1241		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071595.1	ASM5107159v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495393	120424	114	GBBC 1287		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071665.1	ASM5107166v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495391	110308	119	GBBC 1240		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_051071685.1	ASM5107168v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN46495390	110599	118	GBBC 1091		Flanders Research Institute for Agriculture, Fisheries and Food (ILVO)	1217603
+GCF_054881635.1	ASM5488163v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN54805814	3475833	52	INTABV18		University of California Davis	1407867
+GCF_054882375.1	ASM5488237v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN54805817	3488461	52	INTABV2657		University of California Davis	1407867
+GCF_054882395.1	ASM5488239v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN54805816	3483062	52	INTABV624		University of California Davis	1407867
+GCF_054882405.1	ASM5488240v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN54805815	3475831	52	INTABV29		University of California Davis	1407867
+GCF_056815655.1	ASM5681565v1	Ralstonia solanacearum (b-proteobacteria)	305	SAMN20349546	1152004	58.5	Ancestor		University of York	749007
