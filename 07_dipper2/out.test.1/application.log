@@ -1,0 +1,119 @@
+2026-08-09 19:53:29,672 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/target_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 19:53:30,066 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 1852 characters.
+2026-08-09 19:53:30,069 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/target_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 19:53:34,459 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 1852 characters.
+2026-08-09 19:53:34,460 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/target_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 19:53:38,720 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 1852 characters.
+2026-08-09 19:53:38,721 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/target_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 19:53:42,543 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 1852 characters.
+2026-08-09 19:53:42,544 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/neighbour_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 19:54:12,178 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 111197 characters.
+2026-08-09 19:54:12,179 - INFO - Primer_Testing_module_standalone.py - ran seqkit amplicon for 0 mismatches
+2026-08-09 19:54:12,180 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/neighbour_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 19:57:40,870 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 112599 characters.
+2026-08-09 19:57:40,870 - INFO - Primer_Testing_module_standalone.py - ran seqkit amplicon for 1 mismatches
+2026-08-09 19:57:40,871 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/neighbour_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 20:01:11,371 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 114467 characters.
+2026-08-09 20:01:11,371 - INFO - Primer_Testing_module_standalone.py - ran seqkit amplicon for 2 mismatches
+2026-08-09 20:01:11,372 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/neighbour_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 20:04:40,869 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 114467 characters.
+2026-08-09 20:04:40,869 - INFO - Primer_Testing_module_standalone.py - ran seqkit amplicon for 3 mismatches
+2026-08-09 20:04:40,870 - INFO - Primer_Testing_module_standalone.py - Running seqkit amplicon on /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/neighbour_concatenated.fasta with primers CTCGAAAACGCGCTTATGGG (forward) and CGTCTAGCACGCTACCAGAG (reverse).
+2026-08-09 20:08:19,204 - INFO - Primer_Testing_module_standalone.py - Seqkit amplicon ran successfully. Output size: 255891268 characters.
+2026-08-09 20:08:19,211 - INFO - Primer_Testing_module_standalone.py - ran seqkit amplicon for 4 mismatches
+2026-08-09 20:08:19,816 - INFO - Primer_Testing_module_standalone.py - Running blastx on the targets...
+2026-08-09 20:08:19,816 - INFO - Primer_Testing_module_standalone.py - The amplicon is CTCGAAAACGCGCTTATGGGCACTCTTGGCATCCTCTGGCGCTAGGCCAGCATCGATGAGCCGCTTCATGACCTTCTCGCTGCCCAACGTGTCCCCGGTGCGGCGAGCGATAGCCACGTCAGTGATCGCGTCGTTGAATACCTTCTGCGGGATAGCGTTGATGTCCTTATCGCCCAACGTCAACGTATTGACCAGCCCACGGGCCGATGTACCCGCCTTCGACTGCCCCAGGTCCATGTTGGCCTGCTGGTAGATCGACGCGACGTCGTTACGCACCGCCTGTGCGCGTTGGTCGTAGATGGTCTTAAGGGTCTCCGCCTCAACCGGGCGAGCGTCGCCCCGAGCCATGGCCTTTGTCATAAGGCCACCCGTGTCGTAAAGGGACAGGAGGGTCTCCCGGCCCTTCTCGCTCTGGTAGCGTGCTAGACG
+2026-08-09 20:13:52,227 - INFO - Primer_Testing_module_standalone.py - Moving files with seqkit_amplicon_against in name from /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1 into /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/in_silico_tests...
+2026-08-09 20:13:52,228 - INFO - Primer_Testing_module_standalone.py - Primer_Testing_module.py ran to completion: exit status 0
+2026-08-09 20:13:52,649 - INFO - Primer_Testing_module_standalone.py - Concatenated files deleted.
+2026-08-09 20:13:53,186 - INFO - Summarize_results_standalone.py - Starting to run the Summarize_results module. Logger is initialized.
+2026-08-09 20:13:53,189 - INFO - Summarize_results_standalone.py - /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/FUR.target has 4 entries and /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1/FUR.neighbour has 434 entries.
+2026-08-09 20:13:53,189 - INFO - Summarize_results_standalone.py - Retrieving Primers and obtaining amplicon length...
+2026-08-09 20:13:53,189 - INFO - Summarize_results_standalone.py - Assessing the in silico PCR results and determining Specificity and Sensitivity...
+2026-08-09 20:13:53,190 - INFO - Summarize_results_standalone.py - Starting the run_tests function and parsing the information of the in silico tests.
+2026-08-09 20:13:53,190 - INFO - Summarize_results_standalone.py - End of run_tests function. Returning dictionary.
+2026-08-09 20:13:53,190 - INFO - Summarize_results_standalone.py - Starting the run_tests function and parsing the information of the in silico tests.
+2026-08-09 20:13:53,667 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP172969.1', '2632933', '2564358', '.', '0', '-']
+2026-08-09 20:13:53,671 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP172971.1', '1854684', '1376692', '.', '0', '-']
+2026-08-09 20:13:53,674 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP155588.1', '521253', '452088', '.', '0', '-']
+2026-08-09 20:13:53,675 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMNB010000004.1', '1529978', '1518721', '.', '0', '-']
+2026-08-09 20:13:53,676 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CDRX01000001.1', '417621', '262268', '.', '0', '+']
+2026-08-09 20:13:53,679 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP168240.1', '520402', '451237', '.', '0', '-']
+2026-08-09 20:13:53,682 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKDH010000072.1', '11767', '510', '.', '0', '-']
+2026-08-09 20:13:53,689 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP155591.1', '521245', '452080', '.', '0', '-']
+2026-08-09 20:13:53,689 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMND010000003.1', '257199', '186704', '.', '0', '+']
+2026-08-09 20:13:53,690 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAMPLQ010000019.1', '90805', '16417', '.', '0', '-']
+2026-08-09 20:13:53,695 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['NCTK01000001.1', '2394680', '2325425', '.', '0', '-']
+2026-08-09 20:13:53,697 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMY010000004.1', '903846', '301785', '.', '0', '+']
+2026-08-09 20:13:53,697 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMY010000004.1', '1834700', '1766122', '.', '0', '-']
+2026-08-09 20:13:53,703 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMO010000002.1', '311223', '242058', '.', '0', '+']
+2026-08-09 20:13:53,704 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JABZEK010000001.1', '609755', '540036', '.', '0', '-']
+2026-08-09 20:13:53,706 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JBODSE010000001.1', '879647', '87736', '.', '0', '-']
+2026-08-09 20:13:53,706 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JBODSE010000002.1', '1385452', '1278795', '.', '0', '-']
+2026-08-09 20:13:53,728 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP168237.1', '520422', '451257', '.', '0', '-']
+2026-08-09 20:13:53,728 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JBDLYU010000001.1', '303784', '234549', '.', '0', '+']
+2026-08-09 20:13:53,730 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CM142194.1', '1289473', '1220906', '.', '0', '+']
+2026-08-09 20:13:53,733 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMNH010000002.1', '946923', '234621', '.', '0', '-']
+2026-08-09 20:13:53,745 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP047136.1', '2821930', '536779', '.', '0', '+']
+2026-08-09 20:13:53,748 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP172582.1', '2356003', '2281614', '.', '0', '-']
+2026-08-09 20:13:53,754 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CM142197.1', '793955', '725364', '.', '0', '-']
+2026-08-09 20:13:53,754 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CM142198.1', '1776968', '1451999', '.', '0', '+']
+2026-08-09 20:13:53,758 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMZ010000001.1', '3224906', '3156332', '.', '0', '+']
+2026-08-09 20:13:53,775 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKDZ010000011.1', '263238', '236870', '.', '0', '+']
+2026-08-09 20:13:53,776 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP051175.1', '546788', '477553', '.', '0', '-']
+2026-08-09 20:13:53,779 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMQ010000001.1', '3615706', '3546451', '.', '0', '+']
+2026-08-09 20:13:53,792 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP168233.1', '520402', '451237', '.', '0', '-']
+2026-08-09 20:13:53,792 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP168234.1', '708147', '692848', '.', '0', '+']
+2026-08-09 20:13:53,795 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP026090.2', '518288', '448275', '.', '0', '-']
+2026-08-09 20:13:53,799 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKEO010000009.1', '62640', '25337', '.', '0', '-']
+2026-08-09 20:13:53,799 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMU010000002.1', '1589648', '938947', '.', '0', '-']
+2026-08-09 20:13:53,801 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMU010000005.1', '1315780', '382581', '.', '0', '-']
+2026-08-09 20:13:53,810 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKEQ010000001.1', '2590383', '2521806', '.', '0', '-']
+2026-08-09 20:13:53,810 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP187219.1', '1653395', '1584148', '.', '0', '+']
+2026-08-09 20:13:53,811 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JABZEI010000001.1', '609596', '539660', '.', '0', '-']
+2026-08-09 20:13:53,814 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CM142199.1', '795187', '726597', '.', '0', '-']
+2026-08-09 20:13:53,815 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CM142200.1', '870250', '543800', '.', '0', '-']
+2026-08-09 20:13:53,827 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JALNIU010000013.1', '90585', '16196', '.', '0', '+']
+2026-08-09 20:13:53,836 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMNI010000001.1', '443864', '375327', '.', '0', '-']
+2026-08-09 20:13:53,836 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMNI010000002.1', '695781', '420322', '.', '0', '+']
+2026-08-09 20:13:53,837 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JALNIX010000013.1', '90585', '16196', '.', '0', '+']
+2026-08-09 20:13:53,840 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JALNIV010000015.1', '90585', '16196', '.', '0', '+']
+2026-08-09 20:13:53,840 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JALNIZ010000008.1', '104074', '29685', '.', '0', '-']
+2026-08-09 20:13:53,848 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['MTBB01000109.1', '261871', '210793', '.', '0', '+']
+2026-08-09 20:13:53,848 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JALNIW010000015.1', '90585', '16196', '.', '0', '+']
+2026-08-09 20:13:53,853 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP115949.1', '3000888', '2932306', '.', '0', '+']
+2026-08-09 20:13:53,856 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMNJ010000001.1', '3456653', '3388062', '.', '0', '+']
+2026-08-09 20:13:53,857 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMNJ010000002.1', '1544509', '1507763', '.', '0', '-']
+2026-08-09 20:13:53,862 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JALNIY010000018.1', '90805', '16417', '.', '0', '-']
+2026-08-09 20:13:53,865 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP002819.1', '517829', '448663', '.', '0', '-']
+2026-08-09 20:13:53,866 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKBK010000001.1', '2777216', '2708678', '.', '0', '-']
+2026-08-09 20:13:53,870 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMJ010000001.1', '2067533', '1998942', '.', '0', '+']
+2026-08-09 20:13:53,870 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMJ010000002.1', '1151812', '825976', '.', '0', '+']
+2026-08-09 20:13:53,872 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKEP010000006.1', '949316', '878821', '.', '0', '+']
+2026-08-09 20:13:53,872 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKDE010000001.1', '860694', '57424', '.', '0', '+']
+2026-08-09 20:13:53,872 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKCN010000001.1', '257195', '41539', '.', '0', '-']
+2026-08-09 20:13:53,874 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CDLS01000001.1', '5462861', '5171993', '.', '0', '-']
+2026-08-09 20:13:53,875 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKDK010000008.1', '2056059', '1337781', '.', '0', '-']
+2026-08-09 20:13:53,877 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAIVEX010000004.1', '298881', '286769', '.', '0', '-']
+2026-08-09 20:13:53,885 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP034198.1', '1283992', '664154', '.', '0', '-']
+2026-08-09 20:13:53,886 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP026092.2', '533392', '463379', '.', '0', '-']
+2026-08-09 20:13:53,890 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMV010000001.1', '591110', '522519', '.', '0', '+']
+2026-08-09 20:13:53,890 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMV010000002.1', '253918', '217172', '.', '0', '+']
+2026-08-09 20:13:53,890 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMMV010000002.1', '1922325', '1597348', '.', '0', '-']
+2026-08-09 20:13:53,890 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['NCTJ03000001.1', '692514', '623283', '.', '0', '+']
+2026-08-09 20:13:53,890 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKDD010000010.1', '15006', '3749', '.', '0', '+']
+2026-08-09 20:13:53,895 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP168246.1', '520422', '451257', '.', '0', '-']
+2026-08-09 20:13:53,900 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP026307.1', '517777', '448648', '.', '0', '-']
+2026-08-09 20:13:53,900 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JACWPQ010000083.1', '15036', '3779', '.', '0', '+']
+2026-08-09 20:13:53,900 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CM142201.1', '1985324', '1916757', '.', '0', '-']
+2026-08-09 20:13:53,902 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKBY010000001.1', '1548284', '876040', '.', '0', '-']
+2026-08-09 20:13:53,907 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['CP168242.1', '520403', '451238', '.', '0', '-']
+2026-08-09 20:13:53,918 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJKDY010000004.1', '262978', '236610', '.', '0', '+']
+2026-08-09 20:13:53,922 - WARNING - Summarize_results_standalone.py - Skipping line with insufficient columns: ['JAJMNE010000001.1', '1508725', '842175', '.', '0', '-']
+2026-08-09 20:13:53,949 - INFO - Summarize_results_standalone.py - End of run_tests function. Returning dictionary.
+2026-08-09 20:13:53,949 - INFO - Summarize_results_standalone.py - Retrieving the blastx results of the targets, if entrez direct (eutils) is installed, also check NCBI annotation...
+2026-08-09 20:13:53,949 - INFO - Summarize_results_standalone.py - running handle_blasts_and_efetch function to find highest scoring blast hits and determine what they are or run seqkit locate to generate bed files. 
+2026-08-09 20:13:53,953 - INFO - Summarize_results_standalone.py - Printing results to outfile. The results summary files 'Results.txt' & 'Results.html' is found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/genomes-all-rssc-complete-genomes.
+2026-08-09 20:13:53,953 - INFO - Summarize_results_standalone.py - Writing results to the results file Results.txt in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.test.1
+2026-08-09 20:13:53,954 - INFO - Summarize_results_standalone.py - Done!
+ Generating html...

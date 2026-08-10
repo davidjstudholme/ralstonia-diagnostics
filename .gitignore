@@ -9,7 +9,7 @@ DeepVirFinder
 dipper2/*
 dipper2
 *neighbour_m4.txt
-06_dipper2/*/FUR.P3.PRIMERS/in_silico_tests/
+07_dipper2/*/FUR.P3.PRIMERS/in_silico_tests/
 07_dipper2/fur
 
 *.tfrec
@@ -92,3 +92,4 @@ wget-log
 
 checkm_out06_dipper2/*/FUR.P3.PRIMERS/in_silico_tests/
 Miniforge3.sh
+07_dipper2/out.test.1/in_silico_tests/

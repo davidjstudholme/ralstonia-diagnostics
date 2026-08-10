@@ -3,3 +3,11 @@ export PATH="$PATH:$(pwd)/fur/bin"
 /data/djs217/DiPPER2/scripts/DiPPER2_wrapper.sh -d ~/PROJECTS/45_ralstonia/07_dipper2/genomes -f ~/PROJECTS/45_ralstonia/07_dipper2/out.UW551-clade -o UW551-clade  -q n -l ~/PROJECTS/45_ralstonia/07_dipper2/targets.UW551-clade.txt 
 
 
+/data/djs217/DiPPER2/scripts/DiPPER2_standalone_primer_test.sh \
+    -f ~/PROJECTS/45_ralstonia/07_dipper2/out.test.1 \
+    -d ~/PROJECTS/45_ralstonia/07_dipper2/genomes-all-rssc-complete-genomes \
+    -l ~/PROJECTS/45_ralstonia/07_dipper2/targets.UW551-clade.txt \
+    -F CTCGAAAACGCGCTTATGGG \
+    -R CGTCTAGCACGCTACCAGAG
+
+
