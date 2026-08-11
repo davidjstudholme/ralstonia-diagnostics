@@ -240,3 +240,168 @@
 2026-08-09 18:56:32,509 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
 2026-08-09 18:56:32,515 - WARNING - target_move_module_optimized.py - assembly_accessions.txt~ is not a fasta file. Skipping.
 2026-08-09 18:56:32,533 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 07:29:14,969 - WARNING - target_move_module_optimized.py - commands.sh~ is not a fasta file. Skipping.
+2026-08-10 07:29:14,990 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 07:29:14,998 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 07:29:15,010 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 07:29:15,040 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 07:29:15,102 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 07:29:15,171 - WARNING - target_move_module_optimized.py - assembly_accessions.old.txt is not a fasta file. Skipping.
+2026-08-10 07:29:15,171 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 07:29:15,193 - WARNING - target_move_module_optimized.py - assembly_accessions.txt~ is not a fasta file. Skipping.
+2026-08-10 07:29:15,226 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 07:47:41,371 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 07:47:41,376 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 07:47:41,387 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 07:47:41,421 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 07:47:41,477 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 07:47:41,548 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 07:47:41,598 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 07:52:02,787 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 07:52:02,793 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 07:52:02,815 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 07:52:02,855 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 07:52:02,917 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 07:52:02,989 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 07:52:03,046 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 07:59:02,160 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 07:59:02,188 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 07:59:02,221 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 07:59:02,287 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 07:59:02,422 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 07:59:02,563 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 07:59:02,698 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 08:07:45,323 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 08:07:45,367 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 08:07:45,404 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 08:07:45,485 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 08:07:45,639 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 08:07:45,811 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 08:07:45,986 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 08:40:06,482 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 08:40:06,525 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 08:40:06,558 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 08:40:06,625 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 08:40:06,761 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 08:40:06,919 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 08:40:07,075 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 10:25:49,256 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 10:25:49,389 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 10:25:49,508 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 10:25:49,661 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 10:25:50,122 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 10:25:50,540 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 10:25:50,972 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 10:29:56,726 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 10:29:56,886 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 10:29:56,946 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 10:29:57,189 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 10:29:57,528 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 10:29:58,022 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 10:29:58,688 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 10:30:49,113 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 10:30:49,157 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 10:30:49,193 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 10:30:49,268 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 10:30:49,426 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 10:30:49,603 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 10:30:49,780 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 13:19:27,590 - WARNING - target_move_module_optimized.py - GCA_023076075* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,595 - WARNING - target_move_module_optimized.py - GCA_001373335* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,600 - WARNING - target_move_module_optimized.py - GCA_023076355* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,604 - WARNING - target_move_module_optimized.py - GCA_023076165* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,621 - WARNING - target_move_module_optimized.py - GCA_015910635* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,626 - WARNING - target_move_module_optimized.py - GCA_023076455* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,631 - WARNING - target_move_module_optimized.py - GCA_023076095* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,636 - WARNING - target_move_module_optimized.py - GCA_023076265* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,641 - WARNING - target_move_module_optimized.py - GCA_023075135* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,647 - WARNING - target_move_module_optimized.py - GCA_028177185* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,652 - WARNING - target_move_module_optimized.py - GCA_014210345* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,658 - WARNING - target_move_module_optimized.py - GCA_023076415* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,663 - WARNING - target_move_module_optimized.py - GCA_023076295* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,669 - WARNING - target_move_module_optimized.py - GCA_023075395* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,676 - WARNING - target_move_module_optimized.py - GCA_023076315* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,682 - WARNING - target_move_module_optimized.py - GCA_023076235* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,687 - WARNING - target_move_module_optimized.py - GCA_023075995* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,693 - WARNING - target_move_module_optimized.py - GCA_023075975* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,698 - WARNING - target_move_module_optimized.py - GCA_023075335* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,704 - WARNING - target_move_module_optimized.py - GCA_023076335* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,709 - WARNING - target_move_module_optimized.py - GCA_023076055* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,715 - WARNING - target_move_module_optimized.py - GCA_023076795* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,720 - WARNING - target_move_module_optimized.py - GCA_023076755* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,725 - WARNING - target_move_module_optimized.py - GCA_023075275* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,731 - WARNING - target_move_module_optimized.py - GCA_000749995* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:19:27,945 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 13:19:27,990 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 13:19:28,029 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 13:19:28,108 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 13:19:28,268 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 13:19:28,453 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 13:19:28,638 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 13:30:21,236 - WARNING - target_move_module_optimized.py - GCA_023076075* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,241 - WARNING - target_move_module_optimized.py - GCA_001373335* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,246 - WARNING - target_move_module_optimized.py - GCA_023076355* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,251 - WARNING - target_move_module_optimized.py - GCA_023076165* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,267 - WARNING - target_move_module_optimized.py - GCA_015910635* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,272 - WARNING - target_move_module_optimized.py - GCA_023076455* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,277 - WARNING - target_move_module_optimized.py - GCA_023076095* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,282 - WARNING - target_move_module_optimized.py - GCA_023076265* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,287 - WARNING - target_move_module_optimized.py - GCA_023075135* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,293 - WARNING - target_move_module_optimized.py - GCA_028177185* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,298 - WARNING - target_move_module_optimized.py - GCA_014210345* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,303 - WARNING - target_move_module_optimized.py - GCA_023076415* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,309 - WARNING - target_move_module_optimized.py - GCA_023076295* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,314 - WARNING - target_move_module_optimized.py - GCA_023075395* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,319 - WARNING - target_move_module_optimized.py - GCA_023076315* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,325 - WARNING - target_move_module_optimized.py - GCA_023076235* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,330 - WARNING - target_move_module_optimized.py - GCA_023075995* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,335 - WARNING - target_move_module_optimized.py - GCA_023075975* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,341 - WARNING - target_move_module_optimized.py - GCA_023075335* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,346 - WARNING - target_move_module_optimized.py - GCA_023076335* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,352 - WARNING - target_move_module_optimized.py - GCA_023076055* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,357 - WARNING - target_move_module_optimized.py - GCA_023076795* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,362 - WARNING - target_move_module_optimized.py - GCA_023076755* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,368 - WARNING - target_move_module_optimized.py - GCA_023075275* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,373 - WARNING - target_move_module_optimized.py - GCA_000749995* not found! Are you in the folder with the assemblies? Please double-check!
+2026-08-10 13:30:21,560 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 13:30:21,603 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 13:30:21,640 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 13:30:21,714 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 13:30:21,871 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 13:30:22,040 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 13:30:22,212 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 13:34:23,660 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 13:34:23,702 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 13:34:23,736 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 13:34:23,805 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 13:34:23,950 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 13:34:24,112 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 13:34:24,276 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 13:38:12,071 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 13:38:12,116 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 13:38:12,153 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 13:38:12,227 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 13:38:12,386 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 13:38:12,562 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 13:38:12,740 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 13:52:46,529 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 13:52:46,576 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 13:52:46,613 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 13:52:46,694 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 13:52:46,850 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 13:52:47,028 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 13:52:47,204 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 13:58:08,224 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 13:58:08,266 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 13:58:08,301 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 13:58:08,371 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 13:58:08,532 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 13:58:08,717 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 13:58:08,898 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.
+2026-08-10 15:51:38,499 - WARNING - target_move_module_optimized.py - md5sum.txt is not a fasta file. Skipping.
+2026-08-10 15:51:38,542 - WARNING - target_move_module_optimized.py - genome_assemblies.zip is not a fasta file. Skipping.
+2026-08-10 15:51:38,582 - WARNING - target_move_module_optimized.py - README.md is not a fasta file. Skipping.
+2026-08-10 15:51:38,657 - WARNING - target_move_module_optimized.py - application.log is not a fasta file. Skipping.
+2026-08-10 15:51:38,803 - WARNING - target_move_module_optimized.py - commands.sh is not a fasta file. Skipping.
+2026-08-10 15:51:38,968 - WARNING - target_move_module_optimized.py - datasets is not a fasta file. Skipping.
+2026-08-10 15:51:39,132 - WARNING - target_move_module_optimized.py - assembly_accessions.txt is not a fasta file. Skipping.

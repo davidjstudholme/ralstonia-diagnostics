@@ -1,5 +1,5 @@
-Step           Sequences  Length    Ns
-  -------------  ---------  ------    --
-  Subtraction_1        185  148473     0
-  Intersection         159  129690     2
-  Subtraction_2         48   77805  4441
+Step           Sequences  Length     Ns
+  -------------  ---------  ------     --
+  Subtraction_1        197  138748      0
+  Intersection         171  121388      2
+  Subtraction_2         40   64669  16321

@@ -1,0 +1,228 @@
+RESULTS FOR CONV. PCR PRIMER 334 in broaderPrimer_334.txt
+>Forward Primer 334
+CCGCTTCAAGTGCTGCTTTT>Reverse Primer 334
+TGGGATCATGGGGAGCTGTA
+Amplicon length: 932
+Sensitivity and Specificity testing:
+Sensitivity:
+Pass or fail:	PASSED
+Number of assemblies the in silico PCR was run for:	 7
+Number of mismatches the sensitivity test failed for (m3 is tolerated):	
+Specificity:
+Pass or fail:	PASSED
+Number of assemblies the in silico PCR was run for:	 158
+Number of mismatches the in silico PCR generated amplicons for:	m4
+                   (Note that if the test has passed, this means the amplicons had an incorrect size)
+BLASTX Target Testing:
+One or more files for *Target_334.txt_blastx_1e-5.txt are empty. Blastx did not return resultFiles&Folders:
+Primers are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.PRIMERS.
+Target fastas and blastx results are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.TARGETS.
+If generated, bed files are present in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade.
+In silico PCR results are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.PRIMERS/in_silico_tests.
+Detailed Sensitivity results:
+{'Number of files (in silico PCR result files for different number of primer mismatches) tested:': 4,
+ 'Number of files that failed:': 0,
+ 'Number of files that passed:': 4,
+ 'broaderPrimer_334.txt_seqkit_amplicon_against_target_m0.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm0',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_334.txt_seqkit_amplicon_against_target_m1.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm1',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_334.txt_seqkit_amplicon_against_target_m2.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm2',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_334.txt_seqkit_amplicon_against_target_m3.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm3',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7}}
+Detailed Specificity results:
+{'Number of files (in silico PCR result files for different number of primer mismatches) tested:': 1,
+ 'Number of files that failed:': 0,
+ 'Number of files that passed:': 1,
+ 'broaderPrimer_334.txt_seqkit_amplicon_against_neighbour_m4.txt': {'Did the test pass?': 'passed',
+                                                                    'Mismatches tested': 'm4',
+                                                                    'Number of assemblies with correct size amplicon': 0,
+                                                                    'Number of assemblies, in silico PCR was performed on': 158}}
+
+################################################################################
+RESULTS FOR CONV. PCR PRIMER 168 in broaderPrimer_168.txt
+>Forward Primer 168
+GACAACAGCATCGACATCGC>Reverse Primer 168
+GATGCTGTGATCACGAACGC
+Amplicon length: 470
+Sensitivity and Specificity testing:
+Sensitivity:
+Pass or fail:	PASSED
+Number of assemblies the in silico PCR was run for:	 7
+Number of mismatches the sensitivity test failed for (m3 is tolerated):	m3
+Specificity:
+Pass or fail:	PASSED
+Number of assemblies the in silico PCR was run for:	 158
+Number of mismatches the in silico PCR generated amplicons for:	m3, m4
+                   (Note that if the test has passed, this means the amplicons had an incorrect size)
+BLASTX Target Testing:
+One or more files for *Target_168.txt_blastx_1e-5.txt are empty. Blastx did not return resultFiles&Folders:
+Primers are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.PRIMERS.
+Target fastas and blastx results are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.TARGETS.
+If generated, bed files are present in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade.
+In silico PCR results are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.PRIMERS/in_silico_tests.
+Detailed Sensitivity results:
+{'Number of files (in silico PCR result files for different number of primer mismatches) tested:': 4,
+ 'Number of files that failed:': 1,
+ 'Number of files that passed:': 3,
+ 'broaderPrimer_168.txt_seqkit_amplicon_against_target_m0.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm0',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_168.txt_seqkit_amplicon_against_target_m1.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm1',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_168.txt_seqkit_amplicon_against_target_m2.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm2',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_168.txt_seqkit_amplicon_against_target_m3.txt': {'Did the test pass?': 'failed',
+                                                                 'Mismatches tested': 'm3',
+                                                                 'Number of assemblies with correct size amplicon': 5,
+                                                                 'Number of assemblies with wrong size amplicon': 7,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7}}
+Detailed Specificity results:
+{'Number of files (in silico PCR result files for different number of primer mismatches) tested:': 2,
+ 'Number of files that failed:': 0,
+ 'Number of files that passed:': 2,
+ 'broaderPrimer_168.txt_seqkit_amplicon_against_neighbour_m3.txt': {'Did the test pass?': 'passed',
+                                                                    'Mismatches tested': 'm3',
+                                                                    'Number of assemblies with correct size amplicon': 0,
+                                                                    'Number of assemblies, in silico PCR was performed on': 158},
+ 'broaderPrimer_168.txt_seqkit_amplicon_against_neighbour_m4.txt': {'Did the test pass?': 'passed',
+                                                                    'Mismatches tested': 'm4',
+                                                                    'Number of assemblies with correct size amplicon': 0,
+                                                                    'Number of assemblies, in silico PCR was performed on': 158}}
+
+################################################################################
+RESULTS FOR CONV. PCR PRIMER 736 in broaderPrimer_736.txt
+>Forward Primer 736
+AGATGCGCAATACCCAACCA>Reverse Primer 736
+CTGTCACGTGTTTGTGCAGG
+Amplicon length: 298
+Sensitivity and Specificity testing:
+Sensitivity:
+Pass or fail:	PASSED
+Number of assemblies the in silico PCR was run for:	 7
+Number of mismatches the sensitivity test failed for (m3 is tolerated):	
+Specificity:
+Pass or fail:	PASSED
+Number of assemblies the in silico PCR was run for:	 158
+Number of mismatches the in silico PCR generated amplicons for:	m4
+                   (Note that if the test has passed, this means the amplicons had an incorrect size)
+BLASTX Target Testing:
+One or more files for *Target_736.txt_blastx_1e-5.txt are empty. Blastx did not return resultFiles&Folders:
+Primers are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.PRIMERS.
+Target fastas and blastx results are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.TARGETS.
+If generated, bed files are present in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade.
+In silico PCR results are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.PRIMERS/in_silico_tests.
+Detailed Sensitivity results:
+{'Number of files (in silico PCR result files for different number of primer mismatches) tested:': 4,
+ 'Number of files that failed:': 0,
+ 'Number of files that passed:': 4,
+ 'broaderPrimer_736.txt_seqkit_amplicon_against_target_m0.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm0',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_736.txt_seqkit_amplicon_against_target_m1.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm1',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_736.txt_seqkit_amplicon_against_target_m2.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm2',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_736.txt_seqkit_amplicon_against_target_m3.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm3',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7}}
+Detailed Specificity results:
+{'Number of files (in silico PCR result files for different number of primer mismatches) tested:': 1,
+ 'Number of files that failed:': 0,
+ 'Number of files that passed:': 1,
+ 'broaderPrimer_736.txt_seqkit_amplicon_against_neighbour_m4.txt': {'Did the test pass?': 'passed',
+                                                                    'Mismatches tested': 'm4',
+                                                                    'Number of assemblies with correct size amplicon': 0,
+                                                                    'Number of assemblies, in silico PCR was performed on': 158}}
+
+################################################################################
+RESULTS FOR CONV. PCR PRIMER 468 in broaderPrimer_468.txt
+>Forward Primer 468
+AAAAACGATTGGCGCGACAA>Reverse Primer 468
+TCCGTCTTGCGTGACATTGA
+Amplicon length: 337
+Sensitivity and Specificity testing:
+Sensitivity:
+Pass or fail:	PASSED
+Number of assemblies the in silico PCR was run for:	 7
+Number of mismatches the sensitivity test failed for (m3 is tolerated):	m3
+Specificity:
+Pass or fail:	PASSED
+Number of assemblies the in silico PCR was run for:	 158
+Number of mismatches the in silico PCR generated amplicons for:	m3, m4
+                   (Note that if the test has passed, this means the amplicons had an incorrect size)
+BLASTX Target Testing:
+One or more files for *Target_468.txt_blastx_1e-5.txt are empty. Blastx did not return resultFiles&Folders:
+Primers are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.PRIMERS.
+Target fastas and blastx results are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.TARGETS.
+If generated, bed files are present in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade.
+In silico PCR results are found in /data/djs217/PROJECTS/45_ralstonia/07_dipper2/out.broader_UW551-clade/FUR.P3.PRIMERS/in_silico_tests.
+Detailed Sensitivity results:
+{'Number of files (in silico PCR result files for different number of primer mismatches) tested:': 4,
+ 'Number of files that failed:': 1,
+ 'Number of files that passed:': 3,
+ 'broaderPrimer_468.txt_seqkit_amplicon_against_target_m0.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm0',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_468.txt_seqkit_amplicon_against_target_m1.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm1',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_468.txt_seqkit_amplicon_against_target_m2.txt': {'Did the test pass?': 'passed',
+                                                                 'Mismatches tested': 'm2',
+                                                                 'Number of assemblies with correct size amplicon': 7,
+                                                                 'Number of assemblies with wrong size amplicon': 0,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7},
+ 'broaderPrimer_468.txt_seqkit_amplicon_against_target_m3.txt': {'Did the test pass?': 'failed',
+                                                                 'Mismatches tested': 'm3',
+                                                                 'Number of assemblies with correct size amplicon': 5,
+                                                                 'Number of assemblies with wrong size amplicon': 2,
+                                                                 'Number of assemblies, in silico PCR was performed on': 7}}
+Detailed Specificity results:
+{'Number of files (in silico PCR result files for different number of primer mismatches) tested:': 2,
+ 'Number of files that failed:': 0,
+ 'Number of files that passed:': 2,
+ 'broaderPrimer_468.txt_seqkit_amplicon_against_neighbour_m3.txt': {'Did the test pass?': 'passed',
+                                                                    'Mismatches tested': 'm3',
+                                                                    'Number of assemblies with correct size amplicon': 0,
+                                                                    'Number of assemblies, in silico PCR was performed on': 158},
+ 'broaderPrimer_468.txt_seqkit_amplicon_against_neighbour_m4.txt': {'Did the test pass?': 'passed',
+                                                                    'Mismatches tested': 'm4',
+                                                                    'Number of assemblies with correct size amplicon': 0,
+                                                                    'Number of assemblies, in silico PCR was performed on': 158}}
+
+################################################################################
