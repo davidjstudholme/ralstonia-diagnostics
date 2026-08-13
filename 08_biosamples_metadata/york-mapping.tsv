@@ -1,0 +1,1000 @@
+York_Number	Earlham_Number	Protect_Number	Diag_Code	NCPPB_Number	Alternative_ID 	Host	Potential_Host_Specification	Year	Continent	Country	Region_Origin	County	Comments	Species	Logitude	Latitude											
+YO001	1	7357		NCPPB 1018		Potato		1961	Africa	Angola				Ralstonia pseudosolanacearum													
+YO002	2	6825		NCPPB 1483		Potato		1963	Oceania	Australia				Ralstonia solanacearum													
+YO003	3			NCPPB 2245		Stylosanthes humulis		1969	Oceania	Australia				Ralstonia sp.													
+YO004	4			NCPPB 3980		Potato		1997	Oceania	Australia				Ralstonia solanacearum?													
+YO005	7			NCPPB 3992		Tobacco			Oceania	Australia				Ralstonia pseudosolanacearum													
+YO006	23	4364		NCPPB 4001		Ginger			Oceania	Australia				Ralstonia pseudosolanacearum													
+YO007	286	3615			R280	Potato			Oceania	Australia				Ralstonia solanacearum bv 3													
+YO008	8		21203224		Protect 9 H7	Potato		2012	Asia	Bangladesh				Ralstonia solanacearum													
+YO009	9		21204041		Protect 9 H10	Potato		2012	Asia	Bangladesh				Ralstonia solanacearum													
+YO010	10		21208789		Protect 9 I3	Potato		2012	Asia	Bangladesh				Ralstonia solanacearum													
+YO011	11		21404030		Protect 12 B8	Potato	Solanum tuberosum	2014	Asia	Bangladesh				Ralstonia solanacearum													
+YO012	166	3603			EURS 58	Potato		1993	Europe	Belgium				Ralstonia solanacearum													
+YO013	13			NCPPB 0613		Potato		1958	South America	Brazil				Ralstonia solanacearum													
+YO014	188	5683			"R296, UW90"	Tobacco		1968	South America	Brazil				Ralstonia solanacearum													
+YO015	15			NCPPB 3649		Banana		1979	South America	Brazil				Ralstonia solanacearum													
+YO016	16			NCPPB 3650		Banana		1979	South America	Brazil				Ralstonia solanacearum													
+YO017	18	1193		NCPPB 3868		Potato		1991	South America	Brazil				Ralstonia solanacearum													
+YO018	19	1195		NCPPB 3864		Chili		1991	South America	Brazil				Ralstonia solanacearum													
+YO019	20	"1199, 6282"		NCPPB 3862		Chili		1991	South America	Brazil				Ralstonia solanacearum													
+YO020	53	1198		NCPPB 3863		Tomato		1991	South America	Brazil				Ralstonia solanacearum													
+YO021	21	"1202, 7360"		NCPPB 3866		Potato		1993	South America	Brazil				Ralstonia solanacearum													
+YO022	22			NCPPB 3982		Potato			South America	Chile				Ralstonia solanacearum													
+YO023	25	4369		NCPPB 4006		Olive			Asia	China				Ralstonia pseudosolanacearum													
+YO024	26	4370		NCPPB 4007		Mulberry			Asia	China				Ralstonia pseudosolanacearum													
+YO025	27	"4375, 5787"		NCPPB 4012		Mulberry			Asia	China				Ralstonia pseudosolanacearum													
+YO026	28	"4374, 5786, 6289"		"NCPPB 4011, NCPPB 3850"		Mulberry			Asia	China				Ralstonia pseudosolanacearum													
+YO027	29			NCPPB 3994		Olive			Asia	China				Ralstonia pseudosolanacearum													
+YO028	30			NCPPB 3998		Ginger			Asia	China				Ralstonia pseudosolanacearum													
+YO029	41	4366		NCPPB 4003		Ginger			Asia	China				Ralstonia pseudosolanacearum													
+YO030	375	4371		NCPPB 4008		Peanut			Asia	China				Ralstonia pseudosolanacearum													
+YO031	31	6822		NCPPB 282		Potato		1950	South America	Colombia				Ralstonia solanacearum													
+YO032	34	5770		NCPPB 3594		Heliconia caribaea		1960	South America	Colombia				Ralstonia solanacearum													
+YO033	14	5680			"R281, UW154"	Tobacco		1966	South America	Colombia				Ralstonia solanacearum													
+YO034	153	5771		NCPPB 2154		Heliconia sp.		1958	North America	Costa Rica				Ralstonia solanacearum													
+YO035	35	8026		NCPPB 787		Banana		1959	North America	Costa Rica				Ralstonia solanacearum													
+YO036	36			NCPPB 0788		Banana		1959	North America	Costa Rica				Ralstonia solanacearum													
+YO037	37			NCPPB 0790		Nightshade		1959	North America	Costa Rica				Ralstonia sp.													
+YO038	38			NCPPB 0791		False daisy		1959	North America	Costa Rica				Ralstonia sp.													
+YO039	32	5688			"R285, UW256"	Potato		1972	North America	Costa Rica				Ralstonia solanacearum													
+YO040	24	4367		NCPPB 4004		Ginger			North America	Costa Rica				Ralstonia pseudosolanacearum													
+YO041	42	5681		NCPPB 3977	"R286, UW275"	M. perfoliatum			North America	Costa Rica				Ralstonia solanacearum													
+YO042	43			NCPPB 3993		Pepper			North America	Costa Rica				Ralstonia sp.													
+YO043	154	3612			R285	Potato			North America	Costa Rica				Ralstonia solanacearum 													
+YO044	44	6823		NCPPB 643		Potato		1959	Europe	Cyprus				Ralstonia solanacearum													
+YO045	45	6281		NCPPB 1584		Potato		1963	Europe	Cyprus				Ralstonia solanacearum													
+YO046	46	6824		NCPPB 909		Potato		1961	Africa	Egypt				Ralstonia solanacearum													
+YO047	47			NCPPB 1115		Potato		1961	Africa	Egypt				Ralstonia solanacearum													
+YO048	48	6827		NCPPB 1824		Potato		1966	Africa	Egypt				Ralstonia solanacearum													
+YO049	50	803			A4969/2	Potato		1991	Africa	Egypt				Ralstonia solanacearum													
+YO050	51	804			A4933	Potato		1991	Africa	Egypt				Ralstonia solanacearum													
+YO051	52	805			A4973/3	Potato		1991	Africa	Egypt				Ralstonia solanacearum													
+YO052	135	819			A5008	Potato		1991	Africa	Egypt				Ralstonia solanacearum													
+YO053	54	1328			A6180	Potato		1994	Africa	Egypt				Ralstonia solanacearum													
+YO054	56	1538			B98	Potato		1995	Africa	Egypt	Egypt?			Ralstonia solanacearum													
+YO055	57	1539			B99	Potato		1995	Africa	Egypt	Egypt?			Ralstonia solanacearum													
+YO056	58	1540			B102	Potato		1995	Africa	Egypt	Egypt?			Ralstonia solanacearum													
+YO057	59	1541			B103	Potato		1995	Africa	Egypt	Egypt?			Ralstonia solanacearum													
+YO058	60	1542			B152	Potato		1995	Africa	Egypt	Egypt?			Ralstonia solanacearum													
+YO059	61	1543			B157	Potato		1995	Africa	Egypt	Egypt?			Ralstonia solanacearum													
+YO060	62	1329			A6184	Potato		1995	Africa	Egypt				Ralstonia solanacearum													
+YO061	81	1544			B150	Potato		1995	Africa	Egypt	Egypt?			Ralstonia solanacearum													
+YO062	63	1330			A6188	Potato		1996	Africa	Egypt				Ralstonia solanacearum													
+YO063	64	1331			A6191	Potato		1997	Africa	Egypt				Ralstonia solanacearum													
+YO064	55	1332			A6235	Potato		1998	Africa	Egypt				Ralstonia solanacearum													
+YO065	66	3122			981139	Potato		1998	Africa	Egypt				Ralstonia solanacearum													
+YO066	67	"4433, 7361"		NCPPB 4153		Potato		1998	Africa	Egypt				Ralstonia solanacearum													
+YO067	281	3123			980921	Potato		1998	Africa	Egypt				Ralstonia solanacearum													
+YO068	69	4567				Water		2002	Africa	Egypt	"Canal el Nagar, Monofeia."			Ralstonia solanacearum													
+YO069	70	4573				Water		2002	Africa	Egypt	"Canal el Nagar, Monofeia."			Ralstonia solanacearum													
+YO070	71	4578				Potato	Solanum tuberosum (Diamont)	2002	Africa	Egypt	"Thalia, Monofeia"			Ralstonia solanacearum													
+YO071	72	4584				Soil		2002	Africa	Egypt				Ralstonia solanacearum													
+YO072	73	4587				Unknown		2002	Africa	Egypt				Ralstonia solanacearum													
+YO073	370	4592				Unknown		2002	Africa	Egypt				Ralstonia solanacearum													
+YO074	74			NCPPB 1500		Potato		1963	Oceania	Fiji				Ralstonia solanacearum													
+YO075	75			NCPPB 1702		Potato		1964	Oceania	Fiji				Ralstonia pseudosolanacearum													
+YO076	76			NCPPB 1029		Pelargonium capitatum		1961	Africa	France	Reunion		Type strain of R. pseudosolanacearum	Ralstonia pseudosolanacearum													
+YO077	77			NCPPB 2200		Tomato		1966	North America	France	Guadeloupe			Ralstonia sp.													
+YO078	78	"4437, 7362"		NCPPB 4157		Potato		1995	Europe	France			French one bit odd - sequence anyway as may be interesting	Ralstonia solanacearum													
+YO079	79		21108193		Protect 7 G6	Tomato		2011	Europe	France				Ralstonia solanacearum													
+YO080	80			NCPPB 2204		Tomato		1968	South America	French Guyana			GMI1000? R. pseudosolanacearum genome sequenced strain	Ralstonia sp.													
+YO081	179	2015			"GMI1000,  R761"	Tomato			South America	French Guyana		French Guyana		Ralstonia solanacearum													
+YO082	82			NCPPB 3181		Nightshade		1978	Africa	Gambia				Ralstonia sp.													
+YO083	83	7790				Tomato		2011	Asia	Georgia				Ralstonia solanacearum													
+YO084	84		21112409		Protect 7 I2	Tomato		2011	Asia	Georgia				Ralstonia solanacearum													
+YO085	124	"4441, 3604, 5689"		NCPPB 4161	SMT 76	Potato		1996	Europe	Germany				Ralstonia solanacearum													
+YO086	86			NCPPB 1789		Potato		1965	Europe	Greece				Ralstonia solanacearum													
+YO087	87	6828		NCPPB 2015		Potato		1967	Europe	Greece				Ralstonia sp.													
+YO088	88	8027		NCPPB 3205		Banana		1979	South America	Guyana				Ralstonia solanacearum													
+YO089	89			NCPPB 0789		Banana		1959	North America	Honduras				Ralstonia solanacearum													
+YO090	90		21123931		Protect 9 G10	Potato		2012	Europe	Hungary				Ralstonia solanacearum													
+YO091	91		21123932		Protect 9 H1	Potato		2012	Europe	Hungary				Ralstonia solanacearum													
+YO092	92		21123933		Protect 9 H2	Potato		2012	Europe	Hungary				Ralstonia solanacearum													
+YO093	93		21123934		Protect 9 H3	Potato		2012	Europe	Hungary				Ralstonia solanacearum													
+YO094	94		21123935		Protect 9 H4	Potato		2012	Europe	Hungary				Ralstonia solanacearum													
+YO095	95		21123936		Protect 9 H5	Potato		2012	Europe	Hungary				Ralstonia solanacearum													
+YO096	96			NCPPB 1331		Potato		1962	Asia	India				Ralstonia solanacearum													
+YO097	97			NCPPB 1333		Potato		1962	Asia	India				Ralstonia solanacearum													
+YO098	98	8025		NCPPB 3214		Banana		1980	Asia	India				Ralstonia solanacearum													
+YO099	99			NCPPB 3219		Clove		1980	Asia	Indonesia			grow on CS	Ralstonia syzygii subsp. indonesiensis													
+YO100	49	"145, 5773, 3481"		NCPPB 3792	T327	Clove		1985	Asia	Indonesia	Central Java		Grow on CS	Ralstonia syzygii subsp. syzygii													
+YO101	101	147		NCPPB 3793	S718	Potato		1985	Asia	Indonesia	East Java			Ralstonia solanacearum													
+YO102	102	"134, 5779"		NCPPB 3725	T334	Banana		1987	Asia	Indonesia	West Java			Ralstonia syzygii subsp. celebesensis													
+YO103	103	135			T379	Banana		1987	Asia	Indonesia				Ralstonia syzygii subsp. celebesensis													
+YO104	104	136		NCPPB 3726	T389	Banana		1987	Asia	Indonesia				Ralstonia syzygii subsp. celebesensis													
+YO105	105	137			T391	Banana		1987	Asia	Indonesia				Ralstonia syzygii subsp. celebesensis													
+YO106	106	"138, 5780"		NCPPB 3727	T394	Banana		1987	Asia	Indonesia	South Sulawesi			Ralstonia syzygii subsp. celebesensis													
+YO107	107	139		NCPPB 3728	T440	Banana		1987	Asia	Indonesia				Ralstonia syzygii subsp. celebesensis													
+YO108	108	142			T328	Clove		1987	Asia	Indonesia			Grow on CS. Hard to grow. Removed from phenotyping experiments.	Ralstonia syzygii													
+YO109	109	143			T329	Clove		1987	Asia	Indonesia			Grow on CS. Hard to grow.	Ralstonia syzygii													
+YO110	110	144			T326	Syzygium agneum		1987	Asia	Indonesia			Hard to grow. Removed from phenotyping experiments.	Ralstonia syzygii													
+YO111	111	148		NCPPB 3794	T305	Clove		1987	Asia	Indonesia	Central Java			Ralstonia solanacearum													
+YO112	112	7233	20720807			Water		2007	Europe	Ireland				Ralstonia solanacearum													
+YO113	113	7234	20720808			Water		2007	Europe	Ireland				Ralstonia solanacearum													
+YO114	114		20719104		Protect 2 I2	Potato		2007	Europe	Ireland				Ralstonia solanacearum													
+YO115	115	7235	20720809		Protect 2 I10	Unknown	Tomato/Water?	2007	Europe	Ireland				Ralstonia solanacearum													
+YO116	116		20722587		Protect 2 J9	Tomato		2007	Europe	Ireland				Ralstonia solanacearum													
+YO117	117		20722588		Protect 2 J4	Tomato		2007	Europe	Ireland				Ralstonia solanacearum													
+YO118	118			NCPPB 0928		Sugarcane		1956	North America	Jamaica			Sugarcane - may be new species. Sequence.	Ralstonia sp.													
+YO119	119	140		NCPPB 3445	T330	Clove		1983	Asia	Java			grow on CS. Hard to grow.	Ralstonia syzygii subsp. syzygii													
+YO120	120	6577		NCPPB 173		Potato		1945	Africa	Kenya				Ralstonia solanacearum													
+YO121	121	7358		NCPPB 1028		Potato		1961	Africa	Kenya				Ralstonia solanacearum													
+YO122	122			NCPPB 1045		Eggplant		1961	Africa	Kenya				Ralstonia sp.													
+YO123	123			NCPPB 1049		Tomato		1961	Africa	Kenya				Ralstonia solanacearum													
+YO124	68	"4142, 4448"		NCPPB 4215		Water		2001	Africa	Kenya				Ralstonia pseudosolanacearum													
+YO125	125	"4134, 4444"		NCPPB 4211		Pelargonium hortorum		2001	Africa	Kenya				Ralstonia solanacearum													
+YO126	126	"4135, 4445"		NCPPB 4212		Pelargonium hortorum		2001	Africa	Kenya				Ralstonia solanacearum													
+YO127	127	"4138, 4446"		NCPPB 4213		Water		2001	Africa	Kenya				Ralstonia solanacearum													
+YO128	128	"4140, 4447"		NCPPB 4214		Soil		2001	Africa	Kenya				Ralstonia pseudosolanacearum													
+YO129	129	6826		NCPPB 1489		Potato		1963	Africa	Madeira				Ralstonia solanacearum													
+YO130	130			NCPPB 0792		Teak		1960	Asia	Malaysia				Ralstonia sp.													
+YO131	131			NCPPB 1052		Ginger		1961	Asia	Malaysia				Ralstonia pseudosolanacearum													
+YO132	132			NCPPB 1614		Potato		1964	Asia	Malaysia				Ralstonia solanacearum													
+YO133	133			NCPPB 3190		Tomato		1978	Asia	Malaysia				Ralstonia pseudosolanacearum													
+YO134	134			NCPPB 2199		Eggplant		1965	North America	Martinique				Ralstonia sp.													
+YO135	196	876		NCPPB 253		Pine tree		1949	Africa	Mauritius				Ralstonia pseudosolanacearum													
+YO136	136			NCPPB 0500		Broad bean		1956	Africa	Mauritius				Ralstonia sp.													
+YO137	137			NCPPB 0501		Cabbage		1956	Africa	Mauritius				Ralstonia sp.													
+YO138	138			NCPPB 0503		Dahlia sp.		1956	Africa	Mauritius				Ralstonia sp.													
+YO139	139			NCPPB 1621		Potato		1960	Africa	Mauritius				Ralstonia sp.													
+YO140	140			NCPPB 1484		Strelitzia reginae		1963	Africa	Mauritius				Ralstonia sp.													
+YO141	141			NCPPB 1485		Common bean		1963	Africa	Mauritius				Ralstonia sp.													
+YO142	142	5682		NCPPB 3974	"R287, UW278"	Tomato			North America	Mexico				Ralstonia solanacearum													
+YO143	143	6830		NCPPB 3238		Potato		1982	Europe	Netherlands				Ralstonia solanacearum													
+YO144	167	"4436, 3605, 5690"		NCPPB 4156	"SMT 71, PD 2762"	Potato		1995	Europe	Netherlands				Ralstonia solanacearum													
+YO145	145			NCPPB 1703		Potato		1965	Europe	Nigeria	Ex. Netherlands		from potato tubers var. Trianta imported into Nigeria from Holland in 1963	Ralstonia sp.													
+YO146	146			NCPPB 2088		Potato		1968	Africa	Nigeria				Ralstonia solanacearum													
+YO147	147		21106713		Protect 7 G2	Potato		2011	Asia	Pakistan				Ralstonia solanacearum													
+YO148	148		21108524		Protect 7 G7	Potato		2011	Asia	Pakistan				Ralstonia solanacearum													
+YO149	149	5781		NCPPB 1123		Tomato		1961	Oceania	Papua New Guinea				Ralstonia pseudosolanacearum													
+YO150	150	5782		NCPPB 1140		Tomato		1961	Oceania	Papua New Guinea				Ralstonia sp.													
+YO151	151			NCPPB 2937		Potato		1975	Oceania	Papua New Guinea				Ralstonia sp.													
+YO152	152	"7028, 6285, 3602"		NCPPB 3985	R578	Eggplant		1987	South America	Peru				Ralstonia solanacearum													
+YO153	100	5772		NCPPB 3990		Potato		1989	South America	Peru				Ralstonia solanacearum													
+YO154	5	3613			R355	Tomato			South America	Peru				Ralstonia solanacearum bv 3													
+YO155	39	5686			"CIP301, R311"	Potato			South America	Peru				Ralstonia solanacearum													
+YO156	156	"5785, 6287"		NCPPB 3996		Tomato			South America	Peru				Ralstonia pseudosolanacearum													
+YO157	157	8024		NCPPB 2315		Banana			South America	Peru				Ralstonia solanacearum													
+YO158	158			NCPPB 3986		Potato			South America	Peru				Ralstonia solanacearum													
+YO159	159	5776		NCPPB 3970		Banana		1992	Asia	Philippines				Ralstonia solanacearum													
+YO160	160	5778		NCPPB 3971		Banana			Asia	Philippines				Ralstonia solanacearum													
+YO161	161	"6288, 4368, 3614"		NCPPB 4005	R470	Ginger			Asia	Philippines				Ralstonia pseudosolanacearum													
+YO162	162		21422327		Protect 12 E6	Culture		2014	Europe	Poland				Ralstonia solanacearum													
+YO163	163		21622099		Protect 13 C4	Rose		2016	Europe	Poland				Ralstonia solanacearum													
+YO164	164		21622100		Protect 13 C5	Rose		2016	Europe	Poland				Ralstonia solanacearum													
+YO165	165			NCPPB 1019		Tomato		1960	Europe	Portugal				Ralstonia solanacearum													
+YO166	40	3608			EURS 79	Potato		1995	Europe	Portugal				Ralstonia solanacearum													
+YO167	180	4438		NCPPB 4158		Potato		1995	Europe	Portugal				Ralstonia solanacearum													
+YO168	168	7421		NCPPB 1225		Tomato		1958	North America	Puerto Rico				Ralstonia solanacearum													
+YO169	169			NCPPB 1226		Tomato		1958	North America	Puerto Rico				Ralstonia solanacearum													
+YO170	170		21123062 (1)		Protect 9 G6	Potato		2012	Europe	Serbia				Ralstonia solanacearum													
+YO171	171		21123062 (2)		Protect 9 G7	Potato		2012	Europe	Serbia				Ralstonia solanacearum													
+YO172	172		21123063 (1)		Protect 9 G8	Potato		2012	Europe	Serbia				Ralstonia solanacearum													
+YO173	173		21123063 (2)		Protect 9 G9	Potato		2012	Europe	Serbia				Ralstonia solanacearum													
+YO174	174		21025506/2		Protect 11 H5	Unknown		2013	Europe	Serbia				Ralstonia solanacearum													
+YO175	175		21025507/5		Protect 11 H8	Unknown		2013	Europe	Serbia				Ralstonia solanacearum													
+YO176	176		21025509/10		Protect 11 I3	Unknown		2013	Europe	Serbia				Ralstonia solanacearum													
+YO177	177		21025510/11		Protect 11 I4	Unknown		2013	Europe	Serbia				Ralstonia solanacearum													
+YO178	178			NCPPB 1763		Tomato		1965	Africa	Seychelles				Ralstonia sp.													
+YO179	269	2376				Potato		1980	Europe	Slovenia			After 48hours of growth get white circles on colony. Contaminated!! Both stocks. Removed from phenotyping experiments.	Ralstonia solanacearum													
+YO180	85	"4440, 3606"		NCPPB 4160	SMT 69	Potato		1996	Europe	Spain				Ralstonia solanacearum													
+YO181	181			NCPPB 1323		Potato		1962	Asia	Sri Lanka				Ralstonia solanacearum													
+YO182	182			NCPPB 3217		Tumeric		1980	Asia	Sri Lanka				Ralstonia sp.													
+YO183	183	"6293, 3607"		NCPPB 2505	EURS 50	Potato		1972	Europe	Sweden				Ralstonia solanacearum													
+YO184	184	6578		NCPPB 2797		Solanum dulcamara		1974	Europe	Sweden				Ralstonia solanacearum													
+YO185	185			NCPPB 2796		Bittersweet		1975	Europe	Sweden				Ralstonia solanacearum													
+YO186	186	5774		NCPPB 1695		Sugarcane		1965	Africa	Tanzania			Sugarcane - might vbe new species	Ralstonia sp.													
+YO187	6	4363		NCPPB 4000		Ginger			Asia	Thailand				Ralstonia pseudosolanacearum													
+YO188	155	5684			"R299, UW30"	Tomato		1957	South America	Trinidad				Ralstonia solanacearum													
+YO189	189			NCPPB 0446		Banana		1957	South America	Trinidad				Ralstonia solanacearum													
+YO190	190			NCPPB 0616		Tomato		1957	South America	Trinidad				Ralstonia solanacearum													
+YO191	191	8023		NCPPB 2198		Banana		1968	South America	Trinidad				Ralstonia solanacearum													
+YO192	192			NCPPB 2201		Tomato		1968	South America	Trinidad				Ralstonia sp.													
+YO193	193			NCPPB 1486		Peanut		1963	Africa	Uganda				Ralstonia pseudosolanacearum													
+YO194	194			NCPPB 2484		Peanut		1969	Africa	Uganda				Ralstonia pseudosolanacearum													
+YO195	195		21517093		Protect 12 I8	Potato		2015	Africa	Uganda				Ralstonia solanacearum													
+YO196	17	1143			A5373/7/3	Potato		1992	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1926559	51.6534306											
+YO197	197	"1123, 2797"				Potato		1992	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1926559	51.6534306											
+YO198	198	1140			A5370/2	Potato	cv. Romano	1992	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1926559	51.6534306											
+YO199	199	6594		NCPPB 3854		Potato	cv Estima	1992	Europe	UK				Ralstonia solanacearum													
+YO200	200	6595		NCPPB 3855		Potato	cv. Marfona	1992	Europe	UK				Ralstonia solanacearum													
+YO201	201	6596		NCPPB 3856		Potato	cv. Nadine	1992	Europe	UK				Ralstonia solanacearum													
+YO202	202	6598		NCPPB 3858		Potato	cv. Cara	1992	Europe	UK				Ralstonia solanacearum													
+YO203	203			NCPPB 3815		Potato		1992	Europe	UK	Ex. Bangladesh			Ralstonia solanacearum													
+YO204	204	6003			BR265	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1792539	51.634739											
+YO205	205	6011			"BR217, 21501/53/17"	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2225347	51.63863											
+YO206	206	6057			BR300	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1206982	51.599249											
+YO207	207	6058			BR293	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1253052	51.584896											
+YO208	208	6059			BR292	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1146617	51.61269											
+YO209	209	6060			BR287	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1445891	51.557165											
+YO210	210	6084			BR278	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1778091	51.634729											
+YO211	211	6087			BR274	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1561216	51.635474											
+YO212	212	6089			BR268	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1518209	51.633645											
+YO213	213	6091			BR258	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.194748	51.657325											
+YO214	214	6093			BR255	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.197623	51.658244											
+YO215	215	6095			BR245	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2107573	51.65114											
+YO216	216	6100			BR238	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2107729	51.650241											
+YO217	217	6634			Sd 9	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2288024	51.6346557											
+YO218	218	6635			Sd24	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2288024	51.6346557											
+YO219	219	6097			BR237	Solanum dulcamara		1993	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.221059	51.640419											
+YO220	220	6001			BR 1117	Solanum dulcamara		1994	Europe	UK		Wiltshire		Ralstonia solanacearum	-1.749835	51.662515											
+YO221	221	6044			BR1062	Solanum dulcamara		1994	Europe	UK		Berkshire		Ralstonia solanacearum	-0.86627336	51.553907											
+YO222	222	6045			BR355	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.91430113	51.475233											
+YO223	223	6046			BR354	Solanum dulcamara		1994	Europe	UK		Berkshire		Ralstonia solanacearum	-0.89373401	51.492126											
+YO224	224	6047			BR353	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.88487413	51.501034											
+YO225	225	6048			BR352	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.88487413	51.501034											
+YO226	226	6049			BR351	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.88487413	51.501034											
+YO227	227	6050			BR350	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.88923896	51.499277											
+YO228	228	6051			BR346	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.89072292	51.497492											
+YO229	229	6052			BR345	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.88172937	51.511794											
+YO230	230	6053			BR344	Solanum dulcamara		1994	Europe	UK		Berkshire		Ralstonia solanacearum	-0.87601077	51.509941											
+YO231	231	6054			BR333	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2671522	51.649707											
+YO232	232	6055			BR328	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2744501	51.645256											
+YO233	233	6056			BR319	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2369231	51.642321											
+YO234	234	6061			BR327	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2744501	51.645256											
+YO235	235	6064			BR1067	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1947798	51.655527											
+YO236	236	6068			BR477	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2969996	51.775767											
+YO237	237	6070			BR463	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2482922	51.741299											
+YO238	238	6071			BR442	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2371156	51.716951											
+YO239	239	6074			BR406	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2330319	51.701639											
+YO240	240	6075			BR405	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2328952	51.70973											
+YO241	241	6076			BR403	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2356985	51.715143											
+YO242	242	6077			BR398	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2231808	51.68539											
+YO243	243	6078			BR396	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2232269	51.682693											
+YO244	244	6079			BR394	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2261655	51.680015											
+YO245	245	6080			BR360	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.8907011	51.498391											
+YO246	246	6081			BR359	Solanum dulcamara		1994	Europe	UK		Berkshire		Ralstonia solanacearum	-0.89373401	51.492126											
+YO247	247	6082			BR357	Solanum dulcamara		1994	Europe	UK		Berkshire		Ralstonia solanacearum	-0.91135779	51.477904											
+YO248	248	6083			BR356	Solanum dulcamara		1994	Europe	UK		Oxfordshire		Ralstonia solanacearum	-0.90832826	51.48417											
+YO249	249	5981			WE-1	Water		1995	Europe	UK		Hertfordshire		Ralstonia solanacearum	-0.25642018	51.8099											
+YO250	250	5984			WE-1-96	Water		1995	Europe	UK		Hertfordshire		Ralstonia solanacearum	-0.25642018	51.8099											
+YO251	251	5989			95-WE1	Water		1995	Europe	UK		Hertfordshire		Ralstonia solanacearum	-0.25642018	51.8099											
+YO252	252	6012			95-H2O-1	Water		1995	Europe	UK		Wiltshire		Ralstonia solanacearum	-1.8265457	51.640175											
+YO253	253	6013			95-H20-1(a)	Water		1995	Europe	UK		Wiltshire		Ralstonia solanacearum	-1.8265457	51.640175											
+YO254	254	6014			95-H2O-2(c)	Water		1995	Europe	UK		Wiltshire		Ralstonia solanacearum	-1.8411028	51.609625											
+YO255	255	6015			95-H2O-2c	Water		1995	Europe	UK		Wiltshire		Ralstonia solanacearum	-1.8411028	51.609625											
+YO256	256	6016			95-H2O-2	Water		1995	Europe	UK		Wiltshire		Ralstonia solanacearum	-1.8411028	51.609625											
+YO257	257	6636				Solanum dulcamara		1995	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.1926559	51.6534306											
+YO258	258	5986			95-WE4	Water		1995	Europe	UK		Hertfordshire		Ralstonia solanacearum	-0.25642018	51.8099											
+YO259	259	6002				Water		1996	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2121558	51.653847											
+YO260	260	6004			"B276, 31247/5/1"	Solanum dulcamara		1996	Europe	UK		Greater London		Ralstonia solanacearum	-0.48596885	51.495664											
+YO261	261	6005			"B274, 31856/2/4"	Solanum dulcamara		1996	Europe	UK		Buckinghamshire		Ralstonia solanacearum	-0.48699216	51.508266											
+YO262	262	6006			B270	Solanum dulcamara		1996	Europe	UK		Surrey		Ralstonia solanacearum	-0.5042781	51.464426											
+YO263	263	6007			"B269, 31856/1/2"	Solanum dulcamara		1996	Europe	UK		Surrey		Ralstonia solanacearum	-0.51593596	51.460078											
+YO264	264	6008			"B268, 31856/1/1"	Solanum dulcamara		1996	Europe	UK		Surrey		Ralstonia solanacearum	-0.53800743	51.445069											
+YO265	265	6009			"B245, 31247/5/3"	Solanum dulcamara		1996	Europe	UK		Berkshire		Ralstonia solanacearum	-0.5238442	51.482659											
+YO266	266	6062			B645	Solanum dulcamara		1996	Europe	UK		Greater London		Ralstonia solanacearum	-0.49737131	51.630692											
+YO267	267	6102			DS866	Potato	tuber	1996	Europe	UK		Berkshire		Ralstonia solanacearum	-0.53708816	51.473832											
+YO268	268	6109			B646	Water		1996	Europe	UK		Greater London		Ralstonia solanacearum	-0.49486948	51.61897											
+YO269	65	2490			M 078	Water		1997	Europe	UK		Surrey		Ralstonia solanacearum	-0.5123498	51.437552											
+YO270	270	2487			M 023	Water		1997	Europe	UK		Berkshire		Ralstonia solanacearum	-0.93323164	51.404371											
+YO271	271	2488			M 051	Water		1997	Europe	UK		Hampshire		Ralstonia solanacearum	-1.501727	50.814684											
+YO272	272	2489			M 077	Water		1997	Europe	UK		Surrey		Ralstonia solanacearum	-0.54048307	51.457689											
+YO273	273	6017				Tomato		1997	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.297286	52.187249											
+YO274	274	6018				Tomato		1997	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.297286	52.187249											
+YO275	275	6019			"RGO38, 35397/2/1/3"	Water		1997	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.297286	52.187249											
+YO276	276	6020			###############################################################################################################################################################################################################################################################	Water		1997	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.2754162	52.07184											
+YO277	277	6105				Water		1997	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.297286	52.187249											
+YO278	278	6106			TOM4	Tomato		1997	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.297286	52.187249											
+YO279	279	6107			TOM3	Tomato		1997	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.297286	52.187249											
+YO280	280	6108				Water		1997	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.29143772	52.187165											
+YO281	282	3325				Water		1998	Europe	UK		Cambridgeshire		Ralstonia solanacearum	0.097333546	52.396696											
+YO282	283	6063			B644	Water		1998	Europe	UK		Greater London		Ralstonia solanacearum	-0.49675878	51.605506											
+YO283	284	3326				Water		1998	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.37054905	52.023741											
+YO284	12	3597				Water		1999	Europe	UK		Northamptonshire		Ralstonia solanacearum	-0.4882466	52.551286											
+YO285	285	3596				Water		1999	Europe	UK		Northamptonshire		Ralstonia solanacearum	-0.43446677	52.529009											
+YO286	287	3729			MP193	Potato	tuber	1999	Europe	UK		Northamptonshire		Ralstonia solanacearum	-0.4882466	52.551286											
+YO287	187	3792				Water		2000	Europe	UK		Kent		Ralstonia solanacearum	1.1970184	51.374596											
+YO288	371	5518			SASA 119C	Water		2000	Europe	UK	Scotland		"Scotland, Tay"	Ralstonia solanacearum													
+YO289	289	5822			336	Water		2005	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.30990257	52.163154											
+YO290	290	5823			316	Water		2005	Europe	UK		Warwickshire		Ralstonia solanacearum	-1.699311	52.520099											
+YO291	291	5824			315	Water		2005	Europe	UK		Gloucestershire		Ralstonia solanacearum	-2.2672239	51.874666											
+YO292	292	5825			314	Water		2005	Europe	UK		Gloucestershire		Ralstonia solanacearum	-2.2269244	51.948475											
+YO293	293	5826			308	Water		2005	Europe	UK		Gloucestershire		Ralstonia solanacearum	-2.1543478	51.998042											
+YO294	294	5827			307	Water		2005	Europe	UK		Worcestershire		Ralstonia solanacearum	-2.1152271	52.078104											
+YO295	295	5828			306	Water		2005	Europe	UK		Worcestershire		Ralstonia solanacearum	-1.9999544	52.108728											
+YO296	296	5870			430	Water		2005	Europe	UK		Gloucestershire		Ralstonia solanacearum	-2.2269244	51.948475											
+YO297	297	5871			452	Water		2005	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.30990257	52.163154											
+YO298	298	5872			458	Water		2005	Europe	UK		Cambridgeshire		Ralstonia solanacearum	-0.20072132	52.549063											
+YO299	299	5873			468	Water		2005	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.30392074	52.166665											
+YO300	300	5874			481	Water		2005	Europe	UK		Cambridgeshire		Ralstonia solanacearum	-0.22962288	52.563884											
+YO301	301	5956			R3	Potato	tuber	2005	Europe	UK		Nottinghamshire		Ralstonia solanacearum	-0.98657885	53.409009											
+YO302	302	6418			226	Water		2006	Europe	UK		Lincolnshire		Ralstonia solanacearum	-0.549814	53.230809											
+YO303	303	6419			291	Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.3122675	52.038383											
+YO304	304	6420			426	Water		2006	Europe	UK		Warwickshire		Ralstonia solanacearum	-1.7074324	52.183886											
+YO305	305	6421			310	Water		2006	Europe	UK		Mid Glamorgan		Ralstonia solanacearum	-3.5369963	51.667107											
+YO306	306	6423			370	Water		2006	Europe	UK		Cambridgeshire		Ralstonia solanacearum	-0.31487222	52.572321											
+YO307	307	6424			357	Water		2006	Europe	UK		Cambridgeshire		Ralstonia solanacearum	-0.19917376	52.550837											
+YO308	308	6425			494	Water		2006	Europe	UK		Dorset		Ralstonia solanacearum	-2.1825254	50.678916											
+YO309	309	6426			330	Water		2006	Europe	UK		Dorset		Ralstonia solanacearum	-2.1825254	50.678916											
+YO310	310	6427			476	Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.1609519	52.075427											
+YO311	311	6428			292	Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.1609519	52.075427											
+YO312	312	6429			419	Water		2006	Europe	UK		West Midlands		Ralstonia solanacearum	-2.0088088	52.568126											
+YO313	313	6430			267	Water		2006	Europe	UK		West Midlands		Ralstonia solanacearum	-2.0088088	52.568126											
+YO314	314	6431			420	Water		2006	Europe	UK		Warwickshire		Ralstonia solanacearum	-1.699311	52.520099											
+YO315	315	6432	W06/265			Water		2006	Europe	UK		Warwickshire		Ralstonia solanacearum	-1.699311	52.520099											
+YO316	316	6436			615	Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.3122675	52.038383											
+YO317	317	6437			616	Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.1609519	52.075427											
+YO318	318	6438			634	Water		2006	Europe	UK		Dorset		Ralstonia solanacearum	-2.1825254	50.678916											
+YO319	319	6439			593	Water		2006	Europe	UK		Mid Glamorgan		Ralstonia solanacearum	-3.5369963	51.667107											
+YO320	320	6440			655	Water		2006	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.31645989	52.144366											
+YO321	321	6441	W06/427			Water		2006	Europe	UK		Warwickshire		Ralstonia solanacearum	-1.7337912	52.178554											
+YO322	322	6442	W06/414			Water		2006	Europe	UK		Staffordshire		Ralstonia solanacearum	-1.7245785	52.721531											
+YO323	323	6460	W06/614			Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.4669078	52.039742											
+YO324	324	6461			809	Water		2006	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.31645989	52.144366											
+YO325	325	6462			725	Water		2006	Europe	UK		Warwickshire		Ralstonia solanacearum	-1.699311	52.520099											
+YO326	326	6463			808	Water		2006	Europe	UK		Bedfordshire		Ralstonia solanacearum	-0.30990257	52.163154											
+YO327	327	6464			785	Water		2006	Europe	UK		Dorset		Ralstonia solanacearum	-2.1825254	50.678916											
+YO328	328	6465			766	Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.3122675	52.038383											
+YO329	329	6466			744	Water		2006	Europe	UK		Mid Glamorgan		Ralstonia solanacearum	-3.5369963	51.667107											
+YO330	330	6470			734	Water		2006	Europe	UK		Warwickshire		Ralstonia solanacearum	-1.7425917	52.174078											
+YO331	331	6471			767	Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.1609519	52.075427											
+YO332	332	6472			827	Water		2006	Europe	UK		Cambridgeshire		Ralstonia solanacearum	-0.31487222	52.572321											
+YO333	333	6477	W06/614			Water		2006	Europe	UK		Carmarthenshire		Ralstonia solanacearum	-4.4669078	52.039742											
+YO334	334	6478	W06/818			Water		2006	Europe	UK		Cambridgeshire		Ralstonia solanacearum	-0.12005223	52.33112											
+YO335	335	6940				Water		2007	Europe	UK		Hampshire		Ralstonia solanacearum	-1.7908505	50.913578											
+YO336	336	6941				Water		2007	Europe	UK		Cambridgeshire		Ralstonia solanacearum	-0.19917376	52.550837											
+YO337	337	6942				Water		2007	Europe	UK		Cambridgeshire		Ralstonia solanacearum	-0.19917376	52.550837											
+YO338	338	6943				Water		2007	Europe	UK		Surrey		Ralstonia solanacearum	-0.18775799	51.204569											
+YO339	339	6944				Water		2007	Europe	UK		Hampshire		Ralstonia solanacearum	-1.7908505	50.913578											
+YO340	340	6945	W07/440			Water		2007	Europe	UK		Berkshire		Ralstonia solanacearum	-0.70629143	51.549555											
+YO341	341	6946	W07/439			Water		2007	Europe	UK		Berkshire		Ralstonia solanacearum	-0.75927258	51.563615											
+YO342	342	6947	W07/435			Water		2007	Europe	UK		Berkshire		Ralstonia solanacearum	-0.87890687	51.450622											
+YO343	343	6948	W07/438			Water		2007	Europe	UK		Berkshire		Ralstonia solanacearum	-0.74863454	51.478079											
+YO344	344	7114				Water		2008	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2697105	51.670403											
+YO345	345	7115				Solanum dulcamara		2008	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2697105	51.670403											
+YO346	346	7116				Solanum dulcamara		2008	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2697105	51.670403											
+YO347	347	7117				Solanum dulcamara		2008	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2108041	51.648443											
+YO348	348	7118				Water		2008	Europe	UK		Oxfordshire		Ralstonia solanacearum	-1.2582021	51.666734											
+YO349	349	7482			09/901	Potato	tuber	2009	Europe	UK		Cornwall		Ralstonia solanacearum	-4.7214484	50.574411											
+YO350	350		21314705			Water		2013	Europe	UK		Berkshire		Ralstonia solanacearum	-0.6354928	51.505592											
+YO351	351		21314706			Water		2013	Europe	UK		Berkshire		Ralstonia solanacearum	-0.60684988	51.49986											
+YO352	352		21415687			Water		2014	Europe	UK		Berkshire		Ralstonia solanacearum	-0.87811361	51.482986											
+YO353	353		21415697			Water		2014	Europe	UK		Berkshire		Ralstonia solanacearum	-0.86706289	51.463996											
+YO354	354		21517183			Water		2015	Europe	UK		Berkshire		Ralstonia solanacearum	-0.87811361	51.482986											
+YO355	355		21517184			Water		2015	Europe	UK		Berkshire		Ralstonia solanacearum	-0.86706289	51.463996											
+YO356	356		21620088			Water		2016	Europe	UK		Cambridgeshire		Ralstonia solanacearum	0.093266063	52.466003											
+YO357	357		21620089			Water		2016	Europe	UK		Cambridgeshire		Ralstonia solanacearum	0.1133353	52.485427											
+YO358	358		21620094			Water		2016	Europe	UK		Norfolk		Ralstonia solanacearum	0.26077509	52.603189											
+YO359	359		21620744			Water		2016	Europe	UK		Norfolk		Ralstonia solanacearum	0.29063566	52.637683											
+YO360	360		21713910			Water		2017	Europe	UK		Norfolk		Ralstonia solanacearum	0.24851177	52.594431											
+YO361	361		21713920			Water		2017	Europe	UK		Norfolk		Ralstonia solanacearum	0.22127785	52.581458											
+YO362	362		21714435			Water		2017	Europe	UK		Cambridgeshire		Ralstonia solanacearum	0.20598945	52.570954											
+YO363	363		21714855			Water		2017	Europe	UK		Norfolk		Ralstonia solanacearum	0.25777811	52.602347											
+YO364	364		21802385			Water		2018	Europe	UK		Norfolk		Ralstonia solanacearum	0.20938983	52.579882											
+YO365	365		21812347			Water		2018	Europe	UK		Cambridgeshire		Ralstonia solanacearum	0.20598945	52.570954											
+YO366	366		21812382			Water		2018	Europe	UK		Norfolk		Ralstonia solanacearum	0.23141815	52.577671											
+YO367	367		21813021			Water		2018	Europe	UK		Cambridgeshire		Ralstonia solanacearum	0.1739974	52.580537											
+YO368	368		21813608			Water		2018	Europe	UK		Norfolk		Ralstonia solanacearum	0.25777811	52.602347											
+YO369	369		21813731			Water		2018	Europe	UK		Cambridgeshire		Ralstonia solanacearum	0.11169868	52.461404											
+YO370	33	5519			SASA 125V	Water		Unknown	Europe	UK	Scotland		"Scotland, Lunan Burn"	Ralstonia solanacearum													
+YO371	288	5517			SASA 161P	Water		Unknown	Europe	UK	Scotland		"Scotland, Isla Bridge"	Ralstonia solanacearum													
+YO372	372	"5788, 5687, 1532, 3611"		"NCPPB 325, NCPPB 3973"	" K60, R842"	Tomato		1953	North America	USA		USA	K60	Ralstonia solanacearum													
+YO373	373			NCPPB 0337		Tobacco		1954	North America	USA				Ralstonia solanacearum													
+YO374	374			NCPPB 0338		Tobacco		1954	North America	USA				Ralstonia solanacearum													
+YO375	144	"4372, 5685"		NCPPB 4009	"R300, UW27"	Tobacco		1955	North America	USA				Ralstonia pseudosolanacearum?													
+YO376	376	7422		NCPPB 1580		Tomato		1959	North America	USA	Hawaii			Ralstonia pseudosolanacearum													
+YO377	377	"3472, 5775"		NCPPB 927		Sugarcane		1961	North America	USA			Sugarcane - might vbe new species	Ralstonia sp.													
+YO378	378			NCPPB 1579		Ginger		1961	North America	USA	Hawaii			Ralstonia pseudosolanacearum													
+YO379	379			NCPPB 1581		Strelitzia reginae		1961	North America	USA	Hawaii			Ralstonia sp.													
+YO380	380			NCPPB 4362	UW551	Pelargonium hortorum		2003	North America	USA	Ex Kenya		Host:Pelargonium x hortorum cv. Americana Dark Red; Race3 Biovar 2. Genome sequenced. Host plant originated in Kenya. Cutting raised in USA; The donor reference is UW551	Ralstonia solanacearum													
+YO381	381			NCPPB 3969		Banana			South America	Venezuela				Ralstonia solanacearum													
+YO382	382			NCPPB 0283		Solanum panduraforme		1950	Africa	Zimbabwe				Ralstonia pseudosolanacearum													
+YO383	383			NCPPB 0332		Potato		1954	Africa	Zimbabwe				Ralstonia pseudosolanacearum													
+YO384	384			NCPPB 0505		Comfrey		1956	Africa	Zimbabwe				Ralstonia pseudosolanacearum													
+YO385					T2019S3a	Solanum dulcamara		2019	Europe	UK	Oxfordshire		River Thames trip. Not sequenced.	Ralstonia solanacearum	-1.1857	51.656939											
+YO386					T2019W3(2)4	Water		2019	Europe	UK	Oxfordshire		River Thames trip. Not sequenced.	Ralstonia solanacearum	-1.1857	51.656939											
+YO387					T2019S8a3	Solanum dulcamara		2019	Europe	UK	Oxfordshire		River Thames trip. Not sequenced.	Ralstonia solanacearum	-1.214418	51.640811											
+YO388					T2019W8(3)	Water		2019	Europe	UK	Oxfordshire		River Thames trip. Not sequenced.	Ralstonia solanacearum	-1.214418	51.640811											
+YO389					T2019S11a	Solanum dulcamara		2019	Europe	UK	Oxfordshire		River Thames trip. Not sequenced.	Ralstonia solanacearum	-1.255193	51.648289											
+YO390					T2019W11(2)	Water		2019	Europe	UK	Oxfordshire		River Thames trip. Not sequenced.	Ralstonia solanacearum	-1.255193	51.648289											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											
+																											

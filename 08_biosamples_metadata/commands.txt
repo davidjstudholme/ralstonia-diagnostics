@@ -1,0 +1,26 @@
+### Get all BioSamples as UIDs
+esearch -db biosample -query 'txid3116862[Organism:exp]' |
+    efetch -format uid > biosample_uids.txt
+
+### Count how many UIDs there are
+esearch -db biosample \
+  -query 'txid3116862[Organism:exp]' |
+grep '<Count>'
+
+### Retrieve the BioSamples
+esearch -db biosample \
+  -query 'txid3116862[Organism:exp]' |
+efetch -db biosample -format xml > biosamples.xml
+
+### Count the retrieved BioSamples
+grep -o 'accession="SAM[A-Z]*[0-9]*"' biosamples.xml | wc -l
+grep -o 'accession="SAMN[0-9]*"' biosamples.xml | wc -l
+grep -o 'accession="SAMEA[0-9]*"' biosamples.xml | wc -l
+grep -o 'accession="SAMD[0-9]*"' biosamples.xml | wc -l
+
+### Create a TSV table of metadata for each BioSample => biosamples-from-ncbi.tsv
+perl parse_biosamples.pl
+
+### Get NCBI assemblies for each BioSample => biosample_assemblies.tsv
+perl get_biosample_links.pl
+
