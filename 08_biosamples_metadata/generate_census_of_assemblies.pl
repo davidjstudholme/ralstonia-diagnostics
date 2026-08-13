@@ -25,7 +25,7 @@ my @phytobacexplorer_headings = split /\t/, $header_line;
 ### List the phytobacexplorer metadata headings
 warn "Headings from phytobacexplorer assemblies file:\n";
 foreach my $heading (@phytobacexplorer_headings) {
-    warn "\t$heading\n";
+    #warn "\t$heading\n";
 }
 
 ### Read the phytobacexplorer assemblies
@@ -39,10 +39,14 @@ while (my $readline = <$in_phytobacexplorer>) {
     }
     my $biosample = $heading2datum{'Sample'};
     my $status = $heading2datum{'Status'};
+    my $name = $heading2datum{'Name'};
+    my $comment = $heading2datum{'Comment'};
     my $assembly_accessions = $heading2datum{'Uberstrain'};
     if ($status =~m/assembled/i) {
 	if (defined $biosample) {
 	    $biosample2phytobacexplorer{$biosample}{'assembly_accessions'} .= $assembly_accessions; 
+	    $biosample2phytobacexplorer{$biosample}{'name'} .= $name;
+	    $biosample2phytobacexplorer{$biosample}{'comment'} .= $comment;
 	    $biosample_has_assembly{$biosample} ++;
 	}   
     }
@@ -95,7 +99,9 @@ warn "$count BioSamples have at least one assembly\n";
 foreach my $biosample( sort keys %biosample_has_assembly) {
     my $ncbi_accessions = $biosample2ncbi{$biosample}{'assembly_accessions'};
     my $phytobacexplorer_accessions = $biosample2phytobacexplorer{$biosample}{'assembly_accessions'};
-
+    my $phytobacexplorer_name = $biosample2phytobacexplorer{$biosample}{'name'};
+    my $phytobacexplorer_comment = $biosample2phytobacexplorer{$biosample}{'comment'};
+        
     ### Resolve any undefined values
     if (defined $ncbi_accessions) {
 	# OK
@@ -107,9 +113,37 @@ foreach my $biosample( sort keys %biosample_has_assembly) {
     } else {
 	$phytobacexplorer_accessions = '';
     }
+    if (defined $phytobacexplorer_name) {
+        # OK                                                                                                                                                            
+    } else {
+	$phytobacexplorer_name = '';
+    }
+    if (defined $phytobacexplorer_comment) {
+        # OK
+    } else {
+        $phytobacexplorer_comment = '';
+    }
 
+    
+	
     ### Print the info
-    print "$biosample\t$ncbi_accessions\t$phytobacexplorer_accessions\n";
+    print "$biosample";
+    print "\t";
+
+    print "$ncbi_accessions";
+    print "\t";
+
+    print "$phytobacexplorer_name";
+    print "\t";
+
+    print "$phytobacexplorer_accessions";
+    print "\t";
+
+    print "$phytobacexplorer_comment";
+    print "\t";
+
+    
+    print "\n";
 
 }
 
