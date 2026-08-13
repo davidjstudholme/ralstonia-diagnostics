@@ -162,6 +162,28 @@ foreach my $count (sort {$b<=>$a} keys %count2fields) {
     }
 }
 
+### Print a header line
+print "BioSample";
+print "\t";
+
+print "PhytobacExplorer name";
+print "\t";
+
+print "PhytoBacExplorer Uberstrain";
+print "\t";
+
+print "PhytoBacExplorer comment";
+print "\t";
+
+print "NCBI assembly";
+print "\t";
+
+foreach my $field (@ncbi_metadata_fields) {
+    print "NCBI $field";
+    print "\t";
+}
+print "\n";
+
 ### Print a summary of the assemblies
 foreach my $biosample( sort keys %biosample_has_assembly) {
     my $ncbi_accessions = $biosample2ncbi{$biosample}{'assembly_accessions'};
