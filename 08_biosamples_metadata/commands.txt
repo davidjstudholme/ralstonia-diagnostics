@@ -24,3 +24,6 @@ perl parse_biosamples.pl
 ### Get NCBI assemblies for each BioSample => biosample_assemblies.tsv
 perl get_biosample_links.pl
 
+### Generate table of assemblies in PhytoBacExplorer and/or NCBI
+perl generate_census_of_assemblies.pl  > RSSC-assemblies-13-august-2026.tsv
+
