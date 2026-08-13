@@ -109,7 +109,7 @@ foreach my $biosample( sort keys %biosample_has_assembly) {
     }
 
     ### Print the info
-    warn "$biosample\t$ncbi_accessions\t$phytobacexplorer_accessions\n";
+    print "$biosample\t$ncbi_accessions\t$phytobacexplorer_accessions\n";
 
 }
 
