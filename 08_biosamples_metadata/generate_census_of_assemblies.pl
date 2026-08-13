@@ -32,9 +32,28 @@ foreach my $heading (@biosample_metadata_headings) {
     #warn "\t$heading\n";
 }
 
+### Read the BioSample metadata
+while (my $readline = <$in_biosample_metadata_from_ncbi>) {
+    my %heading2datum;
+    chomp $readline;
+    my @data = split /\t/, $readline;
+    foreach my $heading (@biosample_metadata_headings) {
+        my $datum = shift @data;
+        $heading2datum{$heading} = $datum;
+    }
+    my $biosample = $heading2datum{'biosample'};
+    foreach my $heading (keys %heading2datum) {
+	my $datum =  $heading2datum{$heading};
+	if (defined $datum) {
+	    $biosample_ncbi_metadata{$biosample}{$heading} = $datum;	
+	} else {
+	    $biosample_ncbi_metadata{$biosample}{$heading} = '';
+	}
+    }
+}
+
 ### Close the phytobacexplorer assemblies file for reading
 close $in_biosample_metadata_from_ncbi;
-die;
 
 ### Open the phytobacexplorer assemblies file for reading
 open my $in_phytobacexplorer, '<:encoding(UTF-8)', $assemblies_from_phytobacexplorer
@@ -67,13 +86,14 @@ while (my $readline = <$in_phytobacexplorer>) {
     my $assembly_accessions = $heading2datum{'Uberstrain'};
     if ($status =~m/assembled/i) {
 	if (defined $biosample) {
-	    $biosample2phytobacexplorer{$biosample}{'assembly_accessions'} .= $assembly_accessions; 
-	    $biosample2phytobacexplorer{$biosample}{'name'} .= $name;
-	    $biosample2phytobacexplorer{$biosample}{'comment'} .= $comment;
+	    $biosample2phytobacexplorer{$biosample}{'assembly_accessions'} = $assembly_accessions; 
+	    $biosample2phytobacexplorer{$biosample}{'name'} = $name;
+	    $biosample2phytobacexplorer{$biosample}{'comment'} = $comment;
 	    $biosample_has_assembly{$biosample} ++;
 	}   
     }
 }
+
 ### Close the phytobacexplorer assemblies file for reading 
 close $in_phytobacexplorer;
 
@@ -106,7 +126,7 @@ while (my $readline = <$in_ncbi>) {
     my $assembly_accessions = $heading2datum{'assembly_accessions'};
     if ($has_assembly =~m/yes/i) {
         if (defined $biosample) {
-            $biosample2ncbi{$biosample}{'assembly_accessions'} .= $assembly_accessions;
+            $biosample2ncbi{$biosample}{'assembly_accessions'} = $assembly_accessions;
             $biosample_has_assembly{$biosample} ++;
         }
     }
@@ -117,6 +137,30 @@ close $in_ncbi;
 ### How many BioSamples have at least one assembly?
 my $count = keys %biosample_has_assembly;
 warn "$count BioSamples have at least one assembly\n";
+
+### Generate an (ordered) list of metadata fields, ordered by frequency of occurrence                                                                                
+my %ncbi_metadata_fields;
+my @ncbi_metadata_fields;
+foreach my $biosample (keys %biosample_has_assembly ) {
+    foreach my $field (keys %{ $biosample_ncbi_metadata{$biosample} } ) {
+	if (length $biosample_ncbi_metadata{$biosample}{$field} ) {
+	    $ncbi_metadata_fields{$field}++;
+	}
+    }
+}
+my %count2fields;
+foreach my $field (keys %ncbi_metadata_fields) {
+    my $count =  $ncbi_metadata_fields{$field};
+    $count2fields{$count}{$field}++;
+}
+foreach my $count (sort {$b<=>$a} keys %count2fields) {
+    foreach my $field (keys %{ $count2fields{$count} }) {
+	if ($count > 10) {
+	    warn "'$field'\toccurs $count times\n";
+	    push @ncbi_metadata_fields, $field;
+	}
+    }
+}
 
 ### Print a summary of the assemblies
 foreach my $biosample( sort keys %biosample_has_assembly) {
@@ -146,14 +190,9 @@ foreach my $biosample( sort keys %biosample_has_assembly) {
     } else {
         $phytobacexplorer_comment = '';
     }
-
     
-	
     ### Print the info
     print "$biosample";
-    print "\t";
-
-    print "$ncbi_accessions";
     print "\t";
 
     print "$phytobacexplorer_name";
@@ -164,9 +203,16 @@ foreach my $biosample( sort keys %biosample_has_assembly) {
 
     print "$phytobacexplorer_comment";
     print "\t";
-
     
-    print "\n";
+    print "$ncbi_accessions";
+    print "\t";
 
+    foreach my $field (@ncbi_metadata_fields) {
+	if (defined $biosample_ncbi_metadata{$biosample}{$field}) {
+	    print "$biosample_ncbi_metadata{$biosample}{$field}";
+	}
+	print "\t";
+    }
+    print "\n";
 }
 
