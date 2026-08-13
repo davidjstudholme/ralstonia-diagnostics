@@ -5,13 +5,36 @@ use warnings;
 
 my $assemblies_from_ncbi  = 'biosample_assemblies.tsv';
 my $assemblies_from_phytobacexplorer = 'phytobacexplorer-13-aug-2026.tsv';
+my $biosample_metadata_from_ncbi = 'biosamples-from-ncbi.tsv';
+
 
 warn "Getting NCBI genome assemblies from file '$assemblies_from_ncbi'\n";
 warn "Getting PhytoBacExplorer assemblies from file '$assemblies_from_phytobacexplorer'\n";
+warn "Getting NCBI BioSample data from file '$biosample_metadata_from_ncbi'\n"; 
 
 my %biosample_has_assembly;
 my %biosample2phytobacexplorer;
 my %biosample2ncbi;
+my %biosample_ncbi_metadata;
+
+### Open the biosample metadata file for reading
+open my $in_biosample_metadata_from_ncbi, '<:encoding(UTF-8)', $biosample_metadata_from_ncbi
+    or die "Cannot open $assemblies_from_phytobacexplorer: $!";
+
+### Get the header line
+my $header_line = <$in_biosample_metadata_from_ncbi>;
+chomp $header_line;
+my @biosample_metadata_headings = split /\t/, $header_line;
+
+### List the BioSample metadata headings
+warn "Headings from BioSamples metadata file:\n";
+foreach my $heading (@biosample_metadata_headings) {
+    #warn "\t$heading\n";
+}
+
+### Close the phytobacexplorer assemblies file for reading
+close $in_biosample_metadata_from_ncbi;
+die;
 
 ### Open the phytobacexplorer assemblies file for reading
 open my $in_phytobacexplorer, '<:encoding(UTF-8)', $assemblies_from_phytobacexplorer
