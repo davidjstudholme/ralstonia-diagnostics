@@ -259,10 +259,10 @@ foreach my $id (sort {$a<=>$b} keys %ncppb_metadata) {
     print "\t";
     foreach my $biosample (sort keys %{ $matching_biosamples{$id}}) {
 	if (defined  $matching_biosamples{$id}{$biosample}) {
-            #print " $matching_biosamples{$id}{$biosample}";
+            print " $matching_biosamples{$id}{$biosample}";
 	}
     }
 
-    print "\r\n";
+    print "\r";
 }
 
