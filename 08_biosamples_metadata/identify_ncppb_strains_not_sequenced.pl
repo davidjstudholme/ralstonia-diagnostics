@@ -196,7 +196,6 @@ my %matching_biosamples;
 foreach my $id (sort {$a<=>$b} keys %ncppb_metadata) {
     if ($id =~ m/^\d+$/) {
 	warn "\nChecking NCPPB $id\n";
-	
 	foreach my $biosample (keys %biosample_ncbi_metadata) {
 	    #warn "\tChecking BioSample $biosample\n";
 	    foreach my $field( keys %{$biosample_ncbi_metadata{$biosample}} ) {
@@ -260,7 +259,7 @@ foreach my $id (sort {$a<=>$b} keys %ncppb_metadata) {
     print "\t";
     foreach my $biosample (sort keys %{ $matching_biosamples{$id}}) {
 	if (defined  $matching_biosamples{$id}{$biosample}) {
-            print " $matching_biosamples{$id}{$biosample}";
+            #print " $matching_biosamples{$id}{$biosample}";
 	}
     }
 
