@@ -263,6 +263,6 @@ foreach my $id (sort {$a<=>$b} keys %ncppb_metadata) {
 	}
     }
 
-    print "\n";
+    print "\r\n";
 }
 
