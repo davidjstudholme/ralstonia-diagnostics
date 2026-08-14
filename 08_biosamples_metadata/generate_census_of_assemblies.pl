@@ -18,7 +18,7 @@ my %biosample2ncbi;
 my %biosample_ncbi_metadata;
 
 ### Open the biosample metadata file for reading
-open my $in_biosample_metadata_from_ncbi, '<:encoding(UTF-8)', $biosample_metadata_from_ncbi
+open my $in_biosample_metadata_from_ncbi, '<:encoding(UTF-8):crlf', $biosample_metadata_from_ncbi
     or die "Cannot open $assemblies_from_phytobacexplorer: $!";
 
 ### Get the header line
@@ -56,7 +56,7 @@ while (my $readline = <$in_biosample_metadata_from_ncbi>) {
 close $in_biosample_metadata_from_ncbi;
 
 ### Open the phytobacexplorer assemblies file for reading
-open my $in_phytobacexplorer, '<:encoding(UTF-8)', $assemblies_from_phytobacexplorer
+open my $in_phytobacexplorer, '<:encoding(UTF-8):crlf', $assemblies_from_phytobacexplorer
     or die "Cannot open $assemblies_from_phytobacexplorer: $!";
 
 ### Get the header line
@@ -98,7 +98,7 @@ while (my $readline = <$in_phytobacexplorer>) {
 close $in_phytobacexplorer;
 
 ### Open the NCBI assemblies file for reading
-open my $in_ncbi, '<:encoding(UTF-8)', $assemblies_from_ncbi
+open my $in_ncbi, '<:encoding(UTF-8):crlf', $assemblies_from_ncbi
     or die "Cannot open $assemblies_from_ncbi: $!";
 
 ### Get the header line
